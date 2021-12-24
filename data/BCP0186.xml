@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP186" target="https://www.rfc-editor.org/info/bcp186">
+  <reference anchor="RFC7126" target="https://www.rfc-editor.org/info/rfc7126">
+    <front>
+      <title>Recommendations on Filtering of IPv4 Packets Containing IPv4 Options</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7126"/>
+      <seriesInfo name="BCP" value="186"/>
+      <seriesInfo name="RFC" value="7126"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="F. Gont" initials="F." surname="Gont"/>
+      <author fullname="R. Atkinson" initials="R." surname="Atkinson"/>
+      <author fullname="C. Pignataro" initials="C." surname="Pignataro"/>
+      <date year="2014" month="February" day="1"/>
+      <abstract>
+        <t>This document provides advice on the filtering of IPv4 packets based on the IPv4 options they contain. Additionally, it discusses the operational and interoperability implications of dropping packets based on the IP options they contain.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

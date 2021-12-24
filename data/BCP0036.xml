@@ -1,0 +1,19 @@
+<referencegroup anchor="BCP36" target="https://www.rfc-editor.org/info/bcp36">
+  <reference anchor="RFC2736" target="https://www.rfc-editor.org/info/rfc2736">
+    <front>
+      <title>Guidelines for Writers of RTP Payload Format Specifications</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2736"/>
+      <seriesInfo name="BCP" value="36"/>
+      <seriesInfo name="RFC" value="2736"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="M. Handley" initials="M." surname="Handley"/>
+      <author fullname="C. Perkins" initials="C." surname="Perkins"/>
+      <date year="1999" month="December" day="1"/>
+      <abstract>
+        <t>This document provides general guidelines aimed at assisting the authors of RTP Payload Format specifications in deciding on good formats. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

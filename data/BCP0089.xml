@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP89" target="https://www.rfc-editor.org/info/bcp89">
+  <reference anchor="RFC3819" target="https://www.rfc-editor.org/info/rfc3819">
+    <front>
+      <title>Advice for Internet Subnetwork Designers</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3819"/>
+      <seriesInfo name="BCP" value="89"/>
+      <seriesInfo name="RFC" value="3819"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author role="editor" fullname="P. Karn" initials="P." surname="Karn"/>
+      <author fullname="C. Bormann" initials="C." surname="Bormann"/>
+      <author fullname="G. Fairhurst" initials="G." surname="Fairhurst"/>
+      <author fullname="D. Grossman" initials="D." surname="Grossman"/>
+      <author fullname="R. Ludwig" initials="R." surname="Ludwig"/>
+      <author fullname="J. Mahdavi" initials="J." surname="Mahdavi"/>
+      <author fullname="G. Montenegro" initials="G." surname="Montenegro"/>
+      <author fullname="J. Touch" initials="J." surname="Touch"/>
+      <author fullname="L. Wood" initials="L." surname="Wood"/>
+      <date year="2004" month="July" day="1"/>
+      <abstract>
+        <t>This document provides advice to the designers of digital communication equipment, link-layer protocols, and packet-switched local networks (collectively referred to as subnetworks), who wish to support the Internet protocols but may be unfamiliar with the Internet architecture and the implications of their design choices on the performance and efficiency of the Internet. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

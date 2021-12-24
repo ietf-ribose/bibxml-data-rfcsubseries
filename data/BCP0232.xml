@@ -1,0 +1,22 @@
+<referencegroup anchor="BCP232" target="https://www.rfc-editor.org/info/bcp232">
+  <reference anchor="RFC8932" target="https://www.rfc-editor.org/info/rfc8932">
+    <front>
+      <title>Recommendations for DNS Privacy Service Operators</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8932"/>
+      <seriesInfo name="BCP" value="232"/>
+      <seriesInfo name="RFC" value="8932"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="S. Dickinson" initials="S." surname="Dickinson"/>
+      <author fullname="B. Overeinder" initials="B." surname="Overeinder"/>
+      <author fullname="R. van Rijswijk-Deij" initials="R." surname="van Rijswijk-Deij"/>
+      <author fullname="A. Mankin" initials="A." surname="Mankin"/>
+      <date year="2020" month="October" day="1"/>
+      <abstract>
+        <t>This document presents operational, policy, and security considerations for DNS recursive resolver operators who choose to offer DNS privacy services. With these recommendations, the operator can make deliberate decisions regarding which services to provide, as well as understanding how those decisions and the alternatives impact the privacy of users.</t>
+        <t>This document also presents a non-normative framework to assist writers of a Recursive operator Privacy Statement, analogous to DNS Security Extensions (DNSSEC) Policies and DNSSEC Practice Statements described in RFC 6841.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

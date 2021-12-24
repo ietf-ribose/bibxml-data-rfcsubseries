@@ -1,0 +1,21 @@
+<referencegroup anchor="BCP204" target="https://www.rfc-editor.org/info/bcp204">
+  <reference anchor="RFC7934" target="https://www.rfc-editor.org/info/rfc7934">
+    <front>
+      <title>Host Address Availability Recommendations</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7934"/>
+      <seriesInfo name="BCP" value="204"/>
+      <seriesInfo name="RFC" value="7934"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="L. Colitti" initials="L." surname="Colitti"/>
+      <author fullname="V. Cerf" initials="V." surname="Cerf"/>
+      <author fullname="S. Cheshire" initials="S." surname="Cheshire"/>
+      <author fullname="D. Schinazi" initials="D." surname="Schinazi"/>
+      <date year="2016" month="July" day="1"/>
+      <abstract>
+        <t>This document recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

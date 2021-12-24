@@ -1,0 +1,18 @@
+<referencegroup anchor="BCP112" target="https://www.rfc-editor.org/info/bcp112">
+  <reference anchor="RFC4222" target="https://www.rfc-editor.org/info/rfc4222">
+    <front>
+      <title>Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion Avoidance</title>
+      <seriesInfo name="DOI" value="10.17487/RFC4222"/>
+      <seriesInfo name="BCP" value="112"/>
+      <seriesInfo name="RFC" value="4222"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author role="editor" fullname="G. Choudhury" initials="G." surname="Choudhury"/>
+      <date year="2005" month="October" day="1"/>
+      <abstract>
+        <t>This document recommends methods that are intended to improve the scalability and stability of large networks using Open Shortest Path First (OSPF) Version 2 protocol. The methods include processing OSPF Hellos and Link State Advertisement (LSA) Acknowledgments at a higher priority compared to other OSPF packets, and other congestion avoidance procedures. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

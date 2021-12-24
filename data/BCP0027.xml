@@ -1,0 +1,21 @@
+<referencegroup anchor="BCP27" target="https://www.rfc-editor.org/info/bcp27">
+  <reference anchor="RFC2438" target="https://www.rfc-editor.org/info/rfc2438">
+    <front>
+      <title>Advancement of MIB specifications on the IETF Standards Track</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2438"/>
+      <seriesInfo name="BCP" value="27"/>
+      <seriesInfo name="RFC" value="2438"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="M. O'Dell" initials="M." surname="O'Dell"/>
+      <author fullname="H. Alvestrand" initials="H." surname="Alvestrand"/>
+      <author fullname="B. Wijnen" initials="B." surname="Wijnen"/>
+      <author fullname="S. Bradner" initials="S." surname="Bradner"/>
+      <date year="1998" month="October" day="1"/>
+      <abstract>
+        <t>This document specifies the process which the IESG will use to determine if a MIB specification document meets these requirements. It also discusses the rationale for this process. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

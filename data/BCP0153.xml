@@ -1,0 +1,63 @@
+<referencegroup anchor="BCP153" target="https://www.rfc-editor.org/info/bcp153">
+  <reference anchor="RFC6598" target="https://www.rfc-editor.org/info/rfc6598">
+    <front>
+      <title>IANA-Reserved IPv4 Prefix for Shared Address Space</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6598"/>
+      <seriesInfo name="BCP" value="153"/>
+      <seriesInfo name="RFC" value="6598"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="J. Weil" initials="J." surname="Weil"/>
+      <author fullname="V. Kuarsingh" initials="V." surname="Kuarsingh"/>
+      <author fullname="C. Donley" initials="C." surname="Donley"/>
+      <author fullname="C. Liljenstolpe" initials="C." surname="Liljenstolpe"/>
+      <author fullname="M. Azinger" initials="M." surname="Azinger"/>
+      <date year="2012" month="April" day="1"/>
+      <abstract>
+        <t>This document requests the allocation of an IPv4 /10 address block to be used as Shared Address Space to accommodate the needs of Carrier- Grade NAT (CGN) devices. It is anticipated that Service Providers will use this Shared Address Space to number the interfaces that connect CGN devices to Customer Premises Equipment (CPE).</t>
+        <t>Shared Address Space is distinct from RFC 1918 private address space because it is intended for use on Service Provider networks. However, it may be used in a manner similar to RFC 1918 private address space on routing equipment that is able to do address translation across router interfaces when the addresses are identical on two different interfaces. Details are provided in the text of this document.</t>
+        <t>This document details the allocation of an additional special-use IPv4 address block and updates RFC 5735. This memo documents an Internet Best Current Practice.</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC6890" target="https://www.rfc-editor.org/info/rfc6890">
+    <front>
+      <title>Special-Purpose IP Address Registries</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6890"/>
+      <seriesInfo name="BCP" value="153"/>
+      <seriesInfo name="RFC" value="6890"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="M. Cotton" initials="M." surname="Cotton"/>
+      <author fullname="L. Vegoda" initials="L." surname="Vegoda"/>
+      <author role="editor" fullname="R. Bonica" initials="R." surname="Bonica"/>
+      <author fullname="B. Haberman" initials="B." surname="Haberman"/>
+      <date year="2013" month="April" day="1"/>
+      <abstract>
+        <t>This memo reiterates the assignment of an IPv4 address block (192.0.0.0/24) to IANA. It also instructs IANA to restructure its IPv4 and IPv6 Special-Purpose Address Registries. Upon restructuring, the aforementioned registries will record all special-purpose address blocks, maintaining a common set of information regarding each address block.</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC8190" target="https://www.rfc-editor.org/info/rfc8190">
+    <front>
+      <title>Updates to the Special-Purpose IP Address Registries</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8190"/>
+      <seriesInfo name="BCP" value="153"/>
+      <seriesInfo name="RFC" value="8190"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="R. Bonica" initials="R." surname="Bonica"/>
+      <author fullname="M. Cotton" initials="M." surname="Cotton"/>
+      <author fullname="B. Haberman" initials="B." surname="Haberman"/>
+      <author fullname="L. Vegoda" initials="L." surname="Vegoda"/>
+      <date year="2017" month="June" day="1"/>
+      <abstract>
+        <t>This memo updates the IANA IPv4 and IPv6 Special-Purpose Address Registries to address issues raised by the definition of a "global" prefix. It also corrects several errors in registry entries to ensure the integrity of the IANA Special-Purpose Address Registries.</t>
+        <t>This memo updates RFC 6890.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,19 @@
+<referencegroup anchor="BCP158" target="https://www.rfc-editor.org/info/bcp158">
+  <reference anchor="RFC6158" target="https://www.rfc-editor.org/info/rfc6158">
+    <front>
+      <title>RADIUS Design Guidelines</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6158"/>
+      <seriesInfo name="BCP" value="158"/>
+      <seriesInfo name="RFC" value="6158"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author role="editor" fullname="A. DeKok" initials="A." surname="DeKok"/>
+      <author fullname="G. Weber" initials="G." surname="Weber"/>
+      <date year="2011" month="March" day="1"/>
+      <abstract>
+        <t>This document provides guidelines for the design of attributes used by the Remote Authentication Dial In User Service (RADIUS) protocol. It is expected that these guidelines will prove useful to authors and reviewers of future RADIUS attribute specifications, within the IETF as well as other Standards Development Organizations (SDOs). This memo documents an Internet Best Current Practice.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

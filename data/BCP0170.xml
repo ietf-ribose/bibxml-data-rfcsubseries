@@ -1,0 +1,19 @@
+<referencegroup anchor="BCP170" target="https://www.rfc-editor.org/info/bcp170">
+  <reference anchor="RFC6390" target="https://www.rfc-editor.org/info/rfc6390">
+    <front>
+      <title>Guidelines for Considering New Performance Metric Development</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6390"/>
+      <seriesInfo name="BCP" value="170"/>
+      <seriesInfo name="RFC" value="6390"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="A. Clark" initials="A." surname="Clark"/>
+      <author fullname="B. Claise" initials="B." surname="Claise"/>
+      <date year="2011" month="October" day="1"/>
+      <abstract>
+        <t>This document describes a framework and a process for developing Performance Metrics of protocols and applications transported over IETF-specified protocols. These metrics can be used to characterize traffic on live networks and services. This memo documents an Internet Best Current Practice.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

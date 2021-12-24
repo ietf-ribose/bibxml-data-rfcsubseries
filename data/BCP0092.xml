@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP92" target="https://www.rfc-editor.org/info/bcp92">
+  <reference anchor="RFC5742" target="https://www.rfc-editor.org/info/rfc5742">
+    <front>
+      <title>IESG Procedures for Handling of Independent and IRTF Stream Submissions</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5742"/>
+      <seriesInfo name="BCP" value="92"/>
+      <seriesInfo name="RFC" value="5742"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="H. Alvestrand" initials="H." surname="Alvestrand"/>
+      <author fullname="R. Housley" initials="R." surname="Housley"/>
+      <date year="2009" month="December" day="1"/>
+      <abstract>
+        <t>This document describes the procedures used by the IESG for handling documents submitted for RFC publication from the Independent Submission and IRTF streams.</t>
+        <t>This document updates procedures described in RFC 2026 and RFC 3710. This memo documents an Internet Best Current Practice.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

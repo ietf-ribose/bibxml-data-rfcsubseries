@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP217" target="https://www.rfc-editor.org/info/bcp217">
+  <reference anchor="RFC8421" target="https://www.rfc-editor.org/info/rfc8421">
+    <front>
+      <title>Guidelines for Multihomed and IPv4/IPv6 Dual-Stack Interactive Connectivity Establishment (ICE)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8421"/>
+      <seriesInfo name="BCP" value="217"/>
+      <seriesInfo name="RFC" value="8421"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="P. Martinsen" initials="P." surname="Martinsen"/>
+      <author fullname="T. Reddy" initials="T." surname="Reddy"/>
+      <author fullname="P. Patil" initials="P." surname="Patil"/>
+      <date year="2018" month="July" day="1"/>
+      <abstract>
+        <t>This document provides guidelines on how to make Interactive Connectivity Establishment (ICE) conclude faster in multihomed and IPv4/IPv6 dual-stack scenarios where broken paths exist. The provided guidelines are backward compatible with the original ICE specification (see RFC 5245).</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,21 @@
+<referencegroup anchor="BCP148" target="https://www.rfc-editor.org/info/bcp148">
+  <reference anchor="RFC5508" target="https://www.rfc-editor.org/info/rfc5508">
+    <front>
+      <title>NAT Behavioral Requirements for ICMP</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5508"/>
+      <seriesInfo name="BCP" value="148"/>
+      <seriesInfo name="RFC" value="5508"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="P. Srisuresh" initials="P." surname="Srisuresh"/>
+      <author fullname="B. Ford" initials="B." surname="Ford"/>
+      <author fullname="S. Sivakumar" initials="S." surname="Sivakumar"/>
+      <author fullname="S. Guha" initials="S." surname="Guha"/>
+      <date year="2009" month="April" day="1"/>
+      <abstract>
+        <t>This document specifies the behavioral properties required of the Network Address Translator (NAT) devices in conjunction with the Internet Control Message Protocol (ICMP). The objective of this memo is to make NAT devices more predictable and compatible with diverse application protocols that traverse the devices. Companion documents provide behavioral recommendations specific to TCP, UDP, and other protocols. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

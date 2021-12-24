@@ -1,0 +1,19 @@
+<referencegroup anchor="BCP80" target="https://www.rfc-editor.org/info/bcp80">
+  <reference anchor="RFC3681" target="https://www.rfc-editor.org/info/rfc3681">
+    <front>
+      <title>Delegation of E.F.F.3.IP6.ARPA</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3681"/>
+      <seriesInfo name="BCP" value="80"/>
+      <seriesInfo name="RFC" value="3681"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="R. Bush" initials="R." surname="Bush"/>
+      <author fullname="R. Fink" initials="R." surname="Fink"/>
+      <date year="2004" month="January" day="1"/>
+      <abstract>
+        <t>This document discusses the need for delegation of the E.F.F.3.IP6.ARPA DNS zone in order to enable reverse lookups for 6bone addresses, and makes specific recommendations for the process needed to accomplish this.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

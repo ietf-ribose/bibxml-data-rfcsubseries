@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP207" target="https://www.rfc-editor.org/info/bcp207">
+  <reference anchor="RFC8027" target="https://www.rfc-editor.org/info/rfc8027">
+    <front>
+      <title>DNSSEC Roadblock Avoidance</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8027"/>
+      <seriesInfo name="BCP" value="207"/>
+      <seriesInfo name="RFC" value="8027"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="W. Hardaker" initials="W." surname="Hardaker"/>
+      <author fullname="O. Gudmundsson" initials="O." surname="Gudmundsson"/>
+      <author fullname="S. Krishnaswamy" initials="S." surname="Krishnaswamy"/>
+      <date year="2016" month="November" day="1"/>
+      <abstract>
+        <t>This document describes problems that a Validating DNS resolver, stub-resolver, or application might run into within a non-compliant infrastructure. It outlines potential detection and mitigation techniques. The scope of the document is to create a shared approach to detect and overcome network issues that a DNSSEC software/system may face.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

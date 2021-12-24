@@ -1,0 +1,18 @@
+<referencegroup anchor="BCP152" target="https://www.rfc-editor.org/info/bcp152">
+  <reference anchor="RFC5625" target="https://www.rfc-editor.org/info/rfc5625">
+    <front>
+      <title>DNS Proxy Implementation Guidelines</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5625"/>
+      <seriesInfo name="BCP" value="152"/>
+      <seriesInfo name="RFC" value="5625"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="R. Bellis" initials="R." surname="Bellis"/>
+      <date year="2009" month="August" day="1"/>
+      <abstract>
+        <t>This document provides guidelines for the implementation of DNS proxies, as found in broadband gateways and other similar network devices. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP225" target="https://www.rfc-editor.org/info/bcp225">
+  <reference anchor="RFC8725" target="https://www.rfc-editor.org/info/rfc8725">
+    <front>
+      <title>JSON Web Token Best Current Practices</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8725"/>
+      <seriesInfo name="BCP" value="225"/>
+      <seriesInfo name="RFC" value="8725"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="Y. Sheffer" initials="Y." surname="Sheffer"/>
+      <author fullname="D. Hardt" initials="D." surname="Hardt"/>
+      <author fullname="M. Jones" initials="M." surname="Jones"/>
+      <date year="2020" month="February" day="1"/>
+      <abstract>
+        <t>JSON Web Tokens, also known as JWTs, are URL-safe JSON-based security tokens that contain a set of claims that can be signed and/or encrypted. JWTs are being widely used and deployed as a simple security token format in numerous protocols and applications, both in the area of digital identity and in other application areas. This Best Current Practices document updates RFC 7519 to provide actionable guidance leading to secure implementation and deployment of JWTs.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,16 @@
+<referencegroup anchor="BCP62" target="https://www.rfc-editor.org/info/bcp62">
+  <reference anchor="RFC3366" target="https://www.rfc-editor.org/info/rfc3366">
+    <front>
+      <title>Advice to link designers on link Automatic Repeat reQuest (ARQ)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3366"/>
+      <seriesInfo name="BCP" value="62"/>
+      <seriesInfo name="RFC" value="3366"/>
+      <author>
+        <organization abbrev="IETF">Internet Engineering Task Force</organization>
+      </author>
+      <author fullname="G. Fairhurst" initials="G." surname="Fairhurst"/>
+      <author fullname="L. Wood" initials="L." surname="Wood"/>
+      <date year="2002" month="August" day="1"/>
+    </front>
+  </reference>
+</referencegroup>
