@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP218" target="https://www.rfc-editor.org/info/bcp218">
+<referencegroup anchor="BCP0218" target="https://www.rfc-editor.org/info/bcp218">
   <reference anchor="RFC8429" target="https://www.rfc-editor.org/info/rfc8429">
     <front>
       <title>Deprecate Triple-DES (3DES) and RC4 in Kerberos</title>

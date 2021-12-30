@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP20" target="https://www.rfc-editor.org/info/bcp20">
+<referencegroup anchor="BCP0020" target="https://www.rfc-editor.org/info/bcp20">
   <reference anchor="RFC2317" target="https://www.rfc-editor.org/info/rfc2317">
     <front>
       <title>Classless IN-ADDR.ARPA delegation</title>

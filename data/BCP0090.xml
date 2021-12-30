@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP90" target="https://www.rfc-editor.org/info/bcp90">
+<referencegroup anchor="BCP0090" target="https://www.rfc-editor.org/info/bcp90">
   <reference anchor="RFC3864" target="https://www.rfc-editor.org/info/rfc3864">
     <front>
       <title>Registration Procedures for Message Header Fields</title>

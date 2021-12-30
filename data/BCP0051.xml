@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP51" target="https://www.rfc-editor.org/info/bcp51">
+<referencegroup anchor="BCP0051" target="https://www.rfc-editor.org/info/bcp51">
   <reference anchor="RFC5771" target="https://www.rfc-editor.org/info/rfc5771">
     <front>
       <title>IANA Guidelines for IPv4 Multicast Address Assignments</title>

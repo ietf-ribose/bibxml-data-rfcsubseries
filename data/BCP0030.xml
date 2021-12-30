@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP30" target="https://www.rfc-editor.org/info/bcp30">
+<referencegroup anchor="BCP0030" target="https://www.rfc-editor.org/info/bcp30">
   <reference anchor="RFC2505" target="https://www.rfc-editor.org/info/rfc2505">
     <front>
       <title>Anti-Spam Recommendations for SMTP MTAs</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP196" target="https://www.rfc-editor.org/info/bcp196">
+<referencegroup anchor="BCP0196" target="https://www.rfc-editor.org/info/bcp196">
   <reference anchor="RFC7526" target="https://www.rfc-editor.org/info/rfc7526">
     <front>
       <title>Deprecating the Anycast Prefix for 6to4 Relay Routers</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP213" target="https://www.rfc-editor.org/info/bcp213">
+<referencegroup anchor="BCP0213" target="https://www.rfc-editor.org/info/bcp213">
   <reference anchor="RFC8313" target="https://www.rfc-editor.org/info/rfc8313">
     <front>
       <title>Use of Multicast across Inter-domain Peering Points</title>

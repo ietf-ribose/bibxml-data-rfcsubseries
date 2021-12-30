@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP229" target="https://www.rfc-editor.org/info/bcp229">
+<referencegroup anchor="BCP0229" target="https://www.rfc-editor.org/info/bcp229">
   <reference anchor="RFC8815" target="https://www.rfc-editor.org/info/rfc8815">
     <front>
       <title>Deprecating Any-Source Multicast (ASM) for Interdomain Multicast</title>

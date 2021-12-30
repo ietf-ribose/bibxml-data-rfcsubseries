@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP171" target="https://www.rfc-editor.org/info/bcp171">
+<referencegroup anchor="BCP0171" target="https://www.rfc-editor.org/info/bcp171">
   <reference anchor="RFC6441" target="https://www.rfc-editor.org/info/rfc6441">
     <front>
       <title>Time to Remove Filters for Previously Unallocated IPv4 /8s</title>

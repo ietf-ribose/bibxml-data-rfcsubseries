@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP48" target="https://www.rfc-editor.org/info/bcp48">
+<referencegroup anchor="BCP0048" target="https://www.rfc-editor.org/info/bcp48">
   <reference anchor="RFC3150" target="https://www.rfc-editor.org/info/rfc3150">
     <front>
       <title>End-to-end Performance Implications of Slow Links</title>

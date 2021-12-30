@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP26" target="https://www.rfc-editor.org/info/bcp26">
+<referencegroup anchor="BCP0026" target="https://www.rfc-editor.org/info/bcp26">
   <reference anchor="RFC8126" target="https://www.rfc-editor.org/info/rfc8126">
     <front>
       <title>Guidelines for Writing an IANA Considerations Section in RFCs</title>

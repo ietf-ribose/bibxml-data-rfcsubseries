@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP201" target="https://www.rfc-editor.org/info/bcp201">
+<referencegroup anchor="BCP0201" target="https://www.rfc-editor.org/info/bcp201">
   <reference anchor="RFC7696" target="https://www.rfc-editor.org/info/rfc7696">
     <front>
       <title>Guidelines for Cryptographic Algorithm Agility and Selecting Mandatory-to-Implement Algorithms</title>

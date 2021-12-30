@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP217" target="https://www.rfc-editor.org/info/bcp217">
+<referencegroup anchor="BCP0217" target="https://www.rfc-editor.org/info/bcp217">
   <reference anchor="RFC8421" target="https://www.rfc-editor.org/info/rfc8421">
     <front>
       <title>Guidelines for Multihomed and IPv4/IPv6 Dual-Stack Interactive Connectivity Establishment (ICE)</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP206" target="https://www.rfc-editor.org/info/bcp206">
+<referencegroup anchor="BCP0206" target="https://www.rfc-editor.org/info/bcp206">
   <reference anchor="RFC7926" target="https://www.rfc-editor.org/info/rfc7926">
     <front>
       <title>Problem Statement and Architecture for Information Exchange between Interconnected Traffic-Engineered Networks</title>

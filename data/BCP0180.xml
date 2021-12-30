@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP180" target="https://www.rfc-editor.org/info/bcp180">
+<referencegroup anchor="BCP0180" target="https://www.rfc-editor.org/info/bcp180">
   <reference anchor="RFC6853" target="https://www.rfc-editor.org/info/rfc6853">
     <front>
       <title>DHCPv6 Redundancy Deployment Considerations</title>

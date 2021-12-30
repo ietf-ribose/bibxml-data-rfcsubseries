@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP179" target="https://www.rfc-editor.org/info/bcp179">
+<referencegroup anchor="BCP0179" target="https://www.rfc-editor.org/info/bcp179">
   <reference anchor="RFC6649" target="https://www.rfc-editor.org/info/rfc6649">
     <front>
       <title>Deprecate DES, RC4-HMAC-EXP, and Other Weak Cryptographic Algorithms in Kerberos</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP32" target="https://www.rfc-editor.org/info/bcp32">
+<referencegroup anchor="BCP0032" target="https://www.rfc-editor.org/info/bcp32">
   <reference anchor="RFC2606" target="https://www.rfc-editor.org/info/rfc2606">
     <front>
       <title>Reserved Top Level DNS Names</title>

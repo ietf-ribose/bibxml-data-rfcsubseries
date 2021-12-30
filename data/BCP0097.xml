@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP97" target="https://www.rfc-editor.org/info/bcp97">
+<referencegroup anchor="BCP0097" target="https://www.rfc-editor.org/info/bcp97">
   <reference anchor="RFC3967" target="https://www.rfc-editor.org/info/rfc3967">
     <front>
       <title>Clarifying when Standards Track Documents may Refer Normatively to Documents at a Lower Level</title>

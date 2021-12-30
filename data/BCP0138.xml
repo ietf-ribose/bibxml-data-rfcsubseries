@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP138" target="https://www.rfc-editor.org/info/bcp138">
+<referencegroup anchor="BCP0138" target="https://www.rfc-editor.org/info/bcp138">
   <reference anchor="RFC5248" target="https://www.rfc-editor.org/info/rfc5248">
     <front>
       <title>A Registry for SMTP Enhanced Mail System Status Codes</title>

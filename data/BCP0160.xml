@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP160" target="https://www.rfc-editor.org/info/bcp160">
+<referencegroup anchor="BCP0160" target="https://www.rfc-editor.org/info/bcp160">
   <reference anchor="RFC6280" target="https://www.rfc-editor.org/info/rfc6280">
     <front>
       <title>An Architecture for Location and Location Privacy in Internet Applications</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP101" target="https://www.rfc-editor.org/info/bcp101">
+<referencegroup anchor="BCP0101" target="https://www.rfc-editor.org/info/bcp101">
   <reference anchor="RFC8711" target="https://www.rfc-editor.org/info/rfc8711">
     <front>
       <title>Structure of the IETF Administrative Support Activity, Version 2.0</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP140" target="https://www.rfc-editor.org/info/bcp140">
+<referencegroup anchor="BCP0140" target="https://www.rfc-editor.org/info/bcp140">
   <reference anchor="RFC5358" target="https://www.rfc-editor.org/info/rfc5358">
     <front>
       <title>Preventing Use of Recursive Nameservers in Reflector Attacks</title>

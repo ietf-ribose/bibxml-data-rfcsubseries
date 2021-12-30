@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP109" target="https://www.rfc-editor.org/info/bcp109">
+<referencegroup anchor="BCP0109" target="https://www.rfc-editor.org/info/bcp109">
   <reference anchor="RFC4159" target="https://www.rfc-editor.org/info/rfc4159">
     <front>
       <title>Deprecation of "ip6.int"</title>

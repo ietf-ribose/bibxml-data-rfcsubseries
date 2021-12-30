@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP234" target="https://www.rfc-editor.org/info/bcp234">
+<referencegroup anchor="BCP0234" target="https://www.rfc-editor.org/info/bcp234">
   <reference anchor="RFC9096" target="https://www.rfc-editor.org/info/rfc9096">
     <front>
       <title>Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events</title>

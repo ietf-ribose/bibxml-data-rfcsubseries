@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP186" target="https://www.rfc-editor.org/info/bcp186">
+<referencegroup anchor="BCP0186" target="https://www.rfc-editor.org/info/bcp186">
   <reference anchor="RFC7126" target="https://www.rfc-editor.org/info/rfc7126">
     <front>
       <title>Recommendations on Filtering of IPv4 Packets Containing IPv4 Options</title>

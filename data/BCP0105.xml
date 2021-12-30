@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP105" target="https://www.rfc-editor.org/info/bcp105">
+<referencegroup anchor="BCP0105" target="https://www.rfc-editor.org/info/bcp105">
   <reference anchor="RFC4085" target="https://www.rfc-editor.org/info/rfc4085">
     <front>
       <title>Embedding Globally-Routable Internet Addresses Considered Harmful</title>

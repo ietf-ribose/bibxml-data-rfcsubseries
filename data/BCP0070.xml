@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP70" target="https://www.rfc-editor.org/info/bcp70">
+<referencegroup anchor="BCP0070" target="https://www.rfc-editor.org/info/bcp70">
   <reference anchor="RFC3470" target="https://www.rfc-editor.org/info/rfc3470">
     <front>
       <title>Guidelines for the Use of Extensible Markup Language (XML) within IETF Protocols</title>

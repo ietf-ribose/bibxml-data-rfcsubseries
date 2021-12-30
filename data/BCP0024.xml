@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP24" target="https://www.rfc-editor.org/info/bcp24">
+<referencegroup anchor="BCP0024" target="https://www.rfc-editor.org/info/bcp24">
   <reference anchor="RFC2379" target="https://www.rfc-editor.org/info/rfc2379">
     <front>
       <title>RSVP over ATM Implementation Guidelines</title>

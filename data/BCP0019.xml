@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP19" target="https://www.rfc-editor.org/info/bcp19">
+<referencegroup anchor="BCP0019" target="https://www.rfc-editor.org/info/bcp19">
   <reference anchor="RFC2978" target="https://www.rfc-editor.org/info/rfc2978">
     <front>
       <title>IANA Charset Registration Procedures</title>

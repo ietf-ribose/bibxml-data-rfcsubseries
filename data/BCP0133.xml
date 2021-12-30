@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP133" target="https://www.rfc-editor.org/info/bcp133">
+<referencegroup anchor="BCP0133" target="https://www.rfc-editor.org/info/bcp133">
   <reference anchor="RFC5033" target="https://www.rfc-editor.org/info/rfc5033">
     <front>
       <title>Specifying New Congestion Control Algorithms</title>

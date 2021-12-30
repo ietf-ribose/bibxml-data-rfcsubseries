@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP89" target="https://www.rfc-editor.org/info/bcp89">
+<referencegroup anchor="BCP0089" target="https://www.rfc-editor.org/info/bcp89">
   <reference anchor="RFC3819" target="https://www.rfc-editor.org/info/rfc3819">
     <front>
       <title>Advice for Internet Subnetwork Designers</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP165" target="https://www.rfc-editor.org/info/bcp165">
+<referencegroup anchor="BCP0165" target="https://www.rfc-editor.org/info/bcp165">
   <reference anchor="RFC6335" target="https://www.rfc-editor.org/info/rfc6335">
     <front>
       <title>Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry</title>

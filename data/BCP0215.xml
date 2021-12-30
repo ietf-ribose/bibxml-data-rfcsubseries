@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP215" target="https://www.rfc-editor.org/info/bcp215">
+<referencegroup anchor="BCP0215" target="https://www.rfc-editor.org/info/bcp215">
   <reference anchor="RFC8340" target="https://www.rfc-editor.org/info/rfc8340">
     <front>
       <title>YANG Tree Diagrams</title>

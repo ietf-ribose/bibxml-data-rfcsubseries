@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP86" target="https://www.rfc-editor.org/info/bcp86">
+<referencegroup anchor="BCP0086" target="https://www.rfc-editor.org/info/bcp86">
   <reference anchor="RFC3766" target="https://www.rfc-editor.org/info/rfc3766">
     <front>
       <title>Determining Strengths For Public Keys Used For Exchanging Symmetric Keys</title>

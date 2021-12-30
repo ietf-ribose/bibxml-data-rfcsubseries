@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP46" target="https://www.rfc-editor.org/info/bcp46">
+<referencegroup anchor="BCP0046" target="https://www.rfc-editor.org/info/bcp46">
   <reference anchor="RFC3013" target="https://www.rfc-editor.org/info/rfc3013">
     <front>
       <title>Recommended Internet Service Provider Security Services and Procedures</title>

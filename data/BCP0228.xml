@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP228" target="https://www.rfc-editor.org/info/bcp228">
+<referencegroup anchor="BCP0228" target="https://www.rfc-editor.org/info/bcp228">
   <reference anchor="RFC8862" target="https://www.rfc-editor.org/info/rfc8862">
     <front>
       <title>Best Practices for Securing RTP Media Signaled with SIP</title>

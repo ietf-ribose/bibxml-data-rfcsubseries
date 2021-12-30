@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP214" target="https://www.rfc-editor.org/info/bcp214">
+<referencegroup anchor="BCP0214" target="https://www.rfc-editor.org/info/bcp214">
   <reference anchor="RFC8327" target="https://www.rfc-editor.org/info/rfc8327">
     <front>
       <title>Mitigating the Negative Impact of Maintenance through BGP Session Culling</title>

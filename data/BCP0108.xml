@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP108" target="https://www.rfc-editor.org/info/bcp108">
+<referencegroup anchor="BCP0108" target="https://www.rfc-editor.org/info/bcp108">
   <reference anchor="RFC4148" target="https://www.rfc-editor.org/info/rfc4148">
     <front>
       <title>IP Performance Metrics (IPPM) Metrics Registry</title>

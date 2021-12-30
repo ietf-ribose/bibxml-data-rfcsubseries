@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP233" target="https://www.rfc-editor.org/info/bcp233">
+<referencegroup anchor="BCP0233" target="https://www.rfc-editor.org/info/bcp233">
   <reference anchor="RFC8961" target="https://www.rfc-editor.org/info/rfc8961">
     <front>
       <title>Requirements for Time-Based Loss Detection</title>

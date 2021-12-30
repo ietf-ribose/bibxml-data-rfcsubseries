@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP155" target="https://www.rfc-editor.org/info/bcp155">
+<referencegroup anchor="BCP0155" target="https://www.rfc-editor.org/info/bcp155">
   <reference anchor="RFC5855" target="https://www.rfc-editor.org/info/rfc5855">
     <front>
       <title>Nameservers for IPv4 and IPv6 Reverse Zones</title>

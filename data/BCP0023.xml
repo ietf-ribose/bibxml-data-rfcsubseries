@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP23" target="https://www.rfc-editor.org/info/bcp23">
+<referencegroup anchor="BCP0023" target="https://www.rfc-editor.org/info/bcp23">
   <reference anchor="RFC2365" target="https://www.rfc-editor.org/info/rfc2365">
     <front>
       <title>Administratively Scoped IP Multicast</title>

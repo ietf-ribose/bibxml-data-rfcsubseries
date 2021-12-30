@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP100" target="https://www.rfc-editor.org/info/bcp100">
+<referencegroup anchor="BCP0100" target="https://www.rfc-editor.org/info/bcp100">
   <reference anchor="RFC7120" target="https://www.rfc-editor.org/info/rfc7120">
     <front>
       <title>Early IANA Allocation of Standards Track Code Points</title>

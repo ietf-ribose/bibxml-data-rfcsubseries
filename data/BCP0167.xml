@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP167" target="https://www.rfc-editor.org/info/bcp167">
+<referencegroup anchor="BCP0167" target="https://www.rfc-editor.org/info/bcp167">
   <reference anchor="RFC6377" target="https://www.rfc-editor.org/info/rfc6377">
     <front>
       <title>DomainKeys Identified Mail (DKIM) and Mailing Lists</title>

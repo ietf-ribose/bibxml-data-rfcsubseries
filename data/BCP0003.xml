@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP3" target="https://www.rfc-editor.org/info/bcp3">
+<referencegroup anchor="BCP0003" target="https://www.rfc-editor.org/info/bcp3">
   <reference anchor="RFC1915" target="https://www.rfc-editor.org/info/rfc1915">
     <front>
       <title>Variance for The PPP Compression Control Protocol and The PPP Encryption Control Protocol</title>

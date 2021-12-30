@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP64" target="https://www.rfc-editor.org/info/bcp64">
+<referencegroup anchor="BCP0064" target="https://www.rfc-editor.org/info/bcp64">
   <reference anchor="RFC4520" target="https://www.rfc-editor.org/info/rfc4520">
     <front>
       <title>Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP)</title>

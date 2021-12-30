@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP37" target="https://www.rfc-editor.org/info/bcp37">
+<referencegroup anchor="BCP0037" target="https://www.rfc-editor.org/info/bcp37">
   <reference anchor="RFC2780" target="https://www.rfc-editor.org/info/rfc2780">
     <front>
       <title>IANA Allocation Guidelines For Values In the Internet Protocol and Related Headers</title>

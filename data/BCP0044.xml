@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP44" target="https://www.rfc-editor.org/info/bcp44">
+<referencegroup anchor="BCP0044" target="https://www.rfc-editor.org/info/bcp44">
   <reference anchor="RFC2964" target="https://www.rfc-editor.org/info/rfc2964">
     <front>
       <title>Use of HTTP State Management</title>

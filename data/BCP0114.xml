@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP114" target="https://www.rfc-editor.org/info/bcp114">
+<referencegroup anchor="BCP0114" target="https://www.rfc-editor.org/info/bcp114">
   <reference anchor="RFC4384" target="https://www.rfc-editor.org/info/rfc4384">
     <front>
       <title>BGP Communities for Data Collection</title>

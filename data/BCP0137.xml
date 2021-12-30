@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP137" target="https://www.rfc-editor.org/info/bcp137">
+<referencegroup anchor="BCP0137" target="https://www.rfc-editor.org/info/bcp137">
   <reference anchor="RFC5137" target="https://www.rfc-editor.org/info/rfc5137">
     <front>
       <title>ASCII Escaping of Unicode Characters</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP131" target="https://www.rfc-editor.org/info/bcp131">
+<referencegroup anchor="BCP0131" target="https://www.rfc-editor.org/info/bcp131">
   <reference anchor="RFC4961" target="https://www.rfc-editor.org/info/rfc4961">
     <front>
       <title>Symmetric RTP / RTP Control Protocol (RTCP)</title>

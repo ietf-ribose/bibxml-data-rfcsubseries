@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP203" target="https://www.rfc-editor.org/info/bcp203">
+<referencegroup anchor="BCP0203" target="https://www.rfc-editor.org/info/bcp203">
   <reference anchor="RFC7803" target="https://www.rfc-editor.org/info/rfc7803">
     <front>
       <title>Changing the Registration Policy for the NETCONF Capability URNs Registry</title>

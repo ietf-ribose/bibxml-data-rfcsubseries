@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP83" target="https://www.rfc-editor.org/info/bcp83">
+<referencegroup anchor="BCP0083" target="https://www.rfc-editor.org/info/bcp83">
   <reference anchor="RFC3683" target="https://www.rfc-editor.org/info/rfc3683">
     <front>
       <title>A Practice for Revoking Posting Rights to IETF Mailing Lists</title>

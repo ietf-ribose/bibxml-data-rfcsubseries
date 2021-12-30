@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP130" target="https://www.rfc-editor.org/info/bcp130">
+<referencegroup anchor="BCP0130" target="https://www.rfc-editor.org/info/bcp130">
   <reference anchor="RFC4940" target="https://www.rfc-editor.org/info/rfc4940">
     <front>
       <title>IANA Considerations for OSPF</title>

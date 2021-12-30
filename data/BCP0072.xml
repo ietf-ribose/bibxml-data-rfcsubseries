@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP72" target="https://www.rfc-editor.org/info/bcp72">
+<referencegroup anchor="BCP0072" target="https://www.rfc-editor.org/info/bcp72">
   <reference anchor="RFC3552" target="https://www.rfc-editor.org/info/rfc3552">
     <front>
       <title>Guidelines for Writing RFC Text on Security Considerations</title>

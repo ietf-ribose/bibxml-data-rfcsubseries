@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP183" target="https://www.rfc-editor.org/info/bcp183">
+<referencegroup anchor="BCP0183" target="https://www.rfc-editor.org/info/bcp183">
   <reference anchor="RFC6963" target="https://www.rfc-editor.org/info/rfc6963">
     <front>
       <title>A Uniform Resource Name (URN) Namespace for Examples</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP209" target="https://www.rfc-editor.org/info/bcp209">
+<referencegroup anchor="BCP0209" target="https://www.rfc-editor.org/info/bcp209">
   <reference anchor="RFC8109" target="https://www.rfc-editor.org/info/rfc8109">
     <front>
       <title>Initializing a DNS Resolver with Priming Queries</title>

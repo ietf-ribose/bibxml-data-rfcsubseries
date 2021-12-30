@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP170" target="https://www.rfc-editor.org/info/bcp170">
+<referencegroup anchor="BCP0170" target="https://www.rfc-editor.org/info/bcp170">
   <reference anchor="RFC6390" target="https://www.rfc-editor.org/info/rfc6390">
     <front>
       <title>Guidelines for Considering New Performance Metric Development</title>

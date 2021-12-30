@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP33" target="https://www.rfc-editor.org/info/bcp33">
+<referencegroup anchor="BCP0033" target="https://www.rfc-editor.org/info/bcp33">
   <reference anchor="RFC2611" target="https://www.rfc-editor.org/info/rfc2611">
     <front>
       <title>URN Namespace Definition Mechanisms</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP220" target="https://www.rfc-editor.org/info/bcp220">
+<referencegroup anchor="BCP0220" target="https://www.rfc-editor.org/info/bcp220">
   <reference anchor="RFC8504" target="https://www.rfc-editor.org/info/rfc8504">
     <front>
       <title>IPv6 Node Requirements</title>

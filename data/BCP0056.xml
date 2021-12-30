@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP56" target="https://www.rfc-editor.org/info/bcp56">
+<referencegroup anchor="BCP0056" target="https://www.rfc-editor.org/info/bcp56">
   <reference anchor="RFC3205" target="https://www.rfc-editor.org/info/rfc3205">
     <front>
       <title>On the use of HTTP as a Substrate</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP4" target="https://www.rfc-editor.org/info/bcp4">
+<referencegroup anchor="BCP0004" target="https://www.rfc-editor.org/info/bcp4">
   <reference anchor="RFC1917" target="https://www.rfc-editor.org/info/rfc1917">
     <front>
       <title>An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA</title>

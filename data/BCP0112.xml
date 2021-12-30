@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP112" target="https://www.rfc-editor.org/info/bcp112">
+<referencegroup anchor="BCP0112" target="https://www.rfc-editor.org/info/bcp112">
   <reference anchor="RFC4222" target="https://www.rfc-editor.org/info/rfc4222">
     <front>
       <title>Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion Avoidance</title>

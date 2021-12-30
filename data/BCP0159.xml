@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP159" target="https://www.rfc-editor.org/info/bcp159">
+<referencegroup anchor="BCP0159" target="https://www.rfc-editor.org/info/bcp159">
   <reference anchor="RFC6191" target="https://www.rfc-editor.org/info/rfc6191">
     <front>
       <title>Reducing the TIME-WAIT State Using TCP Timestamps</title>

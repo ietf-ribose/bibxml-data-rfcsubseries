@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP162" target="https://www.rfc-editor.org/info/bcp162">
+<referencegroup anchor="BCP0162" target="https://www.rfc-editor.org/info/bcp162">
   <reference anchor="RFC6302" target="https://www.rfc-editor.org/info/rfc6302">
     <front>
       <title>Logging Recommendations for Internet-Facing Servers</title>

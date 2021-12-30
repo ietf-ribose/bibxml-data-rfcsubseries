@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP5" target="https://www.rfc-editor.org/info/bcp5">
+<referencegroup anchor="BCP0005" target="https://www.rfc-editor.org/info/bcp5">
   <reference anchor="RFC1918" target="https://www.rfc-editor.org/info/rfc1918">
     <front>
       <title>Address Allocation for Private Internets</title>

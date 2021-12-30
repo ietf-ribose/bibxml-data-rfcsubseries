@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP50" target="https://www.rfc-editor.org/info/bcp50">
+<referencegroup anchor="BCP0050" target="https://www.rfc-editor.org/info/bcp50">
   <reference anchor="RFC3155" target="https://www.rfc-editor.org/info/rfc3155">
     <front>
       <title>End-to-end Performance Implications of Links with Errors</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP85" target="https://www.rfc-editor.org/info/bcp85">
+<referencegroup anchor="BCP0085" target="https://www.rfc-editor.org/info/bcp85">
   <reference anchor="RFC3725" target="https://www.rfc-editor.org/info/rfc3725">
     <front>
       <title>Best Current Practices for Third Party Call Control (3pcc) in the Session Initiation Protocol (SIP)</title>

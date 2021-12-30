@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP139" target="https://www.rfc-editor.org/info/bcp139">
+<referencegroup anchor="BCP0139" target="https://www.rfc-editor.org/info/bcp139">
   <reference anchor="RFC5249" target="https://www.rfc-editor.org/info/rfc5249">
     <front>
       <title>Templates for Internet-Drafts Containing MIB Modules</title>

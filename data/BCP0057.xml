@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP57" target="https://www.rfc-editor.org/info/bcp57">
+<referencegroup anchor="BCP0057" target="https://www.rfc-editor.org/info/bcp57">
   <reference anchor="RFC3228" target="https://www.rfc-editor.org/info/rfc3228">
     <front>
       <title>IANA Considerations for IPv4 Internet Group Management Protocol (IGMP)</title>

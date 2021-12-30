@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP107" target="https://www.rfc-editor.org/info/bcp107">
+<referencegroup anchor="BCP0107" target="https://www.rfc-editor.org/info/bcp107">
   <reference anchor="RFC4107" target="https://www.rfc-editor.org/info/rfc4107">
     <front>
       <title>Guidelines for Cryptographic Key Management</title>

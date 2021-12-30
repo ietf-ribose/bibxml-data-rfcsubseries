@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP35" target="https://www.rfc-editor.org/info/bcp35">
+<referencegroup anchor="BCP0035" target="https://www.rfc-editor.org/info/bcp35">
   <reference anchor="RFC7595" target="https://www.rfc-editor.org/info/rfc7595">
     <front>
       <title>Guidelines and Registration Procedures for URI Schemes</title>

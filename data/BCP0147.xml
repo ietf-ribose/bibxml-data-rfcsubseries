@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP147" target="https://www.rfc-editor.org/info/bcp147">
+<referencegroup anchor="BCP0147" target="https://www.rfc-editor.org/info/bcp147">
   <reference anchor="RFC5407" target="https://www.rfc-editor.org/info/rfc5407">
     <front>
       <title>Example Call Flows of Race Conditions in the Session Initiation Protocol (SIP)</title>

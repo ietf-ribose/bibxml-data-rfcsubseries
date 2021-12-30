@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP230" target="https://www.rfc-editor.org/info/bcp230">
+<referencegroup anchor="BCP0230" target="https://www.rfc-editor.org/info/bcp230">
   <reference anchor="RFC8900" target="https://www.rfc-editor.org/info/rfc8900">
     <front>
       <title>IP Fragmentation Considered Fragile</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP124" target="https://www.rfc-editor.org/info/bcp124">
+<referencegroup anchor="BCP0124" target="https://www.rfc-editor.org/info/bcp124">
   <reference anchor="RFC4774" target="https://www.rfc-editor.org/info/rfc4774">
     <front>
       <title>Specifying Alternate Semantics for the Explicit Congestion Notification (ECN) Field</title>
