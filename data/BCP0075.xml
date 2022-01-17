@@ -13,7 +13,7 @@
       <author fullname="R. Sparks" initials="R." surname="Sparks"/>
       <author fullname="C. Cunningham" initials="C." surname="Cunningham"/>
       <author fullname="K. Summers" initials="K." surname="Summers"/>
-      <date year="2003" month="December" day="1"/>
+      <date year="2003" month="December"/>
       <abstract>
         <t>This document gives examples of Session Initiation Protocol (SIP) call flows. Elements in these call flows include SIP User Agents and Clients, SIP Proxy and Redirect Servers. Scenarios include SIP Registration and SIP session establishment. Call flow diagrams and message details are shown.</t>
       </abstract>

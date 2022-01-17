@@ -10,7 +10,7 @@
       </author>
       <author fullname="M. Handley" initials="M." surname="Handley"/>
       <author fullname="C. Perkins" initials="C." surname="Perkins"/>
-      <date year="1999" month="December" day="1"/>
+      <date year="1999" month="December"/>
       <abstract>
         <t>This document provides general guidelines aimed at assisting the authors of RTP Payload Format specifications in deciding on good formats. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

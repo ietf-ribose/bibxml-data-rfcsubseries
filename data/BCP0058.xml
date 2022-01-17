@@ -10,7 +10,7 @@
       </author>
       <author fullname="P. Hoffman" initials="P." surname="Hoffman"/>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
-      <date year="2002" month="February" day="1"/>
+      <date year="2002" month="February"/>
       <abstract>
         <t>This document gives a more concrete definition of "the IETF" as it understood today. Many RFCs refer to "the IETF". Many important IETF documents speak of the IETF as if it were an already-defined entity. However, no IETF document correctly defines what the IETF is. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

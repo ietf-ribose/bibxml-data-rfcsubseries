@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
-      <date year="1998" month="September" day="1"/>
+      <date year="1998" month="September"/>
       <abstract>
         <t>This document describes the guidelines and procedures for formation and operation of IETF working groups. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -25,7 +25,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="M. Wasserman" initials="M." surname="Wasserman"/>
-      <date year="2004" month="October" day="1"/>
+      <date year="2004" month="October"/>
       <abstract>
         <t>This document is an update to RFC 2418 that gives WG chairs explicit responsibility for managing WG mailing lists. In particular, it gives WG chairs the authority to temporarily suspend the mailing list posting privileges of disruptive individuals. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -42,7 +42,7 @@
       </author>
       <author fullname="P. Resnick" initials="P." surname="Resnick"/>
       <author fullname="A. Farrel" initials="A." surname="Farrel"/>
-      <date year="2016" month="March" day="1"/>
+      <date year="2016" month="March"/>
       <abstract>
         <t>IETF Participants must not engage in harassment while at IETF meetings, virtual meetings, or social events or while participating in mailing lists. This document lays out procedures for managing and enforcing this policy.</t>
         <t>This document updates RFC 2418 by defining new working group guidelines and procedures. This document updates RFC 7437 by allowing the Ombudsteam to form a recall petition without further signatories.</t>
@@ -60,7 +60,7 @@
       </author>
       <author fullname="P. Resnick" initials="P." surname="Resnick"/>
       <author fullname="A. Farrel" initials="A." surname="Farrel"/>
-      <date year="2020" month="February" day="1"/>
+      <date year="2020" month="February"/>
       <abstract>
         <t>The IETF Anti-Harassment Procedures are described in RFC 7776.</t>
         <t>The IETF Administrative Oversight Committee (IAOC) has been replaced by the IETF Administration LLC, and the IETF Administrative Director has been replaced by the IETF LLC Executive Director. This document updates RFC 7776 to amend these terms.</t>

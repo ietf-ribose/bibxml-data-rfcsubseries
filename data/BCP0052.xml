@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author role="editor" fullname="G. Huston" initials="G." surname="Huston"/>
-      <date year="2001" month="September" day="1"/>
+      <date year="2001" month="September"/>
       <abstract>
         <t>This memo describes the management and operational requirements for the address and routing parameter area ("arpa") domain. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

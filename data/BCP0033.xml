@@ -12,7 +12,7 @@
       <author fullname="D. van Gulik" initials="D." surname="van Gulik"/>
       <author fullname="R. Iannella" initials="R." surname="Iannella"/>
       <author fullname="P. Faltstrom" initials="P." surname="Faltstrom"/>
-      <date year="1999" month="June" day="1"/>
+      <date year="1999" month="June"/>
       <abstract>
         <t>This document lays out general definitions of and mechanisms for establishing URN "namespaces". This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

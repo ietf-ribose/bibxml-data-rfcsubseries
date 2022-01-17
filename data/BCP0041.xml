@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="S. Floyd" initials="S." surname="Floyd"/>
-      <date year="2000" month="September" day="1"/>
+      <date year="2000" month="September"/>
       <abstract>
         <t>The goal of this document is to explain the need for congestion control in the Internet, and to discuss what constitutes correct congestion control. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -26,7 +26,7 @@
       </author>
       <author fullname="B. Briscoe" initials="B." surname="Briscoe"/>
       <author fullname="J. Manner" initials="J." surname="Manner"/>
-      <date year="2014" month="February" day="1"/>
+      <date year="2014" month="February"/>
       <abstract>
         <t>This document provides recommendations of best current practice for dropping or marking packets using any active queue management (AQM) algorithm, including Random Early Detection (RED), BLUE, Pre- Congestion Notification (PCN), and newer schemes such as CoDel (Controlled Delay) and PIE (Proportional Integral controller Enhanced). We give three strong recommendations: (1) packet size should be taken into account when transports detect and respond to congestion indications, (2) packet size should not be taken into account when network equipment creates congestion signals (marking, dropping), and therefore (3) in the specific case of RED, the byte- mode packet drop variant that drops fewer small packets should not be used. This memo updates RFC 2309 to deprecate deliberate preferential treatment of small packets in AQM algorithms.</t>
       </abstract>

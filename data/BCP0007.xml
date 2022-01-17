@@ -10,7 +10,7 @@
       </author>
       <author fullname="Y. Rekhter" initials="Y." surname="Rekhter"/>
       <author fullname="T. Li" initials="T." surname="Li"/>
-      <date year="1996" month="October" day="1"/>
+      <date year="1996" month="October"/>
       <abstract>
         <t>The purpose of this document is to articulate certain relevant fundamental technical issues that must be considered in formulating unicast address allocation and management policies for the Public Internet, and to provide recommendations with respect to these policies. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

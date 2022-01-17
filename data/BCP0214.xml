@@ -12,7 +12,7 @@
       <author fullname="M. Griswold" initials="M." surname="Griswold"/>
       <author fullname="J. Snijders" initials="J." surname="Snijders"/>
       <author fullname="N. Hilliard" initials="N." surname="Hilliard"/>
-      <date year="2018" month="March" day="1"/>
+      <date year="2018" month="March"/>
       <abstract>
         <t>This document outlines an approach to mitigate the negative impact on networks resulting from maintenance activities. It includes guidance for both IP networks and Internet Exchange Points (IXPs). The approach is to ensure BGP-4 sessions that will be affected by maintenance are forcefully torn down before the actual maintenance activities commence.</t>
       </abstract>

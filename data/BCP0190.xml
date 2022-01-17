@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="M. Nottingham" initials="M." surname="Nottingham"/>
-      <date year="2020" month="June" day="1"/>
+      <date year="2020" month="June"/>
       <abstract>
         <t>Section 1.1.1 of RFC 3986 defines URI syntax as "a federated and extensible naming system wherein each scheme's specification may further restrict the syntax and semantics of identifiers using that scheme." In other words, the structure of a URI is defined by its scheme. While it is common for schemes to further delegate their substructure to the URI's owner, publishing independent standards that mandate particular forms of substructure in URIs is often problematic.</t>
         <t>This document provides guidance on the specification of URI substructure in standards.</t>

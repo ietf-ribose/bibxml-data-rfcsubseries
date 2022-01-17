@@ -11,7 +11,7 @@
       <author fullname="S. Hollenbeck" initials="S." surname="Hollenbeck"/>
       <author fullname="M. Rose" initials="M." surname="Rose"/>
       <author fullname="L. Masinter" initials="L." surname="Masinter"/>
-      <date year="2003" month="January" day="1"/>
+      <date year="2003" month="January"/>
       <abstract>
         <t>The Extensible Markup Language (XML) is a framework for structuring data. While it evolved from Standard Generalized Markup Language (SGML) -- a markup language primarily focused on structuring documents -- XML has evolved to be a widely-used mechanism for representing structured data. There are a wide variety of Internet protocols being developed; many have need for a representation for structured data relevant to their application. There has been much interest in the use of XML as a representation method. This document describes basic XML concepts, analyzes various alternatives in the use of XML, and provides guidelines for the use of XML within IETF standards-track protocols. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

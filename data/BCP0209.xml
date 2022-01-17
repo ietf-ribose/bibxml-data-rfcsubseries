@@ -11,7 +11,7 @@
       <author fullname="P. Koch" initials="P." surname="Koch"/>
       <author fullname="M. Larson" initials="M." surname="Larson"/>
       <author fullname="P. Hoffman" initials="P." surname="Hoffman"/>
-      <date year="2017" month="March" day="1"/>
+      <date year="2017" month="March"/>
       <abstract>
         <t>This document describes the queries that a DNS resolver should emit to initialize its cache. The result is that the resolver gets both a current NS Resource Record Set (RRset) for the root zone and the necessary address information for reaching the root servers.</t>
       </abstract>

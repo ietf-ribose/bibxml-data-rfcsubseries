@@ -10,7 +10,7 @@
       </author>
       <author fullname="W. Denniss" initials="W." surname="Denniss"/>
       <author fullname="J. Bradley" initials="J." surname="Bradley"/>
-      <date year="2017" month="October" day="1"/>
+      <date year="2017" month="October"/>
       <abstract>
         <t>OAuth 2.0 authorization requests from native apps should only be made through external user-agents, primarily the user's browser. This specification details the security and usability reasons why this is the case and how native apps and authorization servers can implement this best practice.</t>
       </abstract>

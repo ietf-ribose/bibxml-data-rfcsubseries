@@ -12,7 +12,7 @@
       <author fullname="V. Cerf" initials="V." surname="Cerf"/>
       <author fullname="S. Cheshire" initials="S." surname="Cheshire"/>
       <author fullname="D. Schinazi" initials="D." surname="Schinazi"/>
-      <date year="2016" month="July" day="1"/>
+      <date year="2016" month="July"/>
       <abstract>
         <t>This document recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so.</t>
       </abstract>

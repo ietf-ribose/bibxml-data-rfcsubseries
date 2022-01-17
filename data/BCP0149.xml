@@ -11,7 +11,7 @@
       <author fullname="R. Sparks" initials="R." surname="Sparks"/>
       <author role="editor" fullname="A. Johnston" initials="A." surname="Johnston"/>
       <author fullname="D. Petrie" initials="D." surname="Petrie"/>
-      <date year="2009" month="June" day="1"/>
+      <date year="2009" month="June"/>
       <abstract>
         <t>This document describes providing Call Transfer capabilities in the Session Initiation Protocol (SIP). SIP extensions such as REFER and Replaces are used to provide a number of transfer services including blind transfer, consultative transfer, and attended transfer. This work is part of the SIP multiparty call control framework. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

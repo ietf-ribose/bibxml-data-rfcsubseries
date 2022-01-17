@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="G. Scott" initials="G." surname="Scott"/>
-      <date year="1998" month="June" day="1"/>
+      <date year="1998" month="June"/>
       <abstract>
         <t>This document is a guide for Internet standard writers. It defines those characteristics that make standards coherent, unambiguous, and easy to interpret. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

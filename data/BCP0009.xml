@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
-      <date year="1996" month="October" day="1"/>
+      <date year="1996" month="October"/>
       <abstract>
         <t>This memo documents the process used by the Internet community for the standardization of protocols and procedures. It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -26,7 +26,7 @@
       </author>
       <author fullname="L. Dusseault" initials="L." surname="Dusseault"/>
       <author fullname="R. Sparks" initials="R." surname="Sparks"/>
-      <date year="2009" month="September" day="1"/>
+      <date year="2009" month="September"/>
       <abstract>
         <t>Advancing a protocol to Draft Standard requires documentation of the interoperation and implementation of the protocol. Historic reports have varied widely in form and level of content and there is little guidance available to new report preparers. This document updates the existing processes and provides more detail on what is appropriate in an interoperability and implementation report. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -44,7 +44,7 @@
       <author fullname="R. Housley" initials="R." surname="Housley"/>
       <author fullname="D. Crocker" initials="D." surname="Crocker"/>
       <author fullname="E. Burger" initials="E." surname="Burger"/>
-      <date year="2011" month="October" day="1"/>
+      <date year="2011" month="October"/>
       <abstract>
         <t>This document updates the Internet Engineering Task Force (IETF) Standards Process defined in RFC 2026. Primarily, it reduces the Standards Process from three Standards Track maturity levels to two. This memo documents an Internet Best Current Practice.</t>
       </abstract>
@@ -60,7 +60,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="P. Resnick" initials="P." surname="Resnick"/>
-      <date year="2013" month="December" day="1"/>
+      <date year="2013" month="December"/>
       <abstract>
         <t>This document updates RFC 2026 to no longer use STD 1 as a summary of "Internet Official Protocol Standards". It obsoletes RFC 5000 and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.</t>
       </abstract>
@@ -78,7 +78,7 @@
       <author fullname="O. Kolkman" initials="O." surname="Kolkman"/>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
       <author fullname="S. Turner" initials="S." surname="Turner"/>
-      <date year="2014" month="January" day="1"/>
+      <date year="2014" month="January"/>
       <abstract>
         <t>RFC 2026 describes the review performed by the Internet Engineering Steering Group (IESG) on IETF Proposed Standard RFCs and characterizes the maturity level of those documents. This document updates RFC 2026 by providing a current and more accurate characterization of Proposed Standards.</t>
       </abstract>
@@ -94,7 +94,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="S. Dawkins" initials="S." surname="Dawkins"/>
-      <date year="2015" month="March" day="1"/>
+      <date year="2015" month="March"/>
       <abstract>
         <t>This document removes a limit on the number of Area Directors who manage an Area in the definition of "IETF Area". This document updates RFC 2026 (BCP 9) and RFC 2418 (BCP 25).</t>
       </abstract>
@@ -111,7 +111,7 @@
       </author>
       <author role="editor" fullname="J. Halpern" initials="J." surname="Halpern"/>
       <author role="editor" fullname="E. Rescorla" initials="E." surname="Rescorla"/>
-      <date year="2020" month="June" day="1"/>
+      <date year="2020" month="June"/>
       <abstract>
         <t>This document requires that the IETF never publish any IETF Stream RFCs without IETF rough consensus. This updates RFC 2026.</t>
       </abstract>

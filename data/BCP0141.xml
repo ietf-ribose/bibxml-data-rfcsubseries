@@ -10,7 +10,7 @@
       </author>
       <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd"/>
       <author fullname="J. Abley" initials="J." surname="Abley"/>
-      <date year="2013" month="October" day="1"/>
+      <date year="2013" month="October"/>
       <abstract>
         <t>Some IETF protocols make use of Ethernet frame formats and IEEE 802 parameters. This document discusses several uses of such parameters in IETF protocols, specifies IANA considerations for assignment of points under the IANA OUI (Organizationally Unique Identifier), and provides some values for use in documentation. This document obsoletes RFC 5342.</t>
       </abstract>

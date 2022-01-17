@@ -10,7 +10,7 @@
       </author>
       <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd"/>
       <author fullname="A. Panitz" initials="A." surname="Panitz"/>
-      <date year="1999" month="June" day="1"/>
+      <date year="1999" month="June"/>
       <abstract>
         <t>To reduce the likelihood of conflict and confusion, a few top level domain names are reserved for use in private testing, as examples in documentation, and the like. In addition, a few second level domain names reserved for use as examples are documented. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

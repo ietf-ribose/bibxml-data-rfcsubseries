@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="R. Bush" initials="R." surname="Bush"/>
-      <date year="2017" month="September" day="1"/>
+      <date year="2017" month="September"/>
       <abstract>
         <t>Deployment of the BGPsec architecture and protocols has many operational considerations. This document attempts to collect and present the most critical and universal. Operational practices are expected to evolve as BGPsec is formalized and initially deployed.</t>
       </abstract>

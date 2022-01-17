@@ -13,7 +13,7 @@
       <author fullname="A. Vedrenne" initials="A." surname="Vedrenne"/>
       <author fullname="P. Merckx" initials="P." surname="Merckx"/>
       <author fullname="T. Telkamp" initials="T." surname="Telkamp"/>
-      <date year="2004" month="May" day="1"/>
+      <date year="2004" month="May"/>
       <abstract>
         <t>This document describes a common practice on how the existing metric of Interior Gateway Protocols (IGP) can be used as an alternative metric to the Traffic Engineering (TE) metric for Constraint Based Routing of MultiProtocol Label Switching (MPLS) Traffic Engineering tunnels. This effectively results in the ability to perform Constraint Based Routing with optimization of one metric (e.g., link bandwidth) for some Traffic Engineering tunnels (e.g., Data Trunks) while optimizing another metric (e.g., propagation delay) for some other tunnels with different requirements (e.g., Voice Trunks). No protocol extensions or modifications are required. This text documents current router implementations and deployment practices. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

@@ -14,7 +14,7 @@
       <author fullname="R. Hinden" initials="R." surname="Hinden"/>
       <author fullname="O. Troan" initials="O." surname="Troan"/>
       <author fullname="F. Gont" initials="F." surname="Gont"/>
-      <date year="2020" month="September" day="1"/>
+      <date year="2020" month="September"/>
       <abstract>
         <t>This document describes IP fragmentation and explains how it introduces fragility to Internet communication.</t>
         <t>This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators.</t>

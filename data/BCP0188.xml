@@ -10,7 +10,7 @@
       </author>
       <author fullname="S. Farrell" initials="S." surname="Farrell"/>
       <author fullname="H. Tschofenig" initials="H." surname="Tschofenig"/>
-      <date year="2014" month="May" day="1"/>
+      <date year="2014" month="May"/>
       <abstract>
         <t>Pervasive monitoring is a technical attack that should be mitigated in the design of IETF protocols, where possible.</t>
       </abstract>

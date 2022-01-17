@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd"/>
-      <date year="2011" month="July" day="1"/>
+      <date year="2011" month="July"/>
       <abstract>
         <t>Some protocols being developed or extended by the IETF make use of the ISO/IEC (International Organization for Standardization / International Electrotechnical Commission) Network Layer Protocol Identifier (NLPID). This document provides NLPID IANA considerations. This memo documents an Internet Best Current Practice.</t>
       </abstract>

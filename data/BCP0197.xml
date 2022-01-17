@@ -10,7 +10,7 @@
       </author>
       <author role="editor" fullname="F. Baker" initials="F." surname="Baker"/>
       <author role="editor" fullname="G. Fairhurst" initials="G." surname="Fairhurst"/>
-      <date year="2015" month="July" day="1"/>
+      <date year="2015" month="July"/>
       <abstract>
         <t>This memo presents recommendations to the Internet community concerning measures to improve and preserve Internet performance. It presents a strong recommendation for testing, standardization, and widespread deployment of active queue management (AQM) in network devices to improve the performance of today's Internet. It also urges a concerted effort of research, measurement, and ultimate deployment of AQM mechanisms to protect the Internet from flows that are not sufficiently responsive to congestion notification.</t>
         <t>Based on 15 years of experience and new research, this document replaces the recommendations of RFC 2309.</t>

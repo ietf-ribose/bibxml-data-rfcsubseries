@@ -10,7 +10,7 @@
       </author>
       <author fullname="M. Andrews" initials="M." surname="Andrews"/>
       <author fullname="R. Bellis" initials="R." surname="Bellis"/>
-      <date year="2020" month="September" day="1"/>
+      <date year="2020" month="September"/>
       <abstract>
         <t>The DNS is a query/response protocol. Failing to respond to queries, or responding incorrectly, causes both immediate operational problems and long-term problems with protocol development.</t>
         <t>This document identifies a number of common kinds of queries to which some servers either fail to respond or respond incorrectly. This document also suggests procedures for zone operators to apply to identify and remediate the problem.</t>

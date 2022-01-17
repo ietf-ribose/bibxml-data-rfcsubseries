@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author role="editor" fullname="C. Heard" initials="C." surname="Heard"/>
-      <date year="2005" month="September" day="1"/>
+      <date year="2005" month="September"/>
       <abstract>
         <t>This memo provides guidelines for authors and reviewers of IETF standards-track specifications containing MIB modules. Applicable portions may be used as a basis for reviews of other MIB documents. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -25,7 +25,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author role="editor" fullname="C. Heard" initials="C." surname="Heard"/>
-      <date year="2007" month="March" day="1"/>
+      <date year="2007" month="March"/>
       <abstract>
         <t>This document updates RFC 4181, "Guidelines for Authors and Reviewers of MIB Documents", to recognize the creation of the IETF Trust. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

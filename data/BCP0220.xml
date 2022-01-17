@@ -11,7 +11,7 @@
       <author fullname="T. Chown" initials="T." surname="Chown"/>
       <author fullname="J. Loughney" initials="J." surname="Loughney"/>
       <author fullname="T. Winters" initials="T." surname="Winters"/>
-      <date year="2019" month="January" day="1"/>
+      <date year="2019" month="January"/>
       <abstract>
         <t>This document defines requirements for IPv6 nodes. It is expected that IPv6 will be deployed in a wide range of devices and situations. Specifying the requirements for IPv6 nodes allows IPv6 to function well and interoperate in a large number of situations and deployments.</t>
         <t>This document obsoletes RFC 6434, and in turn RFC 4294.</t>

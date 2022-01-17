@@ -11,7 +11,7 @@
       <author fullname="J. Durand" initials="J." surname="Durand"/>
       <author fullname="I. Pepelnjak" initials="I." surname="Pepelnjak"/>
       <author fullname="G. Doering" initials="G." surname="Doering"/>
-      <date year="2015" month="February" day="1"/>
+      <date year="2015" month="February"/>
       <abstract>
         <t>The Border Gateway Protocol (BGP) is the protocol almost exclusively used in the Internet to exchange routing information between network domains. Due to this central nature, it is important to understand the security measures that can and should be deployed to prevent accidental or intentional routing disturbances.</t>
         <t>This document describes measures to protect the BGP sessions itself such as Time to Live (TTL), the TCP Authentication Option (TCP-AO), and control-plane filtering. It also describes measures to better control the flow of routing information, using prefix filtering and automation of prefix filters, max-prefix filtering, Autonomous System (AS) path filtering, route flap dampening, and BGP community scrubbing.</t>

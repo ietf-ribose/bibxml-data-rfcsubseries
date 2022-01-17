@@ -12,7 +12,7 @@
       <author fullname="G. Montenegro" initials="G." surname="Montenegro"/>
       <author fullname="M. Kojo" initials="M." surname="Kojo"/>
       <author fullname="V. Magret" initials="V." surname="Magret"/>
-      <date year="2001" month="July" day="1"/>
+      <date year="2001" month="July"/>
       <abstract>
         <t>This document makes performance-related recommendations for users of network paths that traverse "very low bit-rate" links. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

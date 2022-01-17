@@ -11,7 +11,7 @@
       <author fullname="M. Cotton" initials="M." surname="Cotton"/>
       <author fullname="L. Vegoda" initials="L." surname="Vegoda"/>
       <author fullname="D. Meyer" initials="D." surname="Meyer"/>
-      <date year="2010" month="March" day="1"/>
+      <date year="2010" month="March"/>
       <abstract>
         <t>This document provides guidance for the Internet Assigned Numbers Authority (IANA) in assigning IPv4 multicast addresses. It obsoletes RFC 3171 and RFC 3138 and updates RFC 2780. This memo documents an Internet Best Current Practice.</t>
       </abstract>

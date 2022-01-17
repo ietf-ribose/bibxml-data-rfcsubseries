@@ -10,7 +10,7 @@
       </author>
       <author fullname="W. Kumari" initials="W." surname="Kumari"/>
       <author fullname="K. Sriram" initials="K." surname="Sriram"/>
-      <date year="2011" month="December" day="1"/>
+      <date year="2011" month="December"/>
       <abstract>
         <t>This document recommends against the use of the AS_SET and AS_CONFED_SET types of the AS_PATH in BGPv4. This is done to simplify the design and implementation of BGP and to make the semantics of the originator of a route more clear. This will also simplify the design, implementation, and deployment of ongoing work in the Secure Inter-Domain Routing Working Group. This memo documents an Internet Best Current Practice.</t>
       </abstract>

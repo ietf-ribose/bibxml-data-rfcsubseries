@@ -10,7 +10,7 @@
       </author>
       <author fullname="K. Kompella" initials="K." surname="Kompella"/>
       <author fullname="B. Fenner" initials="B." surname="Fenner"/>
-      <date year="2007" month="July" day="1"/>
+      <date year="2007" month="July"/>
       <abstract>
         <t>This memo creates a number of OSPF registries and provides guidance to IANA for assignment of code points within these registries. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

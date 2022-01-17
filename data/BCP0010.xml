@@ -11,7 +11,7 @@
       <author role="editor" fullname="M. Kucherawy" initials="M." surname="Kucherawy"/>
       <author role="editor" fullname="R. Hinden" initials="R." surname="Hinden"/>
       <author role="editor" fullname="J. Livingood" initials="J." surname="Livingood"/>
-      <date year="2020" month="February" day="1"/>
+      <date year="2020" month="February"/>
       <abstract>
         <t>The process by which the members of the IAB and IESG, some Trustees of the IETF Trust, and some Directors of the IETF Administration LLC (IETF LLC) are selected, confirmed, and recalled is specified in this document. This document is based on RFC 7437. Only those updates required to reflect the changes introduced by IETF Administrative Support Activity (IASA) 2.0 have been included. Any other changes will be addressed in future documents.</t>
         <t>This document obsoletes RFC 7437 and RFC 8318.</t>
@@ -28,7 +28,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="B. Leiba" initials="B." surname="Leiba"/>
-      <date year="2020" month="May" day="1"/>
+      <date year="2020" month="May"/>
       <abstract>
         <t>The 2020-2021 Nominating Committee (NomCom) is to be formed between the IETF 107 and IETF 108 meetings, and the issue of eligibility of who can serve on that NomCom needs clarification. This document provides a one-time interpretation of the eligibility rules that is required for the exceptional situation of the cancellation of the in-person IETF 107 meeting. This document only affects the seating of the 2020-2021 NomCom and any rules or processes that relate to NomCom eligibility before IETF 108; it does not set a precedent to be applied in the future.</t>
       </abstract>

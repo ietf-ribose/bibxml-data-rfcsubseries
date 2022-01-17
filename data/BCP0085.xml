@@ -12,7 +12,7 @@
       <author fullname="J. Peterson" initials="J." surname="Peterson"/>
       <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne"/>
       <author fullname="G. Camarillo" initials="G." surname="Camarillo"/>
-      <date year="2004" month="April" day="1"/>
+      <date year="2004" month="April"/>
       <abstract>
         <t>Third party call control refers to the ability of one entity to create a call in which communication is actually between other parties. Third party call control is possible using the mechanisms specified within the Session Initiation Protocol (SIP). However, there are several possible approaches, each with different benefits and drawbacks. This document discusses best current practices for the usage of SIP for third party call control. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

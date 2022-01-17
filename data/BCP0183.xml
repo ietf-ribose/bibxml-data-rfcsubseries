@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre"/>
-      <date year="2013" month="May" day="1"/>
+      <date year="2013" month="May"/>
       <abstract>
         <t>This document defines a Uniform Resource Name (URN) namespace identifier enabling the generation of URNs that are appropriate for use in documentation and in URN-related testing and experimentation.</t>
       </abstract>

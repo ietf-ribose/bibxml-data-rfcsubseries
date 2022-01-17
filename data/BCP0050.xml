@@ -13,7 +13,7 @@
       <author fullname="M. Kojo" initials="M." surname="Kojo"/>
       <author fullname="V. Magret" initials="V." surname="Magret"/>
       <author fullname="N. Vaidya" initials="N." surname="Vaidya"/>
-      <date year="2001" month="August" day="1"/>
+      <date year="2001" month="August"/>
       <abstract>
         <t>This document discusses the specific TCP mechanisms that are problematic in environments with high uncorrected error rates, and discusses what can be done to mitigate the problems without introducing intermediate devices into the connection. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

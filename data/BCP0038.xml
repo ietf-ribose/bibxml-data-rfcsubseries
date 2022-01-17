@@ -10,7 +10,7 @@
       </author>
       <author fullname="P. Ferguson" initials="P." surname="Ferguson"/>
       <author fullname="D. Senie" initials="D." surname="Senie"/>
-      <date year="2000" month="May" day="1"/>
+      <date year="2000" month="May"/>
       <abstract>
         <t>This paper discusses a simple, effective, and straightforward method for using ingress traffic filtering to prohibit DoS (Denial of Service) attacks which use forged IP addresses to be propagated from 'behind' an Internet Service Provider's (ISP) aggregation point. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

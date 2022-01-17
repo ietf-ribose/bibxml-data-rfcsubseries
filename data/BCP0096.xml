@@ -10,7 +10,7 @@
       </author>
       <author fullname="K. Kompella" initials="K." surname="Kompella"/>
       <author fullname="J. Lang" initials="J." surname="Lang"/>
-      <date year="2004" month="October" day="1"/>
+      <date year="2004" month="October"/>
       <abstract>
         <t>This memo specifies procedures for modifying the Resource reSerVation Protocol (RSVP). This memo also lays out new assignment guidelines for number spaces for RSVP messages, object classes, class-types, and sub-objects. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

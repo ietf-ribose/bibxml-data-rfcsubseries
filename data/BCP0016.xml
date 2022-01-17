@@ -12,7 +12,7 @@
       <author fullname="R. Bush" initials="R." surname="Bush"/>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
       <author fullname="M. Patton" initials="M." surname="Patton"/>
-      <date year="1997" month="July" day="1"/>
+      <date year="1997" month="July"/>
       <abstract>
         <t>This document discusses the selection of secondary servers for DNS zones.The number of servers appropriate for a zone is also discussed, and some general secondary server maintenance issues considered. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t>
       </abstract>

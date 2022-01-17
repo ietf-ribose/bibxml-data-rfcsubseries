@@ -10,7 +10,7 @@
       </author>
       <author fullname="D. Meyer" initials="D." surname="Meyer"/>
       <author fullname="P. Lothberg" initials="P." surname="Lothberg"/>
-      <date year="2001" month="September" day="1"/>
+      <date year="2001" month="September"/>
       <abstract>
         <t>This document defines the policy for the use of 233/8 for statically e assigned multicast addresses. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

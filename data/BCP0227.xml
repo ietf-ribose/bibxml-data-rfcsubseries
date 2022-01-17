@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="L. Velvindron" initials="L." surname="Velvindron"/>
-      <date year="2020" month="April" day="1"/>
+      <date year="2020" month="April"/>
       <abstract>
         <t>This document deprecates RC4 in Secure Shell (SSH). Therefore, this document formally moves RFC 4345 to Historic status.</t>
       </abstract>

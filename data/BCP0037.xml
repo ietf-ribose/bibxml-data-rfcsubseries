@@ -10,7 +10,7 @@
       </author>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
       <author fullname="V. Paxson" initials="V." surname="Paxson"/>
-      <date year="2000" month="March" day="1"/>
+      <date year="2000" month="March"/>
       <abstract>
         <t>This memo provides guidance for the IANA to use in assigning parameters for fields in the IPv4, IPv6, ICMP, UDP and TCP protocol headers. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -27,7 +27,7 @@
       </author>
       <author fullname="J. Arkko" initials="J." surname="Arkko"/>
       <author fullname="S. Bradner" initials="S." surname="Bradner"/>
-      <date year="2008" month="February" day="1"/>
+      <date year="2008" month="February"/>
       <abstract>
         <t>This document revises the IANA guidelines for allocating new Protocol field values in IPv4 header. It modifies the rules specified in RFC 2780 by removing the Expert Review option. The change will also affect the allocation of Next Header field values in IPv6. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

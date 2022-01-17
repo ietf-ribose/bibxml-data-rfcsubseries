@@ -11,7 +11,7 @@
       <author role="editor" fullname="D. Thaler" initials="D." surname="Thaler"/>
       <author fullname="T. Hansen" initials="T." surname="Hansen"/>
       <author fullname="T. Hardie" initials="T." surname="Hardie"/>
-      <date year="2015" month="June" day="1"/>
+      <date year="2015" month="June"/>
       <abstract>
         <t>This document updates the guidelines and recommendations, as well as the IANA registration processes, for the definition of Uniform Resource Identifier (URI) schemes. It obsoletes RFC 4395.</t>
       </abstract>

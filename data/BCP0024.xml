@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="L. Berger" initials="L." surname="Berger"/>
-      <date year="1998" month="August" day="1"/>
+      <date year="1998" month="August"/>
       <abstract>
         <t>This memo presents specific implementation guidelines for running RSVP over ATM switched virtual circuits (SVCs). This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

@@ -10,7 +10,7 @@
       </author>
       <author fullname="K. Wolf" initials="K." surname="Wolf"/>
       <author fullname="A. Mayrhofer" initials="A." surname="Mayrhofer"/>
-      <date year="2010" month="March" day="1"/>
+      <date year="2010" month="March"/>
       <abstract>
         <t>This document provides a guideline for creating civic address considerations documents for individual countries, as required by RFC 4776. Furthermore, this document also creates an IANA Registry referring to such address considerations documents and registers such address considerations for Austria. This memo documents an Internet Best Current Practice.</t>
       </abstract>

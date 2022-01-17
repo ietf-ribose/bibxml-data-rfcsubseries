@@ -12,7 +12,7 @@
       <author fullname="J. Tremblay" initials="J." surname="Tremblay"/>
       <author fullname="J. Chen" initials="J." surname="Chen"/>
       <author fullname="T. Mrugalski" initials="T." surname="Mrugalski"/>
-      <date year="2013" month="February" day="1"/>
+      <date year="2013" month="February"/>
       <abstract>
         <t>This document provides information for those wishing to use DHCPv6 to support their deployment of IPv6. In particular, it discusses the provision of semi-redundant DHCPv6 services.</t>
       </abstract>

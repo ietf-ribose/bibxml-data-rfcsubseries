@@ -9,7 +9,7 @@
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
       <author fullname="D. Plonka" initials="D." surname="Plonka"/>
-      <date year="2005" month="June" day="1"/>
+      <date year="2005" month="June"/>
       <abstract>
         <t>This document discourages the practice of embedding references to unique, globally-routable IP addresses in Internet hosts, describes some of the resulting problems, and considers selected alternatives. This document is intended to clarify best current practices in this regard. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

@@ -13,7 +13,7 @@
       <author fullname="Y. Suzuki" initials="Y." surname="Suzuki"/>
       <author fullname="T. Yoshikawa" initials="T." surname="Yoshikawa"/>
       <author fullname="P. Kyzivat" initials="P." surname="Kyzivat"/>
-      <date year="2008" month="December" day="1"/>
+      <date year="2008" month="December"/>
       <abstract>
         <t>This document gives example call flows of race conditions in the Session Initiation Protocol (SIP). Race conditions are inherently confusing and difficult to thwart; this document shows the best practices to handle them. The elements in these call flows include SIP User Agents and SIP Proxy Servers. Call flow diagrams and message details are given. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

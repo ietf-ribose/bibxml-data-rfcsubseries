@@ -10,7 +10,7 @@
       </author>
       <author fullname="C. Groves" initials="C." surname="Groves"/>
       <author fullname="Y. Lin" initials="Y." surname="Lin"/>
-      <date year="2009" month="August" day="1"/>
+      <date year="2009" month="August"/>
       <abstract>
         <t>This document updates the H.248/MEGACO IANA Package registration procedures in order to better describe the Package registration process and to provide a more formal review and feedback process. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

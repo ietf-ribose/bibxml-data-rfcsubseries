@@ -10,7 +10,7 @@
       </author>
       <author fullname="J. Damas" initials="J." surname="Damas"/>
       <author fullname="F. Neves" initials="F." surname="Neves"/>
-      <date year="2008" month="October" day="1"/>
+      <date year="2008" month="October"/>
       <abstract>
         <t>This document describes ways to prevent the use of default configured recursive nameservers as reflectors in Denial of Service (DoS) attacks. It provides recommended configuration as measures to mitigate the attack. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

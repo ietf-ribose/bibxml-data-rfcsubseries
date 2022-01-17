@@ -13,7 +13,7 @@
       <author fullname="D. Karrenberg" initials="D." surname="Karrenberg"/>
       <author fullname="G. J. de Groot" initials="G. J." surname="de Groot"/>
       <author fullname="E. Lear" initials="E." surname="Lear"/>
-      <date year="1996" month="February" day="1"/>
+      <date year="1996" month="February"/>
       <abstract>
         <t>This document describes address allocation for private internets. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>

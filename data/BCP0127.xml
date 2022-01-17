@@ -10,7 +10,7 @@
       </author>
       <author role="editor" fullname="F. Audet" initials="F." surname="Audet"/>
       <author fullname="C. Jennings" initials="C." surname="Jennings"/>
-      <date year="2007" month="January" day="1"/>
+      <date year="2007" month="January"/>
       <abstract>
         <t>This document defines basic terminology for describing different types of Network Address Translation (NAT) behavior when handling Unicast UDP and also defines a set of requirements that would allow many applications, such as multimedia communications or online gaming, to work consistently. Developing NATs that meet this set of requirements will greatly increase the likelihood that these applications will function properly. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
@@ -30,7 +30,7 @@
       <author fullname="S. Miyakawa" initials="S." surname="Miyakawa"/>
       <author fullname="A. Nakagawa" initials="A." surname="Nakagawa"/>
       <author fullname="H. Ashida" initials="H." surname="Ashida"/>
-      <date year="2013" month="April" day="1"/>
+      <date year="2013" month="April"/>
       <abstract>
         <t>This document defines common requirements for Carrier-Grade NATs (CGNs). It updates RFC 4787.</t>
       </abstract>
@@ -50,7 +50,7 @@
       <author role="editor" fullname="M. Boucadair" initials="M." surname="Boucadair"/>
       <author fullname="S. Sivakumar" initials="S." surname="Sivakumar"/>
       <author fullname="K. Naito" initials="K." surname="Naito"/>
-      <date year="2016" month="April" day="1"/>
+      <date year="2016" month="April"/>
       <abstract>
         <t>This document clarifies and updates several requirements of RFCs 4787, 5382, and 5508 based on operational and development experience. The focus of this document is Network Address Translation from IPv4 to IPv4 (NAT44).</t>
         <t>This document updates RFCs 4787, 5382, and 5508.</t>

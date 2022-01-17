@@ -10,7 +10,7 @@
       </author>
       <author fullname="A. Durand" initials="A." surname="Durand"/>
       <author fullname="J. Ihren" initials="J." surname="Ihren"/>
-      <date year="2004" month="September" day="1"/>
+      <date year="2004" month="September"/>
       <abstract>
         <t>This memo provides guidelines and Best Current Practice for operating DNS in a world where queries and responses are carried in a mixed environment of IPv4 and IPv6 networks. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
