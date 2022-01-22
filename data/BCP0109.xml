@@ -2,17 +2,19 @@
   <reference anchor="RFC4159" target="https://www.rfc-editor.org/info/rfc4159">
     <front>
       <title>Deprecation of "ip6.int"</title>
-      <seriesInfo name="DOI" value="10.17487/RFC4159"/>
-      <seriesInfo name="BCP" value="109"/>
-      <seriesInfo name="RFC" value="4159"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="G. Huston" initials="G." surname="Huston"/>
+      <author fullname="G. Huston" initials="G." surname="Huston">
+        <organization/>
+      </author>
       <date year="2005" month="August"/>
       <abstract>
         <t>This document advises of the deprecation of the use of "ip6.int" for Standards Conformant IPv6 implementations. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC4159"/>
+    <seriesInfo name="BCP" value="109"/>
+    <seriesInfo name="RFC" value="4159"/>
   </reference>
 </referencegroup>

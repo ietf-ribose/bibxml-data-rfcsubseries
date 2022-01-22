@@ -2,21 +2,31 @@
   <reference anchor="RFC5382" target="https://www.rfc-editor.org/info/rfc5382">
     <front>
       <title>NAT Behavioral Requirements for TCP</title>
-      <seriesInfo name="DOI" value="10.17487/RFC5382"/>
-      <seriesInfo name="BCP" value="142"/>
-      <seriesInfo name="RFC" value="5382"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author role="editor" fullname="S. Guha" initials="S." surname="Guha"/>
-      <author fullname="K. Biswas" initials="K." surname="Biswas"/>
-      <author fullname="B. Ford" initials="B." surname="Ford"/>
-      <author fullname="S. Sivakumar" initials="S." surname="Sivakumar"/>
-      <author fullname="P. Srisuresh" initials="P." surname="Srisuresh"/>
+      <author role="editor" fullname="S. Guha" initials="S." surname="Guha">
+        <organization/>
+      </author>
+      <author fullname="K. Biswas" initials="K." surname="Biswas">
+        <organization/>
+      </author>
+      <author fullname="B. Ford" initials="B." surname="Ford">
+        <organization/>
+      </author>
+      <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+        <organization/>
+      </author>
+      <author fullname="P. Srisuresh" initials="P." surname="Srisuresh">
+        <organization/>
+      </author>
       <date year="2008" month="October"/>
       <abstract>
         <t>This document defines a set of requirements for NATs that handle TCP that would allow many applications, such as peer-to-peer applications and online games to work consistently. Developing NATs that meet this set of requirements will greatly increase the likelihood that these applications will function properly. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC5382"/>
+    <seriesInfo name="BCP" value="142"/>
+    <seriesInfo name="RFC" value="5382"/>
   </reference>
 </referencegroup>

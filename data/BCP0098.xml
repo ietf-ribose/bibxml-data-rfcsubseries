@@ -2,17 +2,19 @@
   <reference anchor="RFC3968" target="https://www.rfc-editor.org/info/rfc3968">
     <front>
       <title>The Internet Assigned Number Authority (IANA) Header Field Parameter Registry for the Session Initiation Protocol (SIP)</title>
-      <seriesInfo name="DOI" value="10.17487/RFC3968"/>
-      <seriesInfo name="BCP" value="98"/>
-      <seriesInfo name="RFC" value="3968"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="G. Camarillo" initials="G." surname="Camarillo"/>
+      <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+        <organization/>
+      </author>
       <date year="2004" month="December"/>
       <abstract>
         <t>This document creates an Internet Assigned Number Authority (IANA) registry for the Session Initiation Protocol (SIP) header field parameters and parameter values. It also lists the already existing parameters and parameter values to be used as the initial entries for this registry. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC3968"/>
+    <seriesInfo name="BCP" value="98"/>
+    <seriesInfo name="RFC" value="3968"/>
   </reference>
 </referencegroup>

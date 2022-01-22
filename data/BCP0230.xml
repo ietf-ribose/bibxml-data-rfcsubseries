@@ -2,23 +2,35 @@
   <reference anchor="RFC8900" target="https://www.rfc-editor.org/info/rfc8900">
     <front>
       <title>IP Fragmentation Considered Fragile</title>
-      <seriesInfo name="DOI" value="10.17487/RFC8900"/>
-      <seriesInfo name="BCP" value="230"/>
-      <seriesInfo name="RFC" value="8900"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="R. Bonica" initials="R." surname="Bonica"/>
-      <author fullname="F. Baker" initials="F." surname="Baker"/>
-      <author fullname="G. Huston" initials="G." surname="Huston"/>
-      <author fullname="R. Hinden" initials="R." surname="Hinden"/>
-      <author fullname="O. Troan" initials="O." surname="Troan"/>
-      <author fullname="F. Gont" initials="F." surname="Gont"/>
+      <author fullname="R. Bonica" initials="R." surname="Bonica">
+        <organization/>
+      </author>
+      <author fullname="F. Baker" initials="F." surname="Baker">
+        <organization/>
+      </author>
+      <author fullname="G. Huston" initials="G." surname="Huston">
+        <organization/>
+      </author>
+      <author fullname="R. Hinden" initials="R." surname="Hinden">
+        <organization/>
+      </author>
+      <author fullname="O. Troan" initials="O." surname="Troan">
+        <organization/>
+      </author>
+      <author fullname="F. Gont" initials="F." surname="Gont">
+        <organization/>
+      </author>
       <date year="2020" month="September"/>
       <abstract>
         <t>This document describes IP fragmentation and explains how it introduces fragility to Internet communication.</t>
         <t>This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8900"/>
+    <seriesInfo name="BCP" value="230"/>
+    <seriesInfo name="RFC" value="8900"/>
   </reference>
 </referencegroup>

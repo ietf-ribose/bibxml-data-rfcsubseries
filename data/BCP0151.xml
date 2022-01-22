@@ -2,18 +2,22 @@
   <reference anchor="RFC5615" target="https://www.rfc-editor.org/info/rfc5615">
     <front>
       <title>H.248/MEGACO Registration Procedures</title>
-      <seriesInfo name="DOI" value="10.17487/RFC5615"/>
-      <seriesInfo name="BCP" value="151"/>
-      <seriesInfo name="RFC" value="5615"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="C. Groves" initials="C." surname="Groves"/>
-      <author fullname="Y. Lin" initials="Y." surname="Lin"/>
+      <author fullname="C. Groves" initials="C." surname="Groves">
+        <organization/>
+      </author>
+      <author fullname="Y. Lin" initials="Y." surname="Lin">
+        <organization/>
+      </author>
       <date year="2009" month="August"/>
       <abstract>
         <t>This document updates the H.248/MEGACO IANA Package registration procedures in order to better describe the Package registration process and to provide a more formal review and feedback process. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC5615"/>
+    <seriesInfo name="BCP" value="151"/>
+    <seriesInfo name="RFC" value="5615"/>
   </reference>
 </referencegroup>

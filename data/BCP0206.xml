@@ -2,18 +2,27 @@
   <reference anchor="RFC7926" target="https://www.rfc-editor.org/info/rfc7926">
     <front>
       <title>Problem Statement and Architecture for Information Exchange between Interconnected Traffic-Engineered Networks</title>
-      <seriesInfo name="DOI" value="10.17487/RFC7926"/>
-      <seriesInfo name="BCP" value="206"/>
-      <seriesInfo name="RFC" value="7926"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author role="editor" fullname="A. Farrel" initials="A." surname="Farrel"/>
-      <author fullname="J. Drake" initials="J." surname="Drake"/>
-      <author fullname="N. Bitar" initials="N." surname="Bitar"/>
-      <author fullname="G. Swallow" initials="G." surname="Swallow"/>
-      <author fullname="D. Ceccarelli" initials="D." surname="Ceccarelli"/>
-      <author fullname="X. Zhang" initials="X." surname="Zhang"/>
+      <author role="editor" fullname="A. Farrel" initials="A." surname="Farrel">
+        <organization/>
+      </author>
+      <author fullname="J. Drake" initials="J." surname="Drake">
+        <organization/>
+      </author>
+      <author fullname="N. Bitar" initials="N." surname="Bitar">
+        <organization/>
+      </author>
+      <author fullname="G. Swallow" initials="G." surname="Swallow">
+        <organization/>
+      </author>
+      <author fullname="D. Ceccarelli" initials="D." surname="Ceccarelli">
+        <organization/>
+      </author>
+      <author fullname="X. Zhang" initials="X." surname="Zhang">
+        <organization/>
+      </author>
       <date year="2016" month="July"/>
       <abstract>
         <t>In Traffic-Engineered (TE) systems, it is sometimes desirable to establish an end-to-end TE path with a set of constraints (such as bandwidth) across one or more networks from a source to a destination. TE information is the data relating to nodes and TE links that is used in the process of selecting a TE path. TE information is usually only available within a network. We call such a zone of visibility of TE information a domain. An example of a domain may be an IGP area or an Autonomous System.</t>
@@ -21,5 +30,8 @@
         <t>This document sets out the problem statement for the exchange of TE information between interconnected TE networks in support of end-to-end TE path establishment and describes the best current practice architecture to meet this problem statement. For reasons that are explained in this document, this work is limited to simple TE constraints and information that determine TE reachability.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC7926"/>
+    <seriesInfo name="BCP" value="206"/>
+    <seriesInfo name="RFC" value="7926"/>
   </reference>
 </referencegroup>

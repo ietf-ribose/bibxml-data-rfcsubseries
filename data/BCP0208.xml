@@ -2,17 +2,19 @@
   <reference anchor="RFC8084" target="https://www.rfc-editor.org/info/rfc8084">
     <front>
       <title>Network Transport Circuit Breakers</title>
-      <seriesInfo name="DOI" value="10.17487/RFC8084"/>
-      <seriesInfo name="BCP" value="208"/>
-      <seriesInfo name="RFC" value="8084"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="G. Fairhurst" initials="G." surname="Fairhurst"/>
+      <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+        <organization/>
+      </author>
       <date year="2017" month="March"/>
       <abstract>
         <t>This document explains what is meant by the term "network transport Circuit Breaker". It describes the need for Circuit Breakers (CBs) for network tunnels and applications when using non-congestion- controlled traffic and explains where CBs are, and are not, needed. It also defines requirements for building a CB and the expected outcomes of using a CB within the Internet.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8084"/>
+    <seriesInfo name="BCP" value="208"/>
+    <seriesInfo name="RFC" value="8084"/>
   </reference>
 </referencegroup>

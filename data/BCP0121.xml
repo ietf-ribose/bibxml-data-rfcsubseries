@@ -2,19 +2,25 @@
   <reference anchor="RFC4611" target="https://www.rfc-editor.org/info/rfc4611">
     <front>
       <title>Multicast Source Discovery Protocol (MSDP) Deployment Scenarios</title>
-      <seriesInfo name="DOI" value="10.17487/RFC4611"/>
-      <seriesInfo name="BCP" value="121"/>
-      <seriesInfo name="RFC" value="4611"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="M. McBride" initials="M." surname="McBride"/>
-      <author fullname="J. Meylor" initials="J." surname="Meylor"/>
-      <author fullname="D. Meyer" initials="D." surname="Meyer"/>
+      <author fullname="M. McBride" initials="M." surname="McBride">
+        <organization/>
+      </author>
+      <author fullname="J. Meylor" initials="J." surname="Meylor">
+        <organization/>
+      </author>
+      <author fullname="D. Meyer" initials="D." surname="Meyer">
+        <organization/>
+      </author>
       <date year="2006" month="August"/>
       <abstract>
         <t>This document describes best current practices for intra-domain and inter-domain deployment of the Multicast Source Discovery Protocol (MSDP) in conjunction with Protocol Independent Multicast Sparse Mode (PIM-SM). This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC4611"/>
+    <seriesInfo name="BCP" value="121"/>
+    <seriesInfo name="RFC" value="4611"/>
   </reference>
 </referencegroup>

@@ -2,18 +2,22 @@
   <reference anchor="RFC3227" target="https://www.rfc-editor.org/info/rfc3227">
     <front>
       <title>Guidelines for Evidence Collection and Archiving</title>
-      <seriesInfo name="DOI" value="10.17487/RFC3227"/>
-      <seriesInfo name="BCP" value="55"/>
-      <seriesInfo name="RFC" value="3227"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="D. Brezinski" initials="D." surname="Brezinski"/>
-      <author fullname="T. Killalea" initials="T." surname="Killalea"/>
+      <author fullname="D. Brezinski" initials="D." surname="Brezinski">
+        <organization/>
+      </author>
+      <author fullname="T. Killalea" initials="T." surname="Killalea">
+        <organization/>
+      </author>
       <date year="2002" month="February"/>
       <abstract>
         <t>A "security incident" as defined in the "Internet Security Glossary", RFC 2828, is a security-relevant system event in which the system's security policy is disobeyed or otherwise breached. The purpose of this document is to provide System Administrators with guidelines on the collection and archiving of evidence relevant to such a security incident. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC3227"/>
+    <seriesInfo name="BCP" value="55"/>
+    <seriesInfo name="RFC" value="3227"/>
   </reference>
 </referencegroup>

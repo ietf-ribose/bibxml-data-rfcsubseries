@@ -2,15 +2,19 @@
   <reference anchor="RFC2350" target="https://www.rfc-editor.org/info/rfc2350">
     <front>
       <title>Expectations for Computer Security Incident Response</title>
-      <seriesInfo name="DOI" value="10.17487/RFC2350"/>
-      <seriesInfo name="BCP" value="21"/>
-      <seriesInfo name="RFC" value="2350"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="N. Brownlee" initials="N." surname="Brownlee"/>
-      <author fullname="E. Guttman" initials="E." surname="Guttman"/>
+      <author fullname="N. Brownlee" initials="N." surname="Brownlee">
+        <organization/>
+      </author>
+      <author fullname="E. Guttman" initials="E." surname="Guttman">
+        <organization/>
+      </author>
       <date year="1998" month="June"/>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC2350"/>
+    <seriesInfo name="BCP" value="21"/>
+    <seriesInfo name="RFC" value="2350"/>
   </reference>
 </referencegroup>

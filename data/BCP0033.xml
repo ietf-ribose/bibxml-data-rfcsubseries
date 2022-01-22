@@ -2,20 +2,28 @@
   <reference anchor="RFC2611" target="https://www.rfc-editor.org/info/rfc2611">
     <front>
       <title>URN Namespace Definition Mechanisms</title>
-      <seriesInfo name="DOI" value="10.17487/RFC2611"/>
-      <seriesInfo name="BCP" value="33"/>
-      <seriesInfo name="RFC" value="2611"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="L. Daigle" initials="L." surname="Daigle"/>
-      <author fullname="D. van Gulik" initials="D." surname="van Gulik"/>
-      <author fullname="R. Iannella" initials="R." surname="Iannella"/>
-      <author fullname="P. Faltstrom" initials="P." surname="Faltstrom"/>
+      <author fullname="L. Daigle" initials="L." surname="Daigle">
+        <organization/>
+      </author>
+      <author fullname="D. van Gulik" initials="D." surname="van Gulik">
+        <organization/>
+      </author>
+      <author fullname="R. Iannella" initials="R." surname="Iannella">
+        <organization/>
+      </author>
+      <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+        <organization/>
+      </author>
       <date year="1999" month="June"/>
       <abstract>
         <t>This document lays out general definitions of and mechanisms for establishing URN "namespaces". This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC2611"/>
+    <seriesInfo name="BCP" value="33"/>
+    <seriesInfo name="RFC" value="2611"/>
   </reference>
 </referencegroup>

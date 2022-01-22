@@ -2,20 +2,26 @@
   <reference anchor="RFC8499" target="https://www.rfc-editor.org/info/rfc8499">
     <front>
       <title>DNS Terminology</title>
-      <seriesInfo name="DOI" value="10.17487/RFC8499"/>
-      <seriesInfo name="BCP" value="219"/>
-      <seriesInfo name="RFC" value="8499"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="P. Hoffman" initials="P." surname="Hoffman"/>
-      <author fullname="A. Sullivan" initials="A." surname="Sullivan"/>
-      <author fullname="K. Fujiwara" initials="K." surname="Fujiwara"/>
+      <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+        <organization/>
+      </author>
+      <author fullname="A. Sullivan" initials="A." surname="Sullivan">
+        <organization/>
+      </author>
+      <author fullname="K. Fujiwara" initials="K." surname="Fujiwara">
+        <organization/>
+      </author>
       <date year="2019" month="January"/>
       <abstract>
         <t>The Domain Name System (DNS) is defined in literally dozens of different RFCs. The terminology used by implementers and developers of DNS protocols, and by operators of DNS systems, has sometimes changed in the decades since the DNS was first defined. This document gives current definitions for many of the terms used in the DNS in a single document.</t>
         <t>This document obsoletes RFC 7719 and updates RFC 2308.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8499"/>
+    <seriesInfo name="BCP" value="219"/>
+    <seriesInfo name="RFC" value="8499"/>
   </reference>
 </referencegroup>

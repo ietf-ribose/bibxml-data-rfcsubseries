@@ -2,15 +2,18 @@
   <reference anchor="RFC8085" target="https://www.rfc-editor.org/info/rfc8085">
     <front>
       <title>UDP Usage Guidelines</title>
-      <seriesInfo name="DOI" value="10.17487/RFC8085"/>
-      <seriesInfo name="BCP" value="145"/>
-      <seriesInfo name="RFC" value="8085"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="L. Eggert" initials="L." surname="Eggert"/>
-      <author fullname="G. Fairhurst" initials="G." surname="Fairhurst"/>
-      <author fullname="G. Shepherd" initials="G." surname="Shepherd"/>
+      <author fullname="L. Eggert" initials="L." surname="Eggert">
+        <organization/>
+      </author>
+      <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+        <organization/>
+      </author>
+      <author fullname="G. Shepherd" initials="G." surname="Shepherd">
+        <organization/>
+      </author>
       <date year="2017" month="March"/>
       <abstract>
         <t>The User Datagram Protocol (UDP) provides a minimal message-passing transport that has no inherent congestion control mechanisms. This document provides guidelines on the use of UDP for the designers of applications, tunnels, and other protocols that use UDP. Congestion control guidelines are a primary focus, but the document also provides guidance on other topics, including message sizes, reliability, checksums, middlebox traversal, the use of Explicit Congestion Notification (ECN), Differentiated Services Code Points (DSCPs), and ports.</t>
@@ -19,5 +22,8 @@
         <t>This document obsoletes RFC 5405 and adds guidelines for multicast UDP usage.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8085"/>
+    <seriesInfo name="BCP" value="145"/>
+    <seriesInfo name="RFC" value="8085"/>
   </reference>
 </referencegroup>

@@ -2,20 +2,28 @@
   <reference anchor="RFC8815" target="https://www.rfc-editor.org/info/rfc8815">
     <front>
       <title>Deprecating Any-Source Multicast (ASM) for Interdomain Multicast</title>
-      <seriesInfo name="DOI" value="10.17487/RFC8815"/>
-      <seriesInfo name="BCP" value="229"/>
-      <seriesInfo name="RFC" value="8815"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="M. Abrahamsson" initials="M." surname="Abrahamsson"/>
-      <author fullname="T. Chown" initials="T." surname="Chown"/>
-      <author fullname="L. Giuliano" initials="L." surname="Giuliano"/>
-      <author fullname="T. Eckert" initials="T." surname="Eckert"/>
+      <author fullname="M. Abrahamsson" initials="M." surname="Abrahamsson">
+        <organization/>
+      </author>
+      <author fullname="T. Chown" initials="T." surname="Chown">
+        <organization/>
+      </author>
+      <author fullname="L. Giuliano" initials="L." surname="Giuliano">
+        <organization/>
+      </author>
+      <author fullname="T. Eckert" initials="T." surname="Eckert">
+        <organization/>
+      </author>
       <date year="2020" month="August"/>
       <abstract>
         <t>This document recommends deprecation of the use of Any-Source Multicast (ASM) for interdomain multicast. It recommends the use of Source-Specific Multicast (SSM) for interdomain multicast applications and recommends that hosts and routers in these deployments fully support SSM. The recommendations in this document do not preclude the continued use of ASM within a single organization or domain and are especially easy to adopt in existing deployments of intradomain ASM using PIM Sparse Mode (PIM-SM).</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8815"/>
+    <seriesInfo name="BCP" value="229"/>
+    <seriesInfo name="RFC" value="8815"/>
   </reference>
 </referencegroup>

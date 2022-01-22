@@ -2,15 +2,19 @@
   <reference anchor="RFC3372" target="https://www.rfc-editor.org/info/rfc3372">
     <front>
       <title>Session Initiation Protocol for Telephones (SIP-T): Context and Architectures</title>
-      <seriesInfo name="DOI" value="10.17487/RFC3372"/>
-      <seriesInfo name="BCP" value="63"/>
-      <seriesInfo name="RFC" value="3372"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="A. Vemuri" initials="A." surname="Vemuri"/>
-      <author fullname="J. Peterson" initials="J." surname="Peterson"/>
+      <author fullname="A. Vemuri" initials="A." surname="Vemuri">
+        <organization/>
+      </author>
+      <author fullname="J. Peterson" initials="J." surname="Peterson">
+        <organization/>
+      </author>
       <date year="2002" month="September"/>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC3372"/>
+    <seriesInfo name="BCP" value="63"/>
+    <seriesInfo name="RFC" value="3372"/>
   </reference>
 </referencegroup>

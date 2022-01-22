@@ -2,20 +2,28 @@
   <reference anchor="RFC6853" target="https://www.rfc-editor.org/info/rfc6853">
     <front>
       <title>DHCPv6 Redundancy Deployment Considerations</title>
-      <seriesInfo name="DOI" value="10.17487/RFC6853"/>
-      <seriesInfo name="BCP" value="180"/>
-      <seriesInfo name="RFC" value="6853"/>
       <author>
         <organization abbrev="IETF">Internet Engineering Task Force</organization>
       </author>
-      <author fullname="J. Brzozowski" initials="J." surname="Brzozowski"/>
-      <author fullname="J. Tremblay" initials="J." surname="Tremblay"/>
-      <author fullname="J. Chen" initials="J." surname="Chen"/>
-      <author fullname="T. Mrugalski" initials="T." surname="Mrugalski"/>
+      <author fullname="J. Brzozowski" initials="J." surname="Brzozowski">
+        <organization/>
+      </author>
+      <author fullname="J. Tremblay" initials="J." surname="Tremblay">
+        <organization/>
+      </author>
+      <author fullname="J. Chen" initials="J." surname="Chen">
+        <organization/>
+      </author>
+      <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+        <organization/>
+      </author>
       <date year="2013" month="February"/>
       <abstract>
         <t>This document provides information for those wishing to use DHCPv6 to support their deployment of IPv6. In particular, it discusses the provision of semi-redundant DHCPv6 services.</t>
       </abstract>
     </front>
+    <seriesInfo name="DOI" value="10.17487/RFC6853"/>
+    <seriesInfo name="BCP" value="180"/>
+    <seriesInfo name="RFC" value="6853"/>
   </reference>
 </referencegroup>
