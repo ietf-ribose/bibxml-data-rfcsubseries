@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0198" target="https://www.rfc-editor.org/info/bcp198">
+<referencegroup anchor="BCP198" target="https://www.rfc-editor.org/info/bcp198">
   <reference anchor="RFC7608" target="https://www.rfc-editor.org/info/rfc7608">
     <front>
       <title>IPv6 Prefix Length Recommendation for Forwarding</title>

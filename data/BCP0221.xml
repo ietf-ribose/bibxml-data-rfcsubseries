@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0221" target="https://www.rfc-editor.org/info/bcp221">
+<referencegroup anchor="BCP221" target="https://www.rfc-editor.org/info/bcp221">
   <reference anchor="RFC8521" target="https://www.rfc-editor.org/info/rfc8521">
     <front>
       <title>Registration Data Access Protocol (RDAP) Object Tagging</title>

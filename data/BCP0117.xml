@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0117" target="https://www.rfc-editor.org/info/bcp117">
+<referencegroup anchor="BCP117" target="https://www.rfc-editor.org/info/bcp117">
   <reference anchor="RFC4497" target="https://www.rfc-editor.org/info/rfc4497">
     <front>
       <title>Interworking between the Session Initiation Protocol (SIP) and QSIG</title>

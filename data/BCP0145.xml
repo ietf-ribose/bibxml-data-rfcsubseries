@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0145" target="https://www.rfc-editor.org/info/bcp145">
+<referencegroup anchor="BCP145" target="https://www.rfc-editor.org/info/bcp145">
   <reference anchor="RFC8085" target="https://www.rfc-editor.org/info/rfc8085">
     <front>
       <title>UDP Usage Guidelines</title>

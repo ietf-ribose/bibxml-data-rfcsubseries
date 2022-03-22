@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0232" target="https://www.rfc-editor.org/info/bcp232">
+<referencegroup anchor="BCP232" target="https://www.rfc-editor.org/info/bcp232">
   <reference anchor="RFC8932" target="https://www.rfc-editor.org/info/rfc8932">
     <front>
       <title>Recommendations for DNS Privacy Service Operators</title>

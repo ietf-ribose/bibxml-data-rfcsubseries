@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0174" target="https://www.rfc-editor.org/info/bcp174">
+<referencegroup anchor="BCP174" target="https://www.rfc-editor.org/info/bcp174">
   <reference anchor="RFC6489" target="https://www.rfc-editor.org/info/rfc6489">
     <front>
       <title>Certification Authority (CA) Key Rollover in the Resource Public Key Infrastructure (RPKI)</title>

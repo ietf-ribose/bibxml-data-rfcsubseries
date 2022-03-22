@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0110" target="https://www.rfc-editor.org/info/bcp110">
+<referencegroup anchor="BCP110" target="https://www.rfc-editor.org/info/bcp110">
   <reference anchor="RFC4170" target="https://www.rfc-editor.org/info/rfc4170">
     <front>
       <title>Tunneling Multiplexed Compressed RTP (TCRTP)</title>

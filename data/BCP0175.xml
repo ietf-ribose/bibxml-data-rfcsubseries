@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0175" target="https://www.rfc-editor.org/info/bcp175">
+<referencegroup anchor="BCP175" target="https://www.rfc-editor.org/info/bcp175">
   <reference anchor="RFC6557" target="https://www.rfc-editor.org/info/rfc6557">
     <front>
       <title>Procedures for Maintaining the Time Zone Database</title>

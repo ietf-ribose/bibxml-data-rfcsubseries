@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0016" target="https://www.rfc-editor.org/info/bcp16">
+<referencegroup anchor="BCP16" target="https://www.rfc-editor.org/info/bcp16">
   <reference anchor="RFC2182" target="https://www.rfc-editor.org/info/rfc2182">
     <front>
       <title>Selection and Operation of Secondary DNS Servers</title>

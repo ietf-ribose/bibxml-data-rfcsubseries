@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0042" target="https://www.rfc-editor.org/info/bcp42">
+<referencegroup anchor="BCP42" target="https://www.rfc-editor.org/info/bcp42">
   <reference anchor="RFC6895" target="https://www.rfc-editor.org/info/rfc6895">
     <front>
       <title>Domain Name System (DNS) IANA Considerations</title>

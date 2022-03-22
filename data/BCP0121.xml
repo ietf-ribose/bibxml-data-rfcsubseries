@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0121" target="https://www.rfc-editor.org/info/bcp121">
+<referencegroup anchor="BCP121" target="https://www.rfc-editor.org/info/bcp121">
   <reference anchor="RFC4611" target="https://www.rfc-editor.org/info/rfc4611">
     <front>
       <title>Multicast Source Discovery Protocol (MSDP) Deployment Scenarios</title>

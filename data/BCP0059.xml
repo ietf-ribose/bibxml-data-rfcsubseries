@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0059" target="https://www.rfc-editor.org/info/bcp59">
+<referencegroup anchor="BCP59" target="https://www.rfc-editor.org/info/bcp59">
   <reference anchor="RFC3349" target="https://www.rfc-editor.org/info/rfc3349">
     <front>
       <title>A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0178" target="https://www.rfc-editor.org/info/bcp178">
+<referencegroup anchor="BCP178" target="https://www.rfc-editor.org/info/bcp178">
   <reference anchor="RFC6648" target="https://www.rfc-editor.org/info/rfc6648">
     <front>
       <title>Deprecating the "X-" Prefix and Similar Constructs in Application Protocols</title>

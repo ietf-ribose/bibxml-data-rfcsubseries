@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0227" target="https://www.rfc-editor.org/info/bcp227">
+<referencegroup anchor="BCP227" target="https://www.rfc-editor.org/info/bcp227">
   <reference anchor="RFC8758" target="https://www.rfc-editor.org/info/rfc8758">
     <front>
       <title>Deprecating RC4 in Secure Shell (SSH)</title>

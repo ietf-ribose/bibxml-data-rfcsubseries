@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0036" target="https://www.rfc-editor.org/info/bcp36">
+<referencegroup anchor="BCP36" target="https://www.rfc-editor.org/info/bcp36">
   <reference anchor="RFC2736" target="https://www.rfc-editor.org/info/rfc2736">
     <front>
       <title>Guidelines for Writers of RTP Payload Format Specifications</title>

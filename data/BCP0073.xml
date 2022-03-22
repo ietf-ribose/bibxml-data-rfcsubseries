@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0073" target="https://www.rfc-editor.org/info/bcp73">
+<referencegroup anchor="BCP73" target="https://www.rfc-editor.org/info/bcp73">
   <reference anchor="RFC3553" target="https://www.rfc-editor.org/info/rfc3553">
     <front>
       <title>An IETF URN Sub-namespace for Registered Protocol Parameters</title>

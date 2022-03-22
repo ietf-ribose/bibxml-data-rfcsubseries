@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0156" target="https://www.rfc-editor.org/info/bcp156">
+<referencegroup anchor="BCP156" target="https://www.rfc-editor.org/info/bcp156">
   <reference anchor="RFC6056" target="https://www.rfc-editor.org/info/rfc6056">
     <front>
       <title>Recommendations for Transport-Protocol Port Randomization</title>

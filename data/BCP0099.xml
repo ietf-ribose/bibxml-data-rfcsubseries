@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0099" target="https://www.rfc-editor.org/info/bcp99">
+<referencegroup anchor="BCP99" target="https://www.rfc-editor.org/info/bcp99">
   <reference anchor="RFC3969" target="https://www.rfc-editor.org/info/rfc3969">
     <front>
       <title>The Internet Assigned Number Authority (IANA) Uniform Resource Identifier (URI) Parameter Registry for the Session Initiation Protocol (SIP)</title>

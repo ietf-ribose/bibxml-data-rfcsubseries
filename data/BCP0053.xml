@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0053" target="https://www.rfc-editor.org/info/bcp53">
+<referencegroup anchor="BCP53" target="https://www.rfc-editor.org/info/bcp53">
   <reference anchor="RFC3180" target="https://www.rfc-editor.org/info/rfc3180">
     <front>
       <title>GLOP Addressing in 233/8</title>

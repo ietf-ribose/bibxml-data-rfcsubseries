@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0087" target="https://www.rfc-editor.org/info/bcp87">
+<referencegroup anchor="BCP87" target="https://www.rfc-editor.org/info/bcp87">
   <reference anchor="RFC3785" target="https://www.rfc-editor.org/info/rfc3785">
     <front>
       <title>Use of Interior Gateway Protocol (IGP) Metric as a second MPLS Traffic Engineering (TE) Metric</title>

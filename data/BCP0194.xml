@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0194" target="https://www.rfc-editor.org/info/bcp194">
+<referencegroup anchor="BCP194" target="https://www.rfc-editor.org/info/bcp194">
   <reference anchor="RFC7454" target="https://www.rfc-editor.org/info/rfc7454">
     <front>
       <title>BGP Operations and Security</title>

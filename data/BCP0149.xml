@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0149" target="https://www.rfc-editor.org/info/bcp149">
+<referencegroup anchor="BCP149" target="https://www.rfc-editor.org/info/bcp149">
   <reference anchor="RFC5589" target="https://www.rfc-editor.org/info/rfc5589">
     <front>
       <title>Session Initiation Protocol (SIP) Call Control - Transfer</title>

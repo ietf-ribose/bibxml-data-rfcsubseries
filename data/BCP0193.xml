@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0193" target="https://www.rfc-editor.org/info/bcp193">
+<referencegroup anchor="BCP193" target="https://www.rfc-editor.org/info/bcp193">
   <reference anchor="RFC7423" target="https://www.rfc-editor.org/info/rfc7423">
     <front>
       <title>Diameter Applications Design Guidelines</title>

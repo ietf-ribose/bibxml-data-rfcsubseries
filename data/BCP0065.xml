@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0065" target="https://www.rfc-editor.org/info/bcp65">
+<referencegroup anchor="BCP65" target="https://www.rfc-editor.org/info/bcp65">
   <reference anchor="RFC3405" target="https://www.rfc-editor.org/info/rfc3405">
     <front>
       <title>Dynamic Delegation Discovery System (DDDS) Part Five: URI.ARPA Assignment Procedures</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0172" target="https://www.rfc-editor.org/info/bcp172">
+<referencegroup anchor="BCP172" target="https://www.rfc-editor.org/info/bcp172">
   <reference anchor="RFC6472" target="https://www.rfc-editor.org/info/rfc6472">
     <front>
       <title>Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP</title>

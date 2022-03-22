@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0216" target="https://www.rfc-editor.org/info/bcp216">
+<referencegroup anchor="BCP216" target="https://www.rfc-editor.org/info/bcp216">
   <reference anchor="RFC8407" target="https://www.rfc-editor.org/info/rfc8407">
     <front>
       <title>Guidelines for Authors and Reviewers of Documents Containing YANG Data Models</title>

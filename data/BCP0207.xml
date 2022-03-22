@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0207" target="https://www.rfc-editor.org/info/bcp207">
+<referencegroup anchor="BCP207" target="https://www.rfc-editor.org/info/bcp207">
   <reference anchor="RFC8027" target="https://www.rfc-editor.org/info/rfc8027">
     <front>
       <title>DNSSEC Roadblock Avoidance</title>

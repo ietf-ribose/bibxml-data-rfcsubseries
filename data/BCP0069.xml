@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0069" target="https://www.rfc-editor.org/info/bcp69">
+<referencegroup anchor="BCP69" target="https://www.rfc-editor.org/info/bcp69">
   <reference anchor="RFC3449" target="https://www.rfc-editor.org/info/rfc3449">
     <front>
       <title>TCP Performance Implications of Network Path Asymmetry</title>

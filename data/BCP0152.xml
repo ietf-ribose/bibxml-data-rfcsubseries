@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0152" target="https://www.rfc-editor.org/info/bcp152">
+<referencegroup anchor="BCP152" target="https://www.rfc-editor.org/info/bcp152">
   <reference anchor="RFC5625" target="https://www.rfc-editor.org/info/rfc5625">
     <front>
       <title>DNS Proxy Implementation Guidelines</title>

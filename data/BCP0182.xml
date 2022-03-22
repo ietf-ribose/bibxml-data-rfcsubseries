@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0182" target="https://www.rfc-editor.org/info/bcp182">
+<referencegroup anchor="BCP182" target="https://www.rfc-editor.org/info/bcp182">
   <reference anchor="RFC6916" target="https://www.rfc-editor.org/info/rfc6916">
     <front>
       <title>Algorithm Agility Procedure for the Resource Public Key Infrastructure (RPKI)</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0210" target="https://www.rfc-editor.org/info/bcp210">
+<referencegroup anchor="BCP210" target="https://www.rfc-editor.org/info/bcp210">
   <reference anchor="RFC8180" target="https://www.rfc-editor.org/info/rfc8180">
     <front>
       <title>Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration</title>

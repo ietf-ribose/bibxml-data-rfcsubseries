@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0200" target="https://www.rfc-editor.org/info/bcp200">
+<referencegroup anchor="BCP200" target="https://www.rfc-editor.org/info/bcp200">
   <reference anchor="RFC1984" target="https://www.rfc-editor.org/info/rfc1984">
     <front>
       <title>IAB and IESG Statement on Cryptographic Technology and the Internet</title>

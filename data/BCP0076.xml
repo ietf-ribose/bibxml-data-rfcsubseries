@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0076" target="https://www.rfc-editor.org/info/bcp76">
+<referencegroup anchor="BCP76" target="https://www.rfc-editor.org/info/bcp76">
   <reference anchor="RFC3666" target="https://www.rfc-editor.org/info/rfc3666">
     <front>
       <title>Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows</title>

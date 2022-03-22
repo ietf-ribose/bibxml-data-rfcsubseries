@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0006" target="https://www.rfc-editor.org/info/bcp6">
+<referencegroup anchor="BCP6" target="https://www.rfc-editor.org/info/bcp6">
   <reference anchor="RFC1930" target="https://www.rfc-editor.org/info/rfc1930">
     <front>
       <title>Guidelines for creation, selection, and registration of an Autonomous System (AS)</title>

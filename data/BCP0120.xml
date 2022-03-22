@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0120" target="https://www.rfc-editor.org/info/bcp120">
+<referencegroup anchor="BCP120" target="https://www.rfc-editor.org/info/bcp120">
   <reference anchor="RFC4608" target="https://www.rfc-editor.org/info/rfc4608">
     <front>
       <title>Source-Specific Protocol Independent Multicast in 232/8</title>

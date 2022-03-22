@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0043" target="https://www.rfc-editor.org/info/bcp43">
+<referencegroup anchor="BCP43" target="https://www.rfc-editor.org/info/bcp43">
   <reference anchor="RFC2939" target="https://www.rfc-editor.org/info/rfc2939">
     <front>
       <title>Procedures and IANA Guidelines for Definition of New DHCP Options and Message Types</title>

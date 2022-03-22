@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0063" target="https://www.rfc-editor.org/info/bcp63">
+<referencegroup anchor="BCP63" target="https://www.rfc-editor.org/info/bcp63">
   <reference anchor="RFC3372" target="https://www.rfc-editor.org/info/rfc3372">
     <front>
       <title>Session Initiation Protocol for Telephones (SIP-T): Context and Architectures</title>

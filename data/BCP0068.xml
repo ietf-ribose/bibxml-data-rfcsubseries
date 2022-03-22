@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0068" target="https://www.rfc-editor.org/info/bcp68">
+<referencegroup anchor="BCP68" target="https://www.rfc-editor.org/info/bcp68">
   <reference anchor="RFC3438" target="https://www.rfc-editor.org/info/rfc3438">
     <front>
       <title>Layer Two Tunneling Protocol (L2TP) Internet Assigned Numbers Authority (IANA) Considerations Update</title>

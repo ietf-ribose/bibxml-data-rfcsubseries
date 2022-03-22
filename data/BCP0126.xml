@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0126" target="https://www.rfc-editor.org/info/bcp126">
+<referencegroup anchor="BCP126" target="https://www.rfc-editor.org/info/bcp126">
   <reference anchor="RFC4786" target="https://www.rfc-editor.org/info/rfc4786">
     <front>
       <title>Operation of Anycast Services</title>

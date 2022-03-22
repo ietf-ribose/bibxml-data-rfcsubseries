@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0122" target="https://www.rfc-editor.org/info/bcp122">
+<referencegroup anchor="BCP122" target="https://www.rfc-editor.org/info/bcp122">
   <reference anchor="RFC4632" target="https://www.rfc-editor.org/info/rfc4632">
     <front>
       <title>Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan</title>

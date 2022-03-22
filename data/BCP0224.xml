@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0224" target="https://www.rfc-editor.org/info/bcp224">
+<referencegroup anchor="BCP224" target="https://www.rfc-editor.org/info/bcp224">
   <reference anchor="RFC8634" target="https://www.rfc-editor.org/info/rfc8634">
     <front>
       <title>BGPsec Router Certificate Rollover</title>

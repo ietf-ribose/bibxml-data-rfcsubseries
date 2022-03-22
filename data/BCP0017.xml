@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0017" target="https://www.rfc-editor.org/info/bcp17">
+<referencegroup anchor="BCP17" target="https://www.rfc-editor.org/info/bcp17">
   <reference anchor="RFC2219" target="https://www.rfc-editor.org/info/rfc2219">
     <front>
       <title>Use of DNS Aliases for Network Services</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0231" target="https://www.rfc-editor.org/info/bcp231">
+<referencegroup anchor="BCP231" target="https://www.rfc-editor.org/info/bcp231">
   <reference anchor="RFC8906" target="https://www.rfc-editor.org/info/rfc8906">
     <front>
       <title>A Common Operational Problem in DNS Servers: Failure to Communicate</title>

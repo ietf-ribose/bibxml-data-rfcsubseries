@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0028" target="https://www.rfc-editor.org/info/bcp28">
+<referencegroup anchor="BCP28" target="https://www.rfc-editor.org/info/bcp28">
   <reference anchor="RFC2488" target="https://www.rfc-editor.org/info/rfc2488">
     <front>
       <title>Enhancing TCP Over Satellite Channels using Standard Mechanisms</title>

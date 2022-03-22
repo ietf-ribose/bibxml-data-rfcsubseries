@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0187" target="https://www.rfc-editor.org/info/bcp187">
+<referencegroup anchor="BCP187" target="https://www.rfc-editor.org/info/bcp187">
   <reference anchor="RFC7227" target="https://www.rfc-editor.org/info/rfc7227">
     <front>
       <title>Guidelines for Creating New DHCPv6 Options</title>

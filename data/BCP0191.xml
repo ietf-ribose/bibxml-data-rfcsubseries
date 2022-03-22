@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0191" target="https://www.rfc-editor.org/info/bcp191">
+<referencegroup anchor="BCP191" target="https://www.rfc-editor.org/info/bcp191">
   <reference anchor="RFC7319" target="https://www.rfc-editor.org/info/rfc7319">
     <front>
       <title>IANA Considerations for Connectivity Fault Management (CFM) Code Points</title>

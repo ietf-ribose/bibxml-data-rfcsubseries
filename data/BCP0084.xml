@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0084" target="https://www.rfc-editor.org/info/bcp84">
+<referencegroup anchor="BCP84" target="https://www.rfc-editor.org/info/bcp84">
   <reference anchor="RFC3704" target="https://www.rfc-editor.org/info/rfc3704">
     <front>
       <title>Ingress Filtering for Multihomed Networks</title>

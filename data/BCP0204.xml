@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0204" target="https://www.rfc-editor.org/info/bcp204">
+<referencegroup anchor="BCP204" target="https://www.rfc-editor.org/info/bcp204">
   <reference anchor="RFC7934" target="https://www.rfc-editor.org/info/rfc7934">
     <front>
       <title>Host Address Availability Recommendations</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0027" target="https://www.rfc-editor.org/info/bcp27">
+<referencegroup anchor="BCP27" target="https://www.rfc-editor.org/info/bcp27">
   <reference anchor="RFC2438" target="https://www.rfc-editor.org/info/rfc2438">
     <front>
       <title>Advancement of MIB specifications on the IETF Standards Track</title>

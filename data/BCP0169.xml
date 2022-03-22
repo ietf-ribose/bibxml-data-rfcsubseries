@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0169" target="https://www.rfc-editor.org/info/bcp169">
+<referencegroup anchor="BCP169" target="https://www.rfc-editor.org/info/bcp169">
   <reference anchor="RFC6382" target="https://www.rfc-editor.org/info/rfc6382">
     <front>
       <title>Unique Origin Autonomous System Numbers (ASNs) per Node for Globally Anycasted Services</title>

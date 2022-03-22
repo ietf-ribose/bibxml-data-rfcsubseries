@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0052" target="https://www.rfc-editor.org/info/bcp52">
+<referencegroup anchor="BCP52" target="https://www.rfc-editor.org/info/bcp52">
   <reference anchor="RFC3172" target="https://www.rfc-editor.org/info/rfc3172">
     <front>
       <title>Management Guidelines &amp; Operational Requirements for the Address and Routing Parameter Area Domain ("arpa")</title>

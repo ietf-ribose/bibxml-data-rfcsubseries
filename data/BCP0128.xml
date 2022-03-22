@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0128" target="https://www.rfc-editor.org/info/bcp128">
+<referencegroup anchor="BCP128" target="https://www.rfc-editor.org/info/bcp128">
   <reference anchor="RFC4928" target="https://www.rfc-editor.org/info/rfc4928">
     <front>
       <title>Avoiding Equal Cost Multipath Treatment in MPLS Networks</title>

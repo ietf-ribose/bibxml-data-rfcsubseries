@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0018" target="https://www.rfc-editor.org/info/bcp18">
+<referencegroup anchor="BCP18" target="https://www.rfc-editor.org/info/bcp18">
   <reference anchor="RFC2277" target="https://www.rfc-editor.org/info/rfc2277">
     <front>
       <title>IETF Policy on Character Sets and Languages</title>

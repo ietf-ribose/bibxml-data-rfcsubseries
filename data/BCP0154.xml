@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0154" target="https://www.rfc-editor.org/info/bcp154">
+<referencegroup anchor="BCP154" target="https://www.rfc-editor.org/info/bcp154">
   <reference anchor="RFC5774" target="https://www.rfc-editor.org/info/rfc5774">
     <front>
       <title>Considerations for Civic Addresses in the Presence Information Data Format Location Object (PIDF-LO): Guidelines and IANA Registry Definition</title>

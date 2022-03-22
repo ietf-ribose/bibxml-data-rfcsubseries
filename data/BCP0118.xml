@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0118" target="https://www.rfc-editor.org/info/bcp118">
+<referencegroup anchor="BCP118" target="https://www.rfc-editor.org/info/bcp118">
   <reference anchor="RFC4521" target="https://www.rfc-editor.org/info/rfc4521">
     <front>
       <title>Considerations for Lightweight Directory Access Protocol (LDAP) Extensions</title>

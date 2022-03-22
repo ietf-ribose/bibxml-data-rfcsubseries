@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0007" target="https://www.rfc-editor.org/info/bcp7">
+<referencegroup anchor="BCP7" target="https://www.rfc-editor.org/info/bcp7">
   <reference anchor="RFC2008" target="https://www.rfc-editor.org/info/rfc2008">
     <front>
       <title>Implications of Various Address Allocation Policies for Internet Routing</title>

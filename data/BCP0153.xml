@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0153" target="https://www.rfc-editor.org/info/bcp153">
+<referencegroup anchor="BCP153" target="https://www.rfc-editor.org/info/bcp153">
   <reference anchor="RFC6598" target="https://www.rfc-editor.org/info/rfc6598">
     <front>
       <title>IANA-Reserved IPv4 Prefix for Shared Address Space</title>

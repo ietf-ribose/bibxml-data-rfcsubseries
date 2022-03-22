@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0225" target="https://www.rfc-editor.org/info/bcp225">
+<referencegroup anchor="BCP225" target="https://www.rfc-editor.org/info/bcp225">
   <reference anchor="RFC8725" target="https://www.rfc-editor.org/info/rfc8725">
     <front>
       <title>JSON Web Token Best Current Practices</title>

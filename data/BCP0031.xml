@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0031" target="https://www.rfc-editor.org/info/bcp31">
+<referencegroup anchor="BCP31" target="https://www.rfc-editor.org/info/bcp31">
   <reference anchor="RFC2506" target="https://www.rfc-editor.org/info/rfc2506">
     <front>
       <title>Media Feature Tag Registration Procedure</title>

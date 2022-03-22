@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0088" target="https://www.rfc-editor.org/info/bcp88">
+<referencegroup anchor="BCP88" target="https://www.rfc-editor.org/info/bcp88">
   <reference anchor="RFC3818" target="https://www.rfc-editor.org/info/rfc3818">
     <front>
       <title>IANA Considerations for the Point-to-Point Protocol (PPP)</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0062" target="https://www.rfc-editor.org/info/bcp62">
+<referencegroup anchor="BCP62" target="https://www.rfc-editor.org/info/bcp62">
   <reference anchor="RFC3366" target="https://www.rfc-editor.org/info/rfc3366">
     <front>
       <title>Advice to link designers on link Automatic Repeat reQuest (ARQ)</title>

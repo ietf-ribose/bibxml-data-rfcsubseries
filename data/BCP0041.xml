@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0041" target="https://www.rfc-editor.org/info/bcp41">
+<referencegroup anchor="BCP41" target="https://www.rfc-editor.org/info/bcp41">
   <reference anchor="RFC2914" target="https://www.rfc-editor.org/info/rfc2914">
     <front>
       <title>Congestion Control Principles</title>

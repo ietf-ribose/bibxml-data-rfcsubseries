@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0047" target="https://www.rfc-editor.org/info/bcp47">
+<referencegroup anchor="BCP47" target="https://www.rfc-editor.org/info/bcp47">
   <reference anchor="RFC4647" target="https://www.rfc-editor.org/info/rfc4647">
     <front>
       <title>Matching of Language Tags</title>

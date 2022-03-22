@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0021" target="https://www.rfc-editor.org/info/bcp21">
+<referencegroup anchor="BCP21" target="https://www.rfc-editor.org/info/bcp21">
   <reference anchor="RFC2350" target="https://www.rfc-editor.org/info/rfc2350">
     <front>
       <title>Expectations for Computer Security Incident Response</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0098" target="https://www.rfc-editor.org/info/bcp98">
+<referencegroup anchor="BCP98" target="https://www.rfc-editor.org/info/bcp98">
   <reference anchor="RFC3968" target="https://www.rfc-editor.org/info/rfc3968">
     <front>
       <title>The Internet Assigned Number Authority (IANA) Header Field Parameter Registry for the Session Initiation Protocol (SIP)</title>

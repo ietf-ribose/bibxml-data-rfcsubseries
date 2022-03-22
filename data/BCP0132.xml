@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0132" target="https://www.rfc-editor.org/info/bcp132">
+<referencegroup anchor="BCP132" target="https://www.rfc-editor.org/info/bcp132">
   <reference anchor="RFC4962" target="https://www.rfc-editor.org/info/rfc4962">
     <front>
       <title>Guidance for Authentication, Authorization, and Accounting (AAA) Key Management</title>

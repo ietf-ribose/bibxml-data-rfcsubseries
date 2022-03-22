@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0049" target="https://www.rfc-editor.org/info/bcp49">
+<referencegroup anchor="BCP49" target="https://www.rfc-editor.org/info/bcp49">
   <reference anchor="RFC3152" target="https://www.rfc-editor.org/info/rfc3152">
     <front>
       <title>Delegation of IP6.ARPA</title>

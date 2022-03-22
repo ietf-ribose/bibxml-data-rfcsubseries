@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0208" target="https://www.rfc-editor.org/info/bcp208">
+<referencegroup anchor="BCP208" target="https://www.rfc-editor.org/info/bcp208">
   <reference anchor="RFC8084" target="https://www.rfc-editor.org/info/rfc8084">
     <front>
       <title>Network Transport Circuit Breakers</title>

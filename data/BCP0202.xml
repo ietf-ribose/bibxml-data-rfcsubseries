@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0202" target="https://www.rfc-editor.org/info/bcp202">
+<referencegroup anchor="BCP202" target="https://www.rfc-editor.org/info/bcp202">
   <reference anchor="RFC7772" target="https://www.rfc-editor.org/info/rfc7772">
     <front>
       <title>Reducing Energy Consumption of Router Advertisements</title>

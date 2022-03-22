@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0146" target="https://www.rfc-editor.org/info/bcp146">
+<referencegroup anchor="BCP146" target="https://www.rfc-editor.org/info/bcp146">
   <reference anchor="RFC5406" target="https://www.rfc-editor.org/info/rfc5406">
     <front>
       <title>Guidelines for Specifying the Use of IPsec Version 2</title>

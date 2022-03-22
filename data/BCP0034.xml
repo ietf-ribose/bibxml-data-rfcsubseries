@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0034" target="https://www.rfc-editor.org/info/bcp34">
+<referencegroup anchor="BCP34" target="https://www.rfc-editor.org/info/bcp34">
   <reference anchor="RFC2644" target="https://www.rfc-editor.org/info/rfc2644">
     <front>
       <title>Changing the Default for Directed Broadcasts in Routers</title>

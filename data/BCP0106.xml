@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0106" target="https://www.rfc-editor.org/info/bcp106">
+<referencegroup anchor="BCP106" target="https://www.rfc-editor.org/info/bcp106">
   <reference anchor="RFC4086" target="https://www.rfc-editor.org/info/rfc4086">
     <front>
       <title>Randomness Requirements for Security</title>

@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0040" target="https://www.rfc-editor.org/info/bcp40">
+<referencegroup anchor="BCP40" target="https://www.rfc-editor.org/info/bcp40">
   <reference anchor="RFC7720" target="https://www.rfc-editor.org/info/rfc7720">
     <front>
       <title>DNS Root Name Service Protocol and Deployment Requirements</title>

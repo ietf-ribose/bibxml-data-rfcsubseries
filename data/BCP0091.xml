@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0091" target="https://www.rfc-editor.org/info/bcp91">
+<referencegroup anchor="BCP91" target="https://www.rfc-editor.org/info/bcp91">
   <reference anchor="RFC3901" target="https://www.rfc-editor.org/info/rfc3901">
     <front>
       <title>DNS IPv6 Transport Operational Guidelines</title>

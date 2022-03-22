@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP0142" target="https://www.rfc-editor.org/info/bcp142">
+<referencegroup anchor="BCP142" target="https://www.rfc-editor.org/info/bcp142">
   <reference anchor="RFC5382" target="https://www.rfc-editor.org/info/rfc5382">
     <front>
       <title>NAT Behavioral Requirements for TCP</title>
