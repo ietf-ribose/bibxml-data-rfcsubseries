@@ -2,15 +2,12 @@
   <reference anchor="RFC3935" target="https://www.rfc-editor.org/info/rfc3935">
     <front>
       <title>A Mission Statement for the IETF</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <author fullname="H. Alvestrand" initials="H" surname="Alvestrand">
         <organization/>
       </author>
       <date year="2004" month="October"/>
       <abstract>
-        <t>This memo gives a mission statement for the IETF, tries to define the terms used in the statement sufficiently to make the mission statement understandable and useful, argues why the IETF needs a mission statement, and tries to capture some of the debate that led to this point. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This memo gives a mission statement for the IETF, tries to define the terms used in the statement sufficiently to make the mission statement understandable and useful, argues why the IETF needs a mission statement, and tries to capture some of the debate that led to this point.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC3935"/>

@@ -2,10 +2,7 @@
   <reference anchor="RFC3677" target="https://www.rfc-editor.org/info/rfc3677">
     <front>
       <title>IETF ISOC Board of Trustee Appointment Procedures</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author role="editor" fullname="L. Daigle" initials="L." surname="Daigle">
+      <author fullname="L. Daigle" initials="L" surname="Daigle">
         <organization/>
       </author>
       <author>

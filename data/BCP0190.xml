@@ -2,10 +2,7 @@
   <reference anchor="RFC8820" target="https://www.rfc-editor.org/info/rfc8820">
     <front>
       <title>URI Design and Ownership</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <author fullname="M. Nottingham" initials="M" surname="Nottingham">
         <organization/>
       </author>
       <date year="2020" month="June"/>

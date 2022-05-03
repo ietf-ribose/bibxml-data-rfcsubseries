@@ -2,15 +2,12 @@
   <reference anchor="RFC3205" target="https://www.rfc-editor.org/info/rfc3205">
     <front>
       <title>On the use of HTTP as a Substrate</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="K. Moore" initials="K." surname="Moore">
+      <author fullname="K. Moore" initials="K" surname="Moore">
         <organization/>
       </author>
       <date year="2002" month="February"/>
       <abstract>
-        <t>Recently there has been widespread interest in using Hypertext Transfer Protocol (HTTP) as a substrate for other applications-level protocols. This document recommends technical particulars of such use, including use of default ports, URL schemes, and HTTP security mechanisms. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>Recently there has been widespread interest in using Hypertext Transfer Protocol (HTTP) as a substrate for other applications-level protocols.  This document recommends technical particulars of such use, including use of default ports, URL schemes, and HTTP security mechanisms.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC3205"/>

@@ -2,10 +2,7 @@
   <reference anchor="RFC4052" target="https://www.rfc-editor.org/info/rfc4052">
     <front>
       <title>IAB Processes for Management of IETF Liaison Relationships</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author role="editor" fullname="L. Daigle" initials="L." surname="Daigle">
+      <author fullname="L. Daigle" initials="L" surname="Daigle">
         <organization/>
       </author>
       <author>
@@ -13,7 +10,7 @@
       </author>
       <date year="2005" month="April"/>
       <abstract>
-        <t>This document discusses the procedures used by the IAB to establish and maintain liaison relationships between the IETF and other Standards Development Organizations (SDOs), consortia and industry fora. This document also discusses the appointment and responsibilities of IETF liaison managers and representatives, and the expectations of the IAB for organizations with whom liaison relationships are established. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document discusses the procedures used by the IAB to establish and maintain liaison relationships between the IETF and other Standards Development Organizations (SDOs), consortia and industry fora.  This document also discusses the appointment and responsibilities of IETF liaison managers and representatives, and the expectations of the IAB for organizations with whom liaison relationships are established.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC4052"/>

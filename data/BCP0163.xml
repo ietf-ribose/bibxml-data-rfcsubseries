@@ -2,15 +2,13 @@
   <reference anchor="RFC6303" target="https://www.rfc-editor.org/info/rfc6303">
     <front>
       <title>Locally Served DNS Zones</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Andrews" initials="M." surname="Andrews">
+      <author fullname="M. Andrews" initials="M" surname="Andrews">
         <organization/>
       </author>
       <date year="2011" month="July"/>
+      <workgroup>dnsop</workgroup>
       <abstract>
-        <t>Experience with the Domain Name System (DNS) has shown that there are a number of DNS zones that all iterative resolvers and recursive nameservers should automatically serve, unless configured otherwise. RFC 4193 specifies that this should occur for D.F.IP6.ARPA. This document extends the practice to cover the IN-ADDR.ARPA zones for RFC 1918 address space and other well-known zones with similar characteristics. This memo documents an Internet Best Current Practice.</t>
+        <t>Experience with the Domain Name System (DNS) has shown that there are a number of DNS zones that all iterative resolvers and recursive nameservers should automatically serve, unless configured otherwise.  RFC 4193 specifies that this should occur for D.F.IP6.ARPA.  This document extends the practice to cover the IN-ADDR.ARPA zones for RFC 1918 address space and other well-known zones with similar characteristics.  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC6303"/>
@@ -20,13 +18,11 @@
   <reference anchor="RFC7793" target="https://www.rfc-editor.org/info/rfc7793">
     <front>
       <title>Adding 100.64.0.0/10 Prefixes to the IPv4 Locally-Served DNS Zones Registry</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Andrews" initials="M." surname="Andrews">
+      <author fullname="M. Andrews" initials="M" surname="Andrews">
         <organization/>
       </author>
       <date year="2016" month="May"/>
+      <workgroup>dnsop</workgroup>
       <abstract>
         <t>RFC 6598 specifies that "Reverse DNS queries for Shared Address Space addresses [100.64.0.0/10] MUST NOT be forwarded to the global DNS infrastructure."</t>
         <t>This document formally directs IANA to add the associated zones to the "IPv4 Locally-Served DNS Zones Registry" to prevent such queries from accidentally leaking to the global DNS infrastructure.</t>

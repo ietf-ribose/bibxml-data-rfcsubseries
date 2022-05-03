@@ -2,13 +2,10 @@
   <reference anchor="RFC5742" target="https://www.rfc-editor.org/info/rfc5742">
     <front>
       <title>IESG Procedures for Handling of Independent and IRTF Stream Submissions</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <author fullname="H. Alvestrand" initials="H" surname="Alvestrand">
         <organization/>
       </author>
-      <author fullname="R. Housley" initials="R." surname="Housley">
+      <author fullname="R. Housley" initials="R" surname="Housley">
         <organization/>
       </author>
       <date year="2009" month="December"/>

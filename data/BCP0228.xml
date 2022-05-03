@@ -2,21 +2,19 @@
   <reference anchor="RFC8862" target="https://www.rfc-editor.org/info/rfc8862">
     <front>
       <title>Best Practices for Securing RTP Media Signaled with SIP</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <author fullname="J. Peterson" initials="J" surname="Peterson">
         <organization/>
       </author>
-      <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <author fullname="R. Barnes" initials="R" surname="Barnes">
         <organization/>
       </author>
-      <author fullname="R. Housley" initials="R." surname="Housley">
+      <author fullname="R. Housley" initials="R" surname="Housley">
         <organization/>
       </author>
       <date year="2021" month="January"/>
+      <workgroup>sipbrandy</workgroup>
       <abstract>
-        <t>Although the Session Initiation Protocol (SIP) includes a suite of security services that has been expanded by numerous specifications over the years, there is no single place that explains how to use SIP to establish confidential media sessions. Additionally, existing mechanisms have some feature gaps that need to be identified and resolved in order for them to address the pervasive monitoring threat model. This specification describes best practices for negotiating confidential media with SIP, including a comprehensive protection solution that binds the media layer to SIP layer identities.</t>
+        <t>Although the Session Initiation Protocol (SIP) includes a suite of security services that has been expanded by numerous specifications over the years, there is no single place that explains how to use SIP to establish confidential media sessions.  Additionally, existing mechanisms have some feature gaps that need to be identified and resolved in order for them to address the pervasive monitoring threat model.  This specification describes best practices for negotiating confidential media with SIP, including a comprehensive protection solution that binds the media layer to SIP layer identities.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC8862"/>

@@ -2,10 +2,7 @@
   <reference anchor="RFC3349" target="https://www.rfc-editor.org/info/rfc3349">
     <front>
       <title>A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Rose" initials="M." surname="Rose">
+      <author fullname="M. Rose" initials="M" surname="Rose">
         <organization/>
       </author>
       <date year="2002" month="July"/>

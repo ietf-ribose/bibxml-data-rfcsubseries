@@ -2,30 +2,28 @@
   <reference anchor="RFC6280" target="https://www.rfc-editor.org/info/rfc6280">
     <front>
       <title>An Architecture for Location and Location Privacy in Internet Applications</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <author fullname="R. Barnes" initials="R" surname="Barnes">
         <organization/>
       </author>
-      <author fullname="M. Lepinski" initials="M." surname="Lepinski">
+      <author fullname="M. Lepinski" initials="M" surname="Lepinski">
         <organization/>
       </author>
-      <author fullname="A. Cooper" initials="A." surname="Cooper">
+      <author fullname="A. Cooper" initials="A" surname="Cooper">
         <organization/>
       </author>
-      <author fullname="J. Morris" initials="J." surname="Morris">
+      <author fullname="J. Morris" initials="J" surname="Morris">
         <organization/>
       </author>
-      <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <author fullname="H. Tschofenig" initials="H" surname="Tschofenig">
         <organization/>
       </author>
-      <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <author fullname="H. Schulzrinne" initials="H" surname="Schulzrinne">
         <organization/>
       </author>
       <date year="2011" month="July"/>
+      <workgroup>geopriv</workgroup>
       <abstract>
-        <t>Location-based services (such as navigation applications, emergency services, and management of equipment in the field) need geographic location information about Internet hosts, their users, and other related entities. These applications need to securely gather and transfer location information for location services, and at the same time protect the privacy of the individuals involved. This document describes an architecture for privacy-preserving location-based services in the Internet, focusing on authorization, security, and privacy requirements for the data formats and protocols used by these services. This memo documents an Internet Best Current Practice.</t>
+        <t>Location-based services (such as navigation applications, emergency services, and management of equipment in the field) need geographic location information about Internet hosts, their users, and other related entities.  These applications need to securely gather and transfer location information for location services, and at the same time protect the privacy of the individuals involved.  This document describes an architecture for privacy-preserving location-based services in the Internet, focusing on authorization, security, and privacy requirements for the data formats and protocols used by these services.  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC6280"/>

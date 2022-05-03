@@ -2,16 +2,13 @@
   <reference anchor="RFC4775" target="https://www.rfc-editor.org/info/rfc4775">
     <front>
       <title>Procedures for Protocol Extensions and Variations</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="S. Bradner" initials="S." surname="Bradner">
+      <author fullname="S. Bradner" initials="S" surname="Bradner">
         <organization/>
       </author>
-      <author role="editor" fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <author fullname="B. Carpenter" initials="B" surname="Carpenter">
         <organization/>
       </author>
-      <author fullname="T. Narten" initials="T." surname="Narten">
+      <author fullname="T. Narten" initials="T" surname="Narten">
         <organization/>
       </author>
       <date year="2006" month="December"/>

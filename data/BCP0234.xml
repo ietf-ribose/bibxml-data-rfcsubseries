@@ -2,24 +2,22 @@
   <reference anchor="RFC9096" target="https://www.rfc-editor.org/info/rfc9096">
     <front>
       <title>Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="F. Gont" initials="F." surname="Gont">
+      <author fullname="F. Gont" initials="F" surname="Gont">
         <organization/>
       </author>
-      <author fullname="J. Žorž" initials="J." surname="Žorž">
+      <author fullname="J. Žorž" initials="J" surname="Žorž">
         <organization/>
       </author>
-      <author fullname="R. Patterson" initials="R." surname="Patterson">
+      <author fullname="R. Patterson" initials="R" surname="Patterson">
         <organization/>
       </author>
-      <author fullname="B. Volz" initials="B." surname="Volz">
+      <author fullname="B. Volz" initials="B" surname="Volz">
         <organization/>
       </author>
       <date year="2021" month="August"/>
+      <workgroup>v6ops</workgroup>
       <abstract>
-        <t>This document specifies improvements to Customer Edge routers that help mitigate the problems that may arise when network configuration information becomes invalid without any explicit signaling of that condition to the local nodes. This document updates RFC 7084.</t>
+        <t>This document specifies improvements to Customer Edge routers that help mitigate the problems that may arise when network configuration information becomes invalid without any explicit signaling of that condition to the local nodes.  This document updates RFC 7084.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC9096"/>

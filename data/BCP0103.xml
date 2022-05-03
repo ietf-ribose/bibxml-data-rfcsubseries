@@ -2,16 +2,13 @@
   <reference anchor="RFC4053" target="https://www.rfc-editor.org/info/rfc4053">
     <front>
       <title>Procedures for Handling Liaison Statements to and from the IETF</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="S. Trowbridge" initials="S." surname="Trowbridge">
+      <author fullname="S. Trowbridge" initials="S" surname="Trowbridge">
         <organization/>
       </author>
-      <author fullname="S. Bradner" initials="S." surname="Bradner">
+      <author fullname="S. Bradner" initials="S" surname="Bradner">
         <organization/>
       </author>
-      <author fullname="F. Baker" initials="F." surname="Baker">
+      <author fullname="F. Baker" initials="F" surname="Baker">
         <organization/>
       </author>
       <date year="2005" month="April"/>

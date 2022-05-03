@@ -2,13 +2,10 @@
   <reference anchor="RFC7942" target="https://www.rfc-editor.org/info/rfc7942">
     <front>
       <title>Improving Awareness of Running Code: The Implementation Status Section</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="Y. Sheffer" initials="Y." surname="Sheffer">
+      <author fullname="Y. Sheffer" initials="Y" surname="Sheffer">
         <organization/>
       </author>
-      <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <author fullname="A. Farrel" initials="A" surname="Farrel">
         <organization/>
       </author>
       <date year="2016" month="July"/>

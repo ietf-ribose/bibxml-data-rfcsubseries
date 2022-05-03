@@ -2,27 +2,25 @@
   <reference anchor="RFC3155" target="https://www.rfc-editor.org/info/rfc3155">
     <front>
       <title>End-to-end Performance Implications of Links with Errors</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="S. Dawkins" initials="S." surname="Dawkins">
+      <author fullname="S. Dawkins" initials="S" surname="Dawkins">
         <organization/>
       </author>
-      <author fullname="G. Montenegro" initials="G." surname="Montenegro">
+      <author fullname="G. Montenegro" initials="G" surname="Montenegro">
         <organization/>
       </author>
-      <author fullname="M. Kojo" initials="M." surname="Kojo">
+      <author fullname="M. Kojo" initials="M" surname="Kojo">
         <organization/>
       </author>
-      <author fullname="V. Magret" initials="V." surname="Magret">
+      <author fullname="V. Magret" initials="V" surname="Magret">
         <organization/>
       </author>
-      <author fullname="N. Vaidya" initials="N." surname="Vaidya">
+      <author fullname="N. Vaidya" initials="N" surname="Vaidya">
         <organization/>
       </author>
       <date year="2001" month="August"/>
+      <workgroup>pilc</workgroup>
       <abstract>
-        <t>This document discusses the specific TCP mechanisms that are problematic in environments with high uncorrected error rates, and discusses what can be done to mitigate the problems without introducing intermediate devices into the connection. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document discusses the specific TCP mechanisms that are problematic in environments with high uncorrected error rates, and discusses what can be done to mitigate the problems without introducing intermediate devices into the connection.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC3155"/>

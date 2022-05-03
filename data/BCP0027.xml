@@ -2,24 +2,22 @@
   <reference anchor="RFC2438" target="https://www.rfc-editor.org/info/rfc2438">
     <front>
       <title>Advancement of MIB specifications on the IETF Standards Track</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. O'Dell" initials="M." surname="O'Dell">
+      <author fullname="M. O'Dell" initials="M" surname="O'Dell">
         <organization/>
       </author>
-      <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <author fullname="H. Alvestrand" initials="H" surname="Alvestrand">
         <organization/>
       </author>
-      <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <author fullname="B. Wijnen" initials="B" surname="Wijnen">
         <organization/>
       </author>
-      <author fullname="S. Bradner" initials="S." surname="Bradner">
+      <author fullname="S. Bradner" initials="S" surname="Bradner">
         <organization/>
       </author>
       <date year="1998" month="October"/>
+      <workgroup>IESG</workgroup>
       <abstract>
-        <t>This document specifies the process which the IESG will use to determine if a MIB specification document meets these requirements. It also discusses the rationale for this process. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document specifies the process which the IESG will use to determine if a MIB specification document meets these requirements.  It also discusses the rationale for this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC2438"/>

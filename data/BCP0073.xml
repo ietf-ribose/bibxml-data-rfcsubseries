@@ -2,24 +2,21 @@
   <reference anchor="RFC3553" target="https://www.rfc-editor.org/info/rfc3553">
     <front>
       <title>An IETF URN Sub-namespace for Registered Protocol Parameters</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Mealling" initials="M." surname="Mealling">
+      <author fullname="M. Mealling" initials="M" surname="Mealling">
         <organization/>
       </author>
-      <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <author fullname="L. Masinter" initials="L" surname="Masinter">
         <organization/>
       </author>
-      <author fullname="T. Hardie" initials="T." surname="Hardie">
+      <author fullname="T. Hardie" initials="T" surname="Hardie">
         <organization/>
       </author>
-      <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <author fullname="G. Klyne" initials="G" surname="Klyne">
         <organization/>
       </author>
       <date year="2003" month="June"/>
       <abstract>
-        <t>This document describes a new sub-delegation for the 'ietf' URN namespace for registered protocol items. The 'ietf' URN namespace is defined in RFC 2648 as a root for persistent URIs that refer to IETF- defined resources. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document describes a new sub-delegation for the 'ietf' URN namespace for registered protocol items.  The 'ietf' URN namespace is defined in RFC 2648 as a root for persistent URIs that refer to IETF- defined resources.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC3553"/>

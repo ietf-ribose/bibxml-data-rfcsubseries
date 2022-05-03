@@ -2,13 +2,10 @@
   <reference anchor="RFC7258" target="https://www.rfc-editor.org/info/rfc7258">
     <front>
       <title>Pervasive Monitoring Is an Attack</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="S. Farrell" initials="S." surname="Farrell">
+      <author fullname="S. Farrell" initials="S" surname="Farrell">
         <organization/>
       </author>
-      <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <author fullname="H. Tschofenig" initials="H" surname="Tschofenig">
         <organization/>
       </author>
       <date year="2014" month="May"/>

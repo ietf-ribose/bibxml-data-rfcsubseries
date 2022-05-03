@@ -3,17 +3,14 @@
     <front>
       <title>Charter of the Internet Architecture Board (IAB)</title>
       <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author>
         <organization>Internet Architecture Board</organization>
       </author>
-      <author role="editor" fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <author fullname="B. Carpenter" initials="B" surname="Carpenter">
         <organization/>
       </author>
       <date year="2000" month="May"/>
       <abstract>
-        <t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board. It replaces RFC 1601. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board.  It replaces RFC 1601.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC2850"/>

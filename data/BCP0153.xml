@@ -2,22 +2,19 @@
   <reference anchor="RFC6598" target="https://www.rfc-editor.org/info/rfc6598">
     <front>
       <title>IANA-Reserved IPv4 Prefix for Shared Address Space</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="J. Weil" initials="J." surname="Weil">
+      <author fullname="J. Weil" initials="J" surname="Weil">
         <organization/>
       </author>
-      <author fullname="V. Kuarsingh" initials="V." surname="Kuarsingh">
+      <author fullname="V. Kuarsingh" initials="V" surname="Kuarsingh">
         <organization/>
       </author>
-      <author fullname="C. Donley" initials="C." surname="Donley">
+      <author fullname="C. Donley" initials="C" surname="Donley">
         <organization/>
       </author>
-      <author fullname="C. Liljenstolpe" initials="C." surname="Liljenstolpe">
+      <author fullname="C. Liljenstolpe" initials="C" surname="Liljenstolpe">
         <organization/>
       </author>
-      <author fullname="M. Azinger" initials="M." surname="Azinger">
+      <author fullname="M. Azinger" initials="M" surname="Azinger">
         <organization/>
       </author>
       <date year="2012" month="April"/>
@@ -34,24 +31,21 @@
   <reference anchor="RFC6890" target="https://www.rfc-editor.org/info/rfc6890">
     <front>
       <title>Special-Purpose IP Address Registries</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Cotton" initials="M." surname="Cotton">
+      <author fullname="M. Cotton" initials="M" surname="Cotton">
         <organization/>
       </author>
-      <author fullname="L. Vegoda" initials="L." surname="Vegoda">
+      <author fullname="L. Vegoda" initials="L" surname="Vegoda">
         <organization/>
       </author>
-      <author role="editor" fullname="R. Bonica" initials="R." surname="Bonica">
+      <author fullname="R. Bonica" initials="R" surname="Bonica">
         <organization/>
       </author>
-      <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <author fullname="B. Haberman" initials="B" surname="Haberman">
         <organization/>
       </author>
       <date year="2013" month="April"/>
       <abstract>
-        <t>This memo reiterates the assignment of an IPv4 address block (192.0.0.0/24) to IANA. It also instructs IANA to restructure its IPv4 and IPv6 Special-Purpose Address Registries. Upon restructuring, the aforementioned registries will record all special-purpose address blocks, maintaining a common set of information regarding each address block.</t>
+        <t>This memo reiterates the assignment of an IPv4 address block (192.0.0.0/24) to IANA.  It also instructs IANA to restructure its IPv4 and IPv6 Special-Purpose Address Registries.  Upon restructuring, the aforementioned registries will record all special-purpose address blocks, maintaining a common set of information regarding each address block.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC6890"/>
@@ -61,19 +55,16 @@
   <reference anchor="RFC8190" target="https://www.rfc-editor.org/info/rfc8190">
     <front>
       <title>Updates to the Special-Purpose IP Address Registries</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <author fullname="R. Bonica" initials="R" surname="Bonica">
         <organization/>
       </author>
-      <author fullname="M. Cotton" initials="M." surname="Cotton">
+      <author fullname="M. Cotton" initials="M" surname="Cotton">
         <organization/>
       </author>
-      <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <author fullname="B. Haberman" initials="B" surname="Haberman">
         <organization/>
       </author>
-      <author fullname="L. Vegoda" initials="L." surname="Vegoda">
+      <author fullname="L. Vegoda" initials="L" surname="Vegoda">
         <organization/>
       </author>
       <date year="2017" month="June"/>

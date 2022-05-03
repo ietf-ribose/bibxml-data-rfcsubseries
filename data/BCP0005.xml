@@ -2,27 +2,25 @@
   <reference anchor="RFC1918" target="https://www.rfc-editor.org/info/rfc1918">
     <front>
       <title>Address Allocation for Private Internets</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <author fullname="Y. Rekhter" initials="Y" surname="Rekhter">
         <organization/>
       </author>
-      <author fullname="B. Moskowitz" initials="B." surname="Moskowitz">
+      <author fullname="B. Moskowitz" initials="B" surname="Moskowitz">
         <organization/>
       </author>
-      <author fullname="D. Karrenberg" initials="D." surname="Karrenberg">
+      <author fullname="D. Karrenberg" initials="D" surname="Karrenberg">
         <organization/>
       </author>
-      <author fullname="G. J. de Groot" initials="G. J." surname="de Groot">
+      <author fullname="G. J. de Groot" initials="GJ" surname="de Groot">
         <organization/>
       </author>
-      <author fullname="E. Lear" initials="E." surname="Lear">
+      <author fullname="E. Lear" initials="E" surname="Lear">
         <organization/>
       </author>
       <date year="1996" month="February"/>
+      <workgroup>cidrd</workgroup>
       <abstract>
-        <t>This document describes address allocation for private internets. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document describes address allocation for private internets.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC1918"/>

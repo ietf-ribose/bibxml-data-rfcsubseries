@@ -2,18 +2,16 @@
   <reference anchor="RFC2148" target="https://www.rfc-editor.org/info/rfc2148">
     <front>
       <title>Deployment of the Internet White Pages Service</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <author fullname="H. Alvestrand" initials="H" surname="Alvestrand">
         <organization/>
       </author>
-      <author fullname="P. Jurg" initials="P." surname="Jurg">
+      <author fullname="P. Jurg" initials="P" surname="Jurg">
         <organization/>
       </author>
       <date year="1997" month="September"/>
+      <workgroup>ids</workgroup>
       <abstract>
-        <t>This document describes the way in which the Internet White Pages Service is best exploited using today's experience, today's protocols, today's products and today's procedures. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document describes the way in which the Internet White Pages Service is best exploited using today's experience, today's protocols, today's products and today's procedures.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC2148"/>

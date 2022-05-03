@@ -2,27 +2,25 @@
   <reference anchor="RFC5407" target="https://www.rfc-editor.org/info/rfc5407">
     <front>
       <title>Example Call Flows of Race Conditions in the Session Initiation Protocol (SIP)</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Hasebe" initials="M." surname="Hasebe">
+      <author fullname="M. Hasebe" initials="M" surname="Hasebe">
         <organization/>
       </author>
-      <author fullname="J. Koshiko" initials="J." surname="Koshiko">
+      <author fullname="J. Koshiko" initials="J" surname="Koshiko">
         <organization/>
       </author>
-      <author fullname="Y. Suzuki" initials="Y." surname="Suzuki">
+      <author fullname="Y. Suzuki" initials="Y" surname="Suzuki">
         <organization/>
       </author>
-      <author fullname="T. Yoshikawa" initials="T." surname="Yoshikawa">
+      <author fullname="T. Yoshikawa" initials="T" surname="Yoshikawa">
         <organization/>
       </author>
-      <author fullname="P. Kyzivat" initials="P." surname="Kyzivat">
+      <author fullname="P. Kyzivat" initials="P" surname="Kyzivat">
         <organization/>
       </author>
       <date year="2008" month="December"/>
+      <workgroup>sipping</workgroup>
       <abstract>
-        <t>This document gives example call flows of race conditions in the Session Initiation Protocol (SIP). Race conditions are inherently confusing and difficult to thwart; this document shows the best practices to handle them. The elements in these call flows include SIP User Agents and SIP Proxy Servers. Call flow diagrams and message details are given. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document gives example call flows of race conditions in the Session Initiation Protocol (SIP).  Race conditions are inherently confusing and difficult to thwart; this document shows the best practices to handle them.  The elements in these call flows include SIP User Agents and SIP Proxy Servers.  Call flow diagrams and message details are given.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC5407"/>

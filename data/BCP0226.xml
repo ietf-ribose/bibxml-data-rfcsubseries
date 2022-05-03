@@ -2,15 +2,13 @@
   <reference anchor="RFC8718" target="https://www.rfc-editor.org/info/rfc8718">
     <front>
       <title>IETF Plenary Meeting Venue Selection Process</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author role="editor" fullname="E. Lear" initials="E." surname="Lear">
+      <author fullname="E. Lear" initials="E" surname="Lear">
         <organization/>
       </author>
       <date year="2020" month="February"/>
+      <workgroup>mtgvenue</workgroup>
       <abstract>
-        <t>The IETF Administration Support Activity (IASA) is responsible for arranging the selection and operation of the IETF plenary meeting venue. This memo specifies IETF community requirements for meeting venues, including hotels and meeting space. It also directs the IASA to make available additional process documents that describe the current meeting selection process.</t>
+        <t>The IETF Administration Support Activity (IASA) is responsible for arranging the selection and operation of the IETF plenary meeting venue.  This memo specifies IETF community requirements for meeting venues, including hotels and meeting space.  It also directs the IASA to make available additional process documents that describe the current meeting selection process.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC8718"/>
@@ -20,13 +18,11 @@
   <reference anchor="RFC8719" target="https://www.rfc-editor.org/info/rfc8719">
     <front>
       <title>High-Level Guidance for the Meeting Policy of the IETF</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <author fullname="S. Krishnan" initials="S" surname="Krishnan">
         <organization/>
       </author>
       <date year="2020" month="February"/>
+      <workgroup>mtgvenue</workgroup>
       <abstract>
         <t>This document describes a meeting location policy for the IETF and the various stakeholders required to realize this policy.</t>
       </abstract>
@@ -38,15 +34,13 @@
   <reference anchor="RFC9137" target="https://www.rfc-editor.org/info/rfc9137">
     <front>
       <title>Considerations for Cancellation of IETF Meetings</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Duke" initials="M." surname="Duke">
+      <author fullname="M. Duke" initials="M" surname="Duke">
         <organization/>
       </author>
       <date year="2021" month="October"/>
+      <workgroup>shmoo</workgroup>
       <abstract>
-        <t>The IETF ordinarily holds three in-person meetings per year to discuss issues and advance the Internet. However, various events can make a planned in-person meeting infeasible. This document provides criteria to aid the IETF Administration LLC (IETF LLC), the Internet Engineering Steering Group (IESG), and the Chair of the Internet Research Task Force (IRTF) in deciding to relocate, virtualize, postpone, or cancel an in-person IETF meeting.</t>
+        <t>The IETF ordinarily holds three in-person meetings per year to discuss issues and advance the Internet.  However, various events can make a planned in-person meeting infeasible.  This document provides criteria to aid the IETF Administration LLC (IETF LLC), the Internet Engineering Steering Group (IESG), and the Chair of the Internet Research Task Force (IRTF) in deciding to relocate, virtualize, postpone, or cancel an in-person IETF meeting.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC9137"/>

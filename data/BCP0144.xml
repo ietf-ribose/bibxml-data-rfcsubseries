@@ -2,27 +2,25 @@
   <reference anchor="RFC5359" target="https://www.rfc-editor.org/info/rfc5359">
     <front>
       <title>Session Initiation Protocol Service Examples</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author role="editor" fullname="A. Johnston" initials="A." surname="Johnston">
+      <author fullname="A. Johnston" initials="A" surname="Johnston">
         <organization/>
       </author>
-      <author fullname="R. Sparks" initials="R." surname="Sparks">
+      <author fullname="R. Sparks" initials="R" surname="Sparks">
         <organization/>
       </author>
-      <author fullname="C. Cunningham" initials="C." surname="Cunningham">
+      <author fullname="C. Cunningham" initials="C" surname="Cunningham">
         <organization/>
       </author>
-      <author fullname="S. Donovan" initials="S." surname="Donovan">
+      <author fullname="S. Donovan" initials="S" surname="Donovan">
         <organization/>
       </author>
-      <author fullname="K. Summers" initials="K." surname="Summers">
+      <author fullname="K. Summers" initials="K" surname="Summers">
         <organization/>
       </author>
       <date year="2008" month="October"/>
+      <workgroup>sipping</workgroup>
       <abstract>
-        <t>This document gives examples of Session Initiation Protocol (SIP) services. This covers most features offered in so-called IP Centrex offerings from local exchange carriers and PBX (Private Branch Exchange) features. Most of the services shown in this document are implemented in the SIP user agents, although some require the assistance of a SIP proxy. Some require some extensions to SIP including the REFER, SUBSCRIBE, and NOTIFY methods and the Replaces and Join header fields. These features are not intended to be an exhaustive set, but rather show implementations of common features likely to be implemented on SIP IP telephones in a business environment. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document gives examples of Session Initiation Protocol (SIP) services.  This covers most features offered in so-called IP Centrex offerings from local exchange carriers and PBX (Private Branch Exchange) features.  Most of the services shown in this document are implemented in the SIP user agents, although some require the assistance of a SIP proxy.  Some require some extensions to SIP including the REFER, SUBSCRIBE, and NOTIFY methods and the Replaces and Join header fields.  These features are not intended to be an exhaustive set, but rather show implementations of common features likely to be implemented on SIP IP telephones in a business environment.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC5359"/>

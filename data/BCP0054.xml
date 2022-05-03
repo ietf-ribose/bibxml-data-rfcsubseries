@@ -2,10 +2,7 @@
   <reference anchor="RFC7154" target="https://www.rfc-editor.org/info/rfc7154">
     <front>
       <title>IETF Guidelines for Conduct</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author role="editor" fullname="S. Moonesamy" initials="S." surname="Moonesamy">
+      <author fullname="S. Moonesamy" initials="S" surname="Moonesamy">
         <organization/>
       </author>
       <date year="2014" month="March"/>

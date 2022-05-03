@@ -2,10 +2,7 @@
   <reference anchor="RFC6963" target="https://www.rfc-editor.org/info/rfc6963">
     <front>
       <title>A Uniform Resource Name (URN) Namespace for Examples</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <author fullname="P. Saint-Andre" initials="P" surname="Saint-Andre">
         <organization/>
       </author>
       <date year="2013" month="May"/>

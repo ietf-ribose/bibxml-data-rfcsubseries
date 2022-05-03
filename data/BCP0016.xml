@@ -2,24 +2,22 @@
   <reference anchor="RFC2182" target="https://www.rfc-editor.org/info/rfc2182">
     <front>
       <title>Selection and Operation of Secondary DNS Servers</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="R. Elz" initials="R." surname="Elz">
+      <author fullname="R. Elz" initials="R" surname="Elz">
         <organization/>
       </author>
-      <author fullname="R. Bush" initials="R." surname="Bush">
+      <author fullname="R. Bush" initials="R" surname="Bush">
         <organization/>
       </author>
-      <author fullname="S. Bradner" initials="S." surname="Bradner">
+      <author fullname="S. Bradner" initials="S" surname="Bradner">
         <organization/>
       </author>
-      <author fullname="M. Patton" initials="M." surname="Patton">
+      <author fullname="M. Patton" initials="M" surname="Patton">
         <organization/>
       </author>
       <date year="1997" month="July"/>
+      <workgroup>dnsind</workgroup>
       <abstract>
-        <t>This document discusses the selection of secondary servers for DNS zones.The number of servers appropriate for a zone is also discussed, and some general secondary server maintenance issues considered. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t>
+        <t>This document discusses the selection of secondary servers for DNS zones.The number of servers appropriate for a zone is also discussed, and some general secondary server maintenance issues considered.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC2182"/>

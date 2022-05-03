@@ -2,27 +2,25 @@
   <reference anchor="RFC7227" target="https://www.rfc-editor.org/info/rfc7227">
     <front>
       <title>Guidelines for Creating New DHCPv6 Options</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="D. Hankins" initials="D." surname="Hankins">
+      <author fullname="D. Hankins" initials="D" surname="Hankins">
         <organization/>
       </author>
-      <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+      <author fullname="T. Mrugalski" initials="T" surname="Mrugalski">
         <organization/>
       </author>
-      <author fullname="M. Siodelski" initials="M." surname="Siodelski">
+      <author fullname="M. Siodelski" initials="M" surname="Siodelski">
         <organization/>
       </author>
-      <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <author fullname="S. Jiang" initials="S" surname="Jiang">
         <organization/>
       </author>
-      <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <author fullname="S. Krishnan" initials="S" surname="Krishnan">
         <organization/>
       </author>
       <date year="2014" month="May"/>
+      <workgroup>dhc</workgroup>
       <abstract>
-        <t>This document provides guidance to prospective DHCPv6 option developers to help them create option formats that are easily adoptable by existing DHCPv6 software. It also provides guidelines for expert reviewers to evaluate new registrations. This document updates RFC 3315.</t>
+        <t>This document provides guidance to prospective DHCPv6 option developers to help them create option formats that are easily adoptable by existing DHCPv6 software.  It also provides guidelines for expert reviewers to evaluate new registrations.  This document updates RFC 3315.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC7227"/>

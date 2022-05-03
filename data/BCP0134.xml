@@ -2,22 +2,19 @@
   <reference anchor="RFC5068" target="https://www.rfc-editor.org/info/rfc5068">
     <front>
       <title>Email Submission Operations: Access and Accountability Requirements</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="C. Hutzler" initials="C." surname="Hutzler">
+      <author fullname="C. Hutzler" initials="C" surname="Hutzler">
         <organization/>
       </author>
-      <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <author fullname="D. Crocker" initials="D" surname="Crocker">
         <organization/>
       </author>
-      <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <author fullname="P. Resnick" initials="P" surname="Resnick">
         <organization/>
       </author>
-      <author fullname="E. Allman" initials="E." surname="Allman">
+      <author fullname="E. Allman" initials="E" surname="Allman">
         <organization/>
       </author>
-      <author fullname="T. Finch" initials="T." surname="Finch">
+      <author fullname="T. Finch" initials="T" surname="Finch">
         <organization/>
       </author>
       <date year="2007" month="November"/>

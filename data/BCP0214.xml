@@ -2,24 +2,22 @@
   <reference anchor="RFC8327" target="https://www.rfc-editor.org/info/rfc8327">
     <front>
       <title>Mitigating the Negative Impact of Maintenance through BGP Session Culling</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="W. Hargrave" initials="W." surname="Hargrave">
+      <author fullname="W. Hargrave" initials="W" surname="Hargrave">
         <organization/>
       </author>
-      <author fullname="M. Griswold" initials="M." surname="Griswold">
+      <author fullname="M. Griswold" initials="M" surname="Griswold">
         <organization/>
       </author>
-      <author fullname="J. Snijders" initials="J." surname="Snijders">
+      <author fullname="J. Snijders" initials="J" surname="Snijders">
         <organization/>
       </author>
-      <author fullname="N. Hilliard" initials="N." surname="Hilliard">
+      <author fullname="N. Hilliard" initials="N" surname="Hilliard">
         <organization/>
       </author>
       <date year="2018" month="March"/>
+      <workgroup>grow</workgroup>
       <abstract>
-        <t>This document outlines an approach to mitigate the negative impact on networks resulting from maintenance activities. It includes guidance for both IP networks and Internet Exchange Points (IXPs). The approach is to ensure BGP-4 sessions that will be affected by maintenance are forcefully torn down before the actual maintenance activities commence.</t>
+        <t>This document outlines an approach to mitigate the negative impact on networks resulting from maintenance activities.  It includes guidance for both IP networks and Internet Exchange Points (IXPs).  The approach is to ensure BGP-4 sessions that will be affected by maintenance are forcefully torn down before the actual maintenance activities commence.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC8327"/>

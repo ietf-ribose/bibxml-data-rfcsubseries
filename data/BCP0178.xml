@@ -2,21 +2,19 @@
   <reference anchor="RFC6648" target="https://www.rfc-editor.org/info/rfc6648">
     <front>
       <title>Deprecating the "X-" Prefix and Similar Constructs in Application Protocols</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <author fullname="P. Saint-Andre" initials="P" surname="Saint-Andre">
         <organization/>
       </author>
-      <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <author fullname="D. Crocker" initials="D" surname="Crocker">
         <organization/>
       </author>
-      <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <author fullname="M. Nottingham" initials="M" surname="Nottingham">
         <organization/>
       </author>
       <date year="2012" month="June"/>
+      <workgroup>appsawg</workgroup>
       <abstract>
-        <t>Historically, designers and implementers of application protocols have often distinguished between standardized and unstandardized parameters by prefixing the names of unstandardized parameters with the string "X-" or similar constructs. In practice, that convention causes more problems than it solves. Therefore, this document deprecates the convention for newly defined parameters with textual (as opposed to numerical) names in application protocols. This memo documents an Internet Best Current Practice.</t>
+        <t>Historically, designers and implementers of application protocols have often distinguished between standardized and unstandardized parameters by prefixing the names of unstandardized parameters with the string "X-" or similar constructs.  In practice, that convention causes more problems than it solves.  Therefore, this document deprecates the convention for newly defined parameters with textual (as opposed to numerical) names in application protocols.  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC6648"/>

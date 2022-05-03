@@ -2,21 +2,19 @@
   <reference anchor="RFC8109" target="https://www.rfc-editor.org/info/rfc8109">
     <front>
       <title>Initializing a DNS Resolver with Priming Queries</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="P. Koch" initials="P." surname="Koch">
+      <author fullname="P. Koch" initials="P" surname="Koch">
         <organization/>
       </author>
-      <author fullname="M. Larson" initials="M." surname="Larson">
+      <author fullname="M. Larson" initials="M" surname="Larson">
         <organization/>
       </author>
-      <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <author fullname="P. Hoffman" initials="P" surname="Hoffman">
         <organization/>
       </author>
       <date year="2017" month="March"/>
+      <workgroup>dnsop</workgroup>
       <abstract>
-        <t>This document describes the queries that a DNS resolver should emit to initialize its cache. The result is that the resolver gets both a current NS Resource Record Set (RRset) for the root zone and the necessary address information for reaching the root servers.</t>
+        <t>This document describes the queries that a DNS resolver should emit to initialize its cache.  The result is that the resolver gets both a current NS Resource Record Set (RRset) for the root zone and the necessary address information for reaching the root servers.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC8109"/>

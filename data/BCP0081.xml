@@ -2,10 +2,7 @@
   <reference anchor="RFC3688" target="https://www.rfc-editor.org/info/rfc3688">
     <front>
       <title>The IETF XML Registry</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Mealling" initials="M." surname="Mealling">
+      <author fullname="M. Mealling" initials="M" surname="Mealling">
         <organization/>
       </author>
       <date year="2004" month="January"/>

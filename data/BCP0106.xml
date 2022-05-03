@@ -2,16 +2,13 @@
   <reference anchor="RFC4086" target="https://www.rfc-editor.org/info/rfc4086">
     <front>
       <title>Randomness Requirements for Security</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd">
+      <author fullname="D. Eastlake 3rd" initials="D" surname="Eastlake 3rd">
         <organization/>
       </author>
-      <author fullname="J. Schiller" initials="J." surname="Schiller">
+      <author fullname="J. Schiller" initials="J" surname="Schiller">
         <organization/>
       </author>
-      <author fullname="S. Crocker" initials="S." surname="Crocker">
+      <author fullname="S. Crocker" initials="S" surname="Crocker">
         <organization/>
       </author>
       <date year="2005" month="June"/>

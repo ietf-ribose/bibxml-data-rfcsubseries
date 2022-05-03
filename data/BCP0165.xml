@@ -2,25 +2,23 @@
   <reference anchor="RFC6335" target="https://www.rfc-editor.org/info/rfc6335">
     <front>
       <title>Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="M. Cotton" initials="M." surname="Cotton">
+      <author fullname="M. Cotton" initials="M" surname="Cotton">
         <organization/>
       </author>
-      <author fullname="L. Eggert" initials="L." surname="Eggert">
+      <author fullname="L. Eggert" initials="L" surname="Eggert">
         <organization/>
       </author>
-      <author fullname="J. Touch" initials="J." surname="Touch">
+      <author fullname="J. Touch" initials="J" surname="Touch">
         <organization/>
       </author>
-      <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <author fullname="M. Westerlund" initials="M" surname="Westerlund">
         <organization/>
       </author>
-      <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <author fullname="S. Cheshire" initials="S" surname="Cheshire">
         <organization/>
       </author>
       <date year="2011" month="August"/>
+      <workgroup>tsvwg</workgroup>
       <abstract>
         <t>This document defines the procedures that the Internet Assigned Numbers Authority (IANA) uses when handling assignment and other requests related to the Service Name and Transport Protocol Port Number registry. It also discusses the rationale and principles behind these procedures and how they facilitate the long-term sustainability of the registry.</t>
         <t>This document updates IANA's procedures by obsoleting the previous UDP and TCP port assignment procedures defined in Sections 8 and 9.1 of the IANA Allocation Guidelines, and it updates the IANA service name and port assignment procedures for UDP-Lite, the Datagram Congestion Control Protocol (DCCP), and the Stream Control Transmission Protocol (SCTP). It also updates the DNS SRV specification to clarify what a service name is and how it is registered. This memo documents an Internet Best Current Practice.</t>
@@ -33,15 +31,13 @@
   <reference anchor="RFC7605" target="https://www.rfc-editor.org/info/rfc7605">
     <front>
       <title>Recommendations on Using Assigned Transport Port Numbers</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="J. Touch" initials="J." surname="Touch">
+      <author fullname="J. Touch" initials="J" surname="Touch">
         <organization/>
       </author>
       <date year="2015" month="August"/>
+      <workgroup>tsvwg</workgroup>
       <abstract>
-        <t>This document provides recommendations to designers of application and service protocols on how to use the transport protocol port number space and when to request a port assignment from IANA. It provides designer guidance to requesters or users of port numbers on how to interact with IANA using the processes defined in RFC 6335; thus, this document complements (but does not update) that document.</t>
+        <t>This document provides recommendations to designers of application and service protocols on how to use the transport protocol port number space and when to request a port assignment from IANA.  It provides designer guidance to requesters or users of port numbers on how to interact with IANA using the processes defined in RFC 6335; thus, this document complements (but does not update) that document.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC7605"/>

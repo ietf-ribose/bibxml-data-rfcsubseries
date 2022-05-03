@@ -2,10 +2,7 @@
   <reference anchor="RFC3365" target="https://www.rfc-editor.org/info/rfc3365">
     <front>
       <title>Strong Security Requirements for Internet Engineering Task Force Standard Protocols</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="J. Schiller" initials="J." surname="Schiller">
+      <author fullname="J. Schiller" initials="J" surname="Schiller">
         <organization/>
       </author>
       <date year="2002" month="August"/>

@@ -2,21 +2,19 @@
   <reference anchor="RFC2506" target="https://www.rfc-editor.org/info/rfc2506">
     <front>
       <title>Media Feature Tag Registration Procedure</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="K. Holtman" initials="K." surname="Holtman">
+      <author fullname="K. Holtman" initials="K" surname="Holtman">
         <organization/>
       </author>
-      <author fullname="A. Mutz" initials="A." surname="Mutz">
+      <author fullname="A. Mutz" initials="A" surname="Mutz">
         <organization/>
       </author>
-      <author fullname="T. Hardie" initials="T." surname="Hardie">
+      <author fullname="T. Hardie" initials="T" surname="Hardie">
         <organization/>
       </author>
       <date year="1999" month="March"/>
+      <workgroup>conneg</workgroup>
       <abstract>
-        <t>This document defines a registration procedure which uses the Internet Assigned Numbers Authority (IANA) as a central registry for the media feature vocabulary. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document defines a registration procedure which uses the Internet Assigned Numbers Authority (IANA) as a central registry for the media feature vocabulary.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC2506"/>

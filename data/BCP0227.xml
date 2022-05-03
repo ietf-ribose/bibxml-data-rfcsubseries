@@ -2,15 +2,13 @@
   <reference anchor="RFC8758" target="https://www.rfc-editor.org/info/rfc8758">
     <front>
       <title>Deprecating RC4 in Secure Shell (SSH)</title>
-      <author>
-        <organization abbrev="IETF">Internet Engineering Task Force</organization>
-      </author>
-      <author fullname="L. Velvindron" initials="L." surname="Velvindron">
+      <author fullname="L. Velvindron" initials="L" surname="Velvindron">
         <organization/>
       </author>
       <date year="2020" month="April"/>
+      <workgroup>curdle</workgroup>
       <abstract>
-        <t>This document deprecates RC4 in Secure Shell (SSH). Therefore, this document formally moves RFC 4345 to Historic status.</t>
+        <t>This document deprecates RC4 in Secure Shell (SSH).  Therefore, this document formally moves RFC 4345 to Historic status.</t>
       </abstract>
     </front>
     <seriesInfo name="DOI" value="10.17487/RFC8758"/>
