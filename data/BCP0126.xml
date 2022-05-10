@@ -1,22 +1,5 @@
 <referencegroup anchor="BCP126" target="https://www.rfc-editor.org/info/bcp126">
-  <reference anchor="RFC4786" target="https://www.rfc-editor.org/info/rfc4786">
-    <front>
-      <title>Operation of Anycast Services</title>
-      <author fullname="J. Abley" initials="J" surname="Abley">
-        <organization/>
-      </author>
-      <author fullname="K. Lindqvist" initials="K" surname="Lindqvist">
-        <organization/>
-      </author>
-      <date year="2006" month="December"/>
-      <workgroup>grow</workgroup>
-      <abstract>
-        <t>As the Internet has grown, and as systems and networked services within enterprises have become more pervasive, many services with high availability requirements have emerged. These requirements have increased the demands on the reliability of the infrastructure on which those services rely.</t>
-        <t>Various techniques have been employed to increase the availability of services deployed on the Internet. This document presents commentary and recommendations for distribution of services using anycast. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC4786"/>
-    <seriesInfo name="BCP" value="126"/>
-    <seriesInfo name="RFC" value="4786"/>
+  <reference anchor="RFC4786">
+    <front/>
   </reference>
 </referencegroup>

@@ -1,18 +1,5 @@
 <referencegroup anchor="BCP227" target="https://www.rfc-editor.org/info/bcp227">
-  <reference anchor="RFC8758" target="https://www.rfc-editor.org/info/rfc8758">
-    <front>
-      <title>Deprecating RC4 in Secure Shell (SSH)</title>
-      <author fullname="L. Velvindron" initials="L" surname="Velvindron">
-        <organization/>
-      </author>
-      <date year="2020" month="April"/>
-      <workgroup>curdle</workgroup>
-      <abstract>
-        <t>This document deprecates RC4 in Secure Shell (SSH).  Therefore, this document formally moves RFC 4345 to Historic status.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC8758"/>
-    <seriesInfo name="BCP" value="227"/>
-    <seriesInfo name="RFC" value="8758"/>
+  <reference anchor="RFC8758">
+    <front/>
   </reference>
 </referencegroup>

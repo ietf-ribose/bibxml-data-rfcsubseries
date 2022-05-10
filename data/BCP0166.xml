@@ -1,21 +1,5 @@
 <referencegroup anchor="BCP166" target="https://www.rfc-editor.org/info/bcp166">
-  <reference anchor="RFC6365" target="https://www.rfc-editor.org/info/rfc6365">
-    <front>
-      <title>Terminology Used in Internationalization in the IETF</title>
-      <author fullname="P. Hoffman" initials="P" surname="Hoffman">
-        <organization/>
-      </author>
-      <author fullname="J. Klensin" initials="J" surname="Klensin">
-        <organization/>
-      </author>
-      <date year="2011" month="September"/>
-      <workgroup>appsawg</workgroup>
-      <abstract>
-        <t>This document provides a list of terms used in the IETF when discussing internationalization.  The purpose is to help frame discussions of internationalization in the various areas of the IETF and to help introduce the main concepts to IETF participants.  This memo documents an Internet Best Current Practice.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC6365"/>
-    <seriesInfo name="BCP" value="166"/>
-    <seriesInfo name="RFC" value="6365"/>
+  <reference anchor="RFC6365">
+    <front/>
   </reference>
 </referencegroup>

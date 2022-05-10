@@ -1,30 +1,5 @@
 <referencegroup anchor="BCP5" target="https://www.rfc-editor.org/info/bcp5">
-  <reference anchor="RFC1918" target="https://www.rfc-editor.org/info/rfc1918">
-    <front>
-      <title>Address Allocation for Private Internets</title>
-      <author fullname="Y. Rekhter" initials="Y" surname="Rekhter">
-        <organization/>
-      </author>
-      <author fullname="B. Moskowitz" initials="B" surname="Moskowitz">
-        <organization/>
-      </author>
-      <author fullname="D. Karrenberg" initials="D" surname="Karrenberg">
-        <organization/>
-      </author>
-      <author fullname="G. J. de Groot" initials="GJ" surname="de Groot">
-        <organization/>
-      </author>
-      <author fullname="E. Lear" initials="E" surname="Lear">
-        <organization/>
-      </author>
-      <date year="1996" month="February"/>
-      <workgroup>cidrd</workgroup>
-      <abstract>
-        <t>This document describes address allocation for private internets.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC1918"/>
-    <seriesInfo name="BCP" value="5"/>
-    <seriesInfo name="RFC" value="1918"/>
+  <reference anchor="RFC1918">
+    <front/>
   </reference>
 </referencegroup>

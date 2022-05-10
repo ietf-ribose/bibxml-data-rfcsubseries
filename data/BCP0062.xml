@@ -1,18 +1,5 @@
 <referencegroup anchor="BCP62" target="https://www.rfc-editor.org/info/bcp62">
-  <reference anchor="RFC3366" target="https://www.rfc-editor.org/info/rfc3366">
-    <front>
-      <title>Advice to link designers on link Automatic Repeat reQuest (ARQ)</title>
-      <author fullname="G. Fairhurst" initials="G" surname="Fairhurst">
-        <organization/>
-      </author>
-      <author fullname="L. Wood" initials="L" surname="Wood">
-        <organization/>
-      </author>
-      <date year="2002" month="August"/>
-      <workgroup>pilc</workgroup>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC3366"/>
-    <seriesInfo name="BCP" value="62"/>
-    <seriesInfo name="RFC" value="3366"/>
+  <reference anchor="RFC3366">
+    <front/>
   </reference>
 </referencegroup>

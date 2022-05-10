@@ -1,17 +1,5 @@
 <referencegroup anchor="BCP131" target="https://www.rfc-editor.org/info/bcp131">
-  <reference anchor="RFC4961" target="https://www.rfc-editor.org/info/rfc4961">
-    <front>
-      <title>Symmetric RTP / RTP Control Protocol (RTCP)</title>
-      <author fullname="D. Wing" initials="D" surname="Wing">
-        <organization/>
-      </author>
-      <date year="2007" month="July"/>
-      <abstract>
-        <t>This document recommends using one UDP port pair for both communication directions of bidirectional RTP and RTP Control Protocol (RTCP) sessions, commonly called "symmetric RTP" and "symmetric RTCP".  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC4961"/>
-    <seriesInfo name="BCP" value="131"/>
-    <seriesInfo name="RFC" value="4961"/>
+  <reference anchor="RFC4961">
+    <front/>
   </reference>
 </referencegroup>

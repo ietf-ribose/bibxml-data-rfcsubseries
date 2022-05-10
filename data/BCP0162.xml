@@ -1,27 +1,5 @@
 <referencegroup anchor="BCP162" target="https://www.rfc-editor.org/info/bcp162">
-  <reference anchor="RFC6302" target="https://www.rfc-editor.org/info/rfc6302">
-    <front>
-      <title>Logging Recommendations for Internet-Facing Servers</title>
-      <author fullname="A. Durand" initials="A" surname="Durand">
-        <organization/>
-      </author>
-      <author fullname="I. Gashinsky" initials="I" surname="Gashinsky">
-        <organization/>
-      </author>
-      <author fullname="D. Lee" initials="D" surname="Lee">
-        <organization/>
-      </author>
-      <author fullname="S. Sheppard" initials="S" surname="Sheppard">
-        <organization/>
-      </author>
-      <date year="2011" month="June"/>
-      <workgroup>intarea</workgroup>
-      <abstract>
-        <t>In the wake of IPv4 exhaustion and deployment of IP address sharing techniques, this document recommends that Internet-facing servers log port number and accurate timestamps in addition to the incoming IP address.  This memo documents an Internet Best Current Practice.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC6302"/>
-    <seriesInfo name="BCP" value="162"/>
-    <seriesInfo name="RFC" value="6302"/>
+  <reference anchor="RFC6302">
+    <front/>
   </reference>
 </referencegroup>

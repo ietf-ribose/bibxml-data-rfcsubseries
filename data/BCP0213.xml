@@ -1,30 +1,5 @@
 <referencegroup anchor="BCP213" target="https://www.rfc-editor.org/info/bcp213">
-  <reference anchor="RFC8313" target="https://www.rfc-editor.org/info/rfc8313">
-    <front>
-      <title>Use of Multicast across Inter-domain Peering Points</title>
-      <author fullname="P. Tarapore" initials="P" surname="Tarapore">
-        <organization/>
-      </author>
-      <author fullname="R. Sayko" initials="R" surname="Sayko">
-        <organization/>
-      </author>
-      <author fullname="G. Shepherd" initials="G" surname="Shepherd">
-        <organization/>
-      </author>
-      <author fullname="T. Eckert" initials="T" surname="Eckert">
-        <organization/>
-      </author>
-      <author fullname="R. Krishnan" initials="R" surname="Krishnan">
-        <organization/>
-      </author>
-      <date year="2018" month="January"/>
-      <workgroup>mboned</workgroup>
-      <abstract>
-        <t>This document examines the use of Source-Specific Multicast (SSM) across inter-domain peering points for a specified set of deployment scenarios.  The objectives are to (1) describe the setup process for multicast-based delivery across administrative domains for these scenarios and (2) document supporting functionality to enable this process.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC8313"/>
-    <seriesInfo name="BCP" value="213"/>
-    <seriesInfo name="RFC" value="8313"/>
+  <reference anchor="RFC8313">
+    <front/>
   </reference>
 </referencegroup>

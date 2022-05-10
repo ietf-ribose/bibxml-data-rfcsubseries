@@ -1,21 +1,5 @@
 <referencegroup anchor="BCP184" target="https://www.rfc-editor.org/info/bcp184">
-  <reference anchor="RFC7013" target="https://www.rfc-editor.org/info/rfc7013">
-    <front>
-      <title>Guidelines for Authors and Reviewers of IP Flow Information Export (IPFIX) Information Elements</title>
-      <author fullname="B. Trammell" initials="B" surname="Trammell">
-        <organization/>
-      </author>
-      <author fullname="B. Claise" initials="B" surname="Claise">
-        <organization/>
-      </author>
-      <date year="2013" month="September"/>
-      <workgroup>ipfix</workgroup>
-      <abstract>
-        <t>This document provides guidelines for how to write definitions of new Information Elements for the IP Flow Information Export (IPFIX) protocol.  It provides instructions on using the proper conventions for Information Elements to be registered in the IANA IPFIX Information Element registry, and provides guidelines for expert reviewers to evaluate new registrations.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC7013"/>
-    <seriesInfo name="BCP" value="184"/>
-    <seriesInfo name="RFC" value="7013"/>
+  <reference anchor="RFC7013">
+    <front/>
   </reference>
 </referencegroup>

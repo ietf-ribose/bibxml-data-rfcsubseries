@@ -1,21 +1,5 @@
 <referencegroup anchor="BCP215" target="https://www.rfc-editor.org/info/bcp215">
-  <reference anchor="RFC8340" target="https://www.rfc-editor.org/info/rfc8340">
-    <front>
-      <title>YANG Tree Diagrams</title>
-      <author fullname="M. Bjorklund" initials="M" surname="Bjorklund">
-        <organization/>
-      </author>
-      <author fullname="L. Berger" initials="L" surname="Berger">
-        <organization/>
-      </author>
-      <date year="2018" month="March"/>
-      <workgroup>netmod</workgroup>
-      <abstract>
-        <t>This document captures the current syntax used in YANG module tree diagrams.  The purpose of this document is to provide a single location for this definition.  This syntax may be updated from time to time based on the evolution of the YANG language.</t>
-      </abstract>
-    </front>
-    <seriesInfo name="DOI" value="10.17487/RFC8340"/>
-    <seriesInfo name="BCP" value="215"/>
-    <seriesInfo name="RFC" value="8340"/>
+  <reference anchor="RFC8340">
+    <front/>
   </reference>
 </referencegroup>
