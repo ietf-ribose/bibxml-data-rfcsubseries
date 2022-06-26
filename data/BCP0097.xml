@@ -1,11 +1,5 @@
 <referencegroup anchor="BCP97" target="https://www.rfc-editor.org/info/bcp97">
-  <reference anchor="RFC3967">
-    <front/>
-  </reference>
-  <reference anchor="RFC4897">
-    <front/>
-  </reference>
-  <reference anchor="RFC8067">
-    <front/>
-  </reference>
+  <reference anchor="RFC3967"/>
+  <reference anchor="RFC4897"/>
+  <reference anchor="RFC8067"/>
 </referencegroup>

@@ -1,8 +1,4 @@
 <referencegroup anchor="BCP13" target="https://www.rfc-editor.org/info/bcp13">
-  <reference anchor="RFC4289">
-    <front/>
-  </reference>
-  <reference anchor="RFC6838">
-    <front/>
-  </reference>
+  <reference anchor="RFC4289"/>
+  <reference anchor="RFC6838"/>
 </referencegroup>

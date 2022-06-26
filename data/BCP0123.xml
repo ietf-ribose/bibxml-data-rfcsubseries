@@ -1,5 +1,3 @@
 <referencegroup anchor="BCP123" target="https://www.rfc-editor.org/info/bcp123">
-  <reference anchor="RFC4697">
-    <front/>
-  </reference>
+  <reference anchor="RFC4697"/>
 </referencegroup>

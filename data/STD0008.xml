@@ -1,3 +1,5 @@
 <reference anchor="STD8" target="https://www.rfc-editor.org/info/std8">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 8</title>
+  </front>
 </reference>

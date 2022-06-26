@@ -1,3 +1,5 @@
 <reference anchor="STD64" target="https://www.rfc-editor.org/info/std64">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 64</title>
+  </front>
 </reference>

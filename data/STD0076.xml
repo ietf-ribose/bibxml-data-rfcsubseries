@@ -1,3 +1,5 @@
 <reference anchor="STD76" target="https://www.rfc-editor.org/info/std76">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 76</title>
+  </front>
 </reference>

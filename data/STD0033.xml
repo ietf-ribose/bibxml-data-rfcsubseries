@@ -1,3 +1,5 @@
 <reference anchor="STD33" target="https://www.rfc-editor.org/info/std33">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 33</title>
+  </front>
 </reference>

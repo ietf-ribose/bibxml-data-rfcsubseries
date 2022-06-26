@@ -1,3 +1,5 @@
 <reference anchor="STD48" target="https://www.rfc-editor.org/info/std48">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 48</title>
+  </front>
 </reference>

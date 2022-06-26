@@ -1,3 +1,5 @@
 <reference anchor="STD42" target="https://www.rfc-editor.org/info/std42">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 42</title>
+  </front>
 </reference>

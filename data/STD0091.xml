@@ -1,3 +1,5 @@
 <reference anchor="STD91" target="https://www.rfc-editor.org/info/std91">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 91</title>
+  </front>
 </reference>

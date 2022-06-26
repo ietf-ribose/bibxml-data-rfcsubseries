@@ -1,3 +1,5 @@
 <reference anchor="STD77" target="https://www.rfc-editor.org/info/std77">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 77</title>
+  </front>
 </reference>

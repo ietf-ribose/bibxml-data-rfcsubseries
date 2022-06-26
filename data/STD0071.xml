@@ -1,3 +1,5 @@
 <reference anchor="STD71" target="https://www.rfc-editor.org/info/std71">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 71</title>
+  </front>
 </reference>

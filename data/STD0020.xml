@@ -1,3 +1,5 @@
 <reference anchor="STD20" target="https://www.rfc-editor.org/info/std20">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 20</title>
+  </front>
 </reference>

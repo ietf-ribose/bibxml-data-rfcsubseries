@@ -1,8 +1,4 @@
 <referencegroup anchor="BCP195" target="https://www.rfc-editor.org/info/bcp195">
-  <reference anchor="RFC7525">
-    <front/>
-  </reference>
-  <reference anchor="RFC8996">
-    <front/>
-  </reference>
+  <reference anchor="RFC7525"/>
+  <reference anchor="RFC8996"/>
 </referencegroup>

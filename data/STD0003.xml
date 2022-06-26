@@ -1,3 +1,5 @@
 <reference anchor="STD3" target="https://www.rfc-editor.org/info/std3">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 3</title>
+  </front>
 </reference>

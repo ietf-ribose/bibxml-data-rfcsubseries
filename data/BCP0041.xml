@@ -1,8 +1,4 @@
 <referencegroup anchor="BCP41" target="https://www.rfc-editor.org/info/bcp41">
-  <reference anchor="RFC2914">
-    <front/>
-  </reference>
-  <reference anchor="RFC7141">
-    <front/>
-  </reference>
+  <reference anchor="RFC2914"/>
+  <reference anchor="RFC7141"/>
 </referencegroup>

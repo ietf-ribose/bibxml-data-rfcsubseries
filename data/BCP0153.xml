@@ -1,11 +1,5 @@
 <referencegroup anchor="BCP153" target="https://www.rfc-editor.org/info/bcp153">
-  <reference anchor="RFC6598">
-    <front/>
-  </reference>
-  <reference anchor="RFC6890">
-    <front/>
-  </reference>
-  <reference anchor="RFC8190">
-    <front/>
-  </reference>
+  <reference anchor="RFC6598"/>
+  <reference anchor="RFC6890"/>
+  <reference anchor="RFC8190"/>
 </referencegroup>

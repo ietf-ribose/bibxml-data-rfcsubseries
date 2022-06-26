@@ -1,3 +1,5 @@
 <reference anchor="STD79" target="https://www.rfc-editor.org/info/std79">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 79</title>
+  </front>
 </reference>

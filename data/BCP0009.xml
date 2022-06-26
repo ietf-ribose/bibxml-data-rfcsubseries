@@ -1,23 +1,9 @@
 <referencegroup anchor="BCP9" target="https://www.rfc-editor.org/info/bcp9">
-  <reference anchor="RFC2026">
-    <front/>
-  </reference>
-  <reference anchor="RFC5657">
-    <front/>
-  </reference>
-  <reference anchor="RFC6410">
-    <front/>
-  </reference>
-  <reference anchor="RFC7100">
-    <front/>
-  </reference>
-  <reference anchor="RFC7127">
-    <front/>
-  </reference>
-  <reference anchor="RFC7475">
-    <front/>
-  </reference>
-  <reference anchor="RFC8789">
-    <front/>
-  </reference>
+  <reference anchor="RFC2026"/>
+  <reference anchor="RFC5657"/>
+  <reference anchor="RFC6410"/>
+  <reference anchor="RFC7100"/>
+  <reference anchor="RFC7127"/>
+  <reference anchor="RFC7475"/>
+  <reference anchor="RFC8789"/>
 </referencegroup>

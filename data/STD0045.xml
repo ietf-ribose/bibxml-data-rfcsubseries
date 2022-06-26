@@ -1,3 +1,5 @@
 <reference anchor="STD45" target="https://www.rfc-editor.org/info/std45">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 45</title>
+  </front>
 </reference>

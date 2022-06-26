@@ -1,3 +1,5 @@
 <reference anchor="STD35" target="https://www.rfc-editor.org/info/std35">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 35</title>
+  </front>
 </reference>

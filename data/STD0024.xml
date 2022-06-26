@@ -1,3 +1,5 @@
 <reference anchor="STD24" target="https://www.rfc-editor.org/info/std24">
-  <front/>
+  <front>
+    <title>Internet Standard technical specification 24</title>
+  </front>
 </reference>
