@@ -1,4 +1,4 @@
 <referencegroup anchor="BCP37" target="https://www.rfc-editor.org/info/bcp37">
-  <reference anchor="RFC2780"/>
-  <reference anchor="RFC5237"/>
+  <reference anchor="RFC.2780"/>
+  <reference anchor="RFC.5237"/>
 </referencegroup>

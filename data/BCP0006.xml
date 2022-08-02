@@ -1,5 +1,5 @@
 <referencegroup anchor="BCP6" target="https://www.rfc-editor.org/info/bcp6">
-  <reference anchor="RFC1930"/>
-  <reference anchor="RFC6996"/>
-  <reference anchor="RFC7300"/>
+  <reference anchor="RFC.1930"/>
+  <reference anchor="RFC.6996"/>
+  <reference anchor="RFC.7300"/>
 </referencegroup>

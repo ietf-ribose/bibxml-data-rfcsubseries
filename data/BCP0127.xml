@@ -1,5 +1,5 @@
 <referencegroup anchor="BCP127" target="https://www.rfc-editor.org/info/bcp127">
-  <reference anchor="RFC4787"/>
-  <reference anchor="RFC6888"/>
-  <reference anchor="RFC7857"/>
+  <reference anchor="RFC.4787"/>
+  <reference anchor="RFC.6888"/>
+  <reference anchor="RFC.7857"/>
 </referencegroup>

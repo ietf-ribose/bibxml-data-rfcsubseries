@@ -1,4 +1,4 @@
 <referencegroup anchor="BCP84" target="https://www.rfc-editor.org/info/bcp84">
-  <reference anchor="RFC3704"/>
-  <reference anchor="RFC8704"/>
+  <reference anchor="RFC.3704"/>
+  <reference anchor="RFC.8704"/>
 </referencegroup>

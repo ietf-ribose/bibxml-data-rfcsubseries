@@ -1,6 +1,6 @@
 <referencegroup anchor="BCP25" target="https://www.rfc-editor.org/info/bcp25">
-  <reference anchor="RFC2418"/>
-  <reference anchor="RFC3934"/>
-  <reference anchor="RFC7776"/>
-  <reference anchor="RFC8716"/>
+  <reference anchor="RFC.2418"/>
+  <reference anchor="RFC.3934"/>
+  <reference anchor="RFC.7776"/>
+  <reference anchor="RFC.8716"/>
 </referencegroup>
