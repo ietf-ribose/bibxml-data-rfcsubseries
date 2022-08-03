@@ -1,4 +1,4 @@
-<referencegroup anchor="BCP65" target="https://www.rfc-editor.org/info/bcp65">
+<referencegroup anchor="BCP.65" target="https://www.rfc-editor.org/info/bcp65">
   <reference anchor="RFC.3405"/>
   <reference anchor="RFC.8958"/>
 </referencegroup>
