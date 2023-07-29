@@ -1,0 +1,4 @@
+<referencegroup anchor="BCP.72" target="https://www.rfc-editor.org/info/bcp72">
+  <reference anchor="RFC.3552"/>
+  <reference anchor="RFC.9416"/>
+</referencegroup>
