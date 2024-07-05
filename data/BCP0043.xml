@@ -1,3 +1,22 @@
 <referencegroup anchor="BCP.43" target="https://www.rfc-editor.org/info/bcp43">
-  <reference anchor="RFC.2939"/>
+  <reference anchor="RFC.2939" target="https://www.rfc-editor.org/info/rfc2939">
+    <front>
+      <title>Procedures and IANA Guidelines for Definition of New DHCP Options and Message Types</title>
+      <author fullname="R. Droms" initials="R." surname="Droms">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2000" month="September"/>
+      <workgroup>dhc</workgroup>
+      <abstract>
+        <t>This document describes the procedure for defining new DHCP options and message types. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC2939"/>
+    <seriesInfo name="BCP" value="43"/>
+    <seriesInfo name="RFC" value="2939"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

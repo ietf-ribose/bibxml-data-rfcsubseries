@@ -1,4 +1,54 @@
 <referencegroup anchor="BCP.195" target="https://www.rfc-editor.org/info/bcp195">
-  <reference anchor="RFC.8996"/>
-  <reference anchor="RFC.9325"/>
+  <reference anchor="RFC.8996" target="https://www.rfc-editor.org/info/rfc8996">
+    <front>
+      <title>Deprecating TLS 1.0 and TLS 1.1</title>
+      <author fullname="K. Moriarty" initials="K." surname="Moriarty">
+        <organization/>
+      </author>
+      <author fullname="S. Farrell" initials="S." surname="Farrell">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2021" month="March"/>
+      <workgroup>tls</workgroup>
+      <abstract>
+        <t>This document formally deprecates Transport Layer Security (TLS) versions 1.0 (RFC 2246) and 1.1 (RFC 4346). Accordingly, those documents have been moved to Historic status. These versions lack support for current and recommended cryptographic algorithms and mechanisms, and various government and industry profiles of applications using TLS now mandate avoiding these old TLS versions. TLS version 1.2 became the recommended version for IETF protocols in 2008 (subsequently being obsoleted by TLS version 1.3 in 2018), providing sufficient time to transition away from older versions. Removing support for older versions from implementations reduces the attack surface, reduces opportunity for misconfiguration, and streamlines library and product maintenance.</t>
+        <t>This document also deprecates Datagram TLS (DTLS) version 1.0 (RFC 4347) but not DTLS version 1.2, and there is no DTLS version 1.1.</t>
+        <t>This document updates many RFCs that normatively refer to TLS version 1.0 or TLS version 1.1, as described herein. This document also updates the best practices for TLS usage in RFC 7525; hence, it is part of BCP 195.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8996"/>
+    <seriesInfo name="BCP" value="195"/>
+    <seriesInfo name="RFC" value="8996"/>
+    <seriesInfo name="IETF"/>
+  </reference>
+  <reference anchor="RFC.9325" target="https://www.rfc-editor.org/info/rfc9325">
+    <front>
+      <title>Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)</title>
+      <author fullname="Y. Sheffer" initials="Y." surname="Sheffer">
+        <organization/>
+      </author>
+      <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+        <organization/>
+      </author>
+      <author fullname="T. Fossati" initials="T." surname="Fossati">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2022" month="November"/>
+      <workgroup>uta</workgroup>
+      <abstract>
+        <t>Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) are used to protect data exchanged over a wide range of application protocols and can also form the basis for secure transport protocols. Over the years, the industry has witnessed several serious attacks on TLS and DTLS, including attacks on the most commonly used cipher suites and their modes of operation. This document provides the latest recommendations for ensuring the security of deployed services that use TLS and DTLS. These recommendations are applicable to the majority of use cases.</t>
+        <t>RFC 7525, an earlier version of the TLS recommendations, was published when the industry was transitioning to TLS 1.2. Years later, this transition is largely complete, and TLS 1.3 is widely available. This document updates the guidance given the new environment and obsoletes RFC 7525. In addition, this document updates RFCs 5288 and 6066 in view of recent attacks.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9325"/>
+    <seriesInfo name="BCP" value="195"/>
+    <seriesInfo name="RFC" value="9325"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

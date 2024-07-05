@@ -1,3 +1,22 @@
 <referencegroup anchor="BCP.237" target="https://www.rfc-editor.org/info/bcp237">
-  <reference anchor="RFC.9364"/>
+  <reference anchor="RFC.9364" target="https://www.rfc-editor.org/info/rfc9364">
+    <front>
+      <title>DNS Security Extensions (DNSSEC)</title>
+      <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2023" month="February"/>
+      <workgroup>dnsop</workgroup>
+      <abstract>
+        <t>This document describes the DNS Security Extensions (commonly called "DNSSEC") that are specified in RFCs 4033, 4034, and 4035, as well as a handful of others. One purpose is to introduce all of the RFCs in one place so that the reader can understand the many aspects of DNSSEC. This document does not update any of those RFCs. A second purpose is to state that using DNSSEC for origin authentication of DNS data is the best current practice. A third purpose is to provide a single reference for other documents that want to refer to DNSSEC.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9364"/>
+    <seriesInfo name="BCP" value="237"/>
+    <seriesInfo name="RFC" value="9364"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

@@ -1,3 +1,25 @@
 <referencegroup anchor="BCP.44" target="https://www.rfc-editor.org/info/bcp44">
-  <reference anchor="RFC.2964"/>
+  <reference anchor="RFC.2964" target="https://www.rfc-editor.org/info/rfc2964">
+    <front>
+      <title>Use of HTTP State Management</title>
+      <author fullname="K. Moore" initials="K." surname="Moore">
+        <organization/>
+      </author>
+      <author fullname="N. Freed" initials="N." surname="Freed">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2000" month="October"/>
+      <workgroup>IESG</workgroup>
+      <abstract>
+        <t>This memo identifies specific uses of Hypertext Transfer Protocol (HTTP) State Management protocol which are either (a) not recommended by the IETF, or (b) believed to be harmful, and discouraged. This memo also details additional privacy considerations which are not covered by the HTTP State Management protocol specification. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC2964"/>
+    <seriesInfo name="BCP" value="44"/>
+    <seriesInfo name="RFC" value="2964"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

@@ -1,3 +1,22 @@
 <referencegroup anchor="BCP.143" target="https://www.rfc-editor.org/info/bcp143">
-  <reference anchor="RFC.5383"/>
+  <reference anchor="RFC.5383" target="https://www.rfc-editor.org/info/rfc5383">
+    <front>
+      <title>Deployment Considerations for Lemonade-Compliant Mobile Email</title>
+      <author fullname="R. Gellens" initials="R." surname="Gellens">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2008" month="October"/>
+      <workgroup>lemonade</workgroup>
+      <abstract>
+        <t>This document discusses deployment issues and describes requirements for successful deployment of mobile email that are implicit in the IETF lemonade documents. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC5383"/>
+    <seriesInfo name="BCP" value="143"/>
+    <seriesInfo name="RFC" value="5383"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

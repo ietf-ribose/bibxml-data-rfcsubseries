@@ -1,3 +1,28 @@
 <referencegroup anchor="BCP.223" target="https://www.rfc-editor.org/info/bcp223">
-  <reference anchor="RFC.8633"/>
+  <reference anchor="RFC.8633" target="https://www.rfc-editor.org/info/rfc8633">
+    <front>
+      <title>Network Time Protocol Best Current Practices</title>
+      <author fullname="D. Reilly" initials="D." surname="Reilly">
+        <organization/>
+      </author>
+      <author fullname="H. Stenn" initials="H." surname="Stenn">
+        <organization/>
+      </author>
+      <author fullname="D. Sibold" initials="D." surname="Sibold">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2019" month="July"/>
+      <workgroup>ntp</workgroup>
+      <abstract>
+        <t>The Network Time Protocol (NTP) is one of the oldest protocols on the Internet and has been widely used since its initial publication. This document is a collection of best practices for the general operation of NTP servers and clients on the Internet. It includes recommendations for the stable, accurate, and secure operation of NTP infrastructure. This document is targeted at NTP version 4 as described in RFC 5905.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8633"/>
+    <seriesInfo name="BCP" value="223"/>
+    <seriesInfo name="RFC" value="8633"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

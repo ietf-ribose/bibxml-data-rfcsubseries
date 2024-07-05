@@ -1,5 +1,90 @@
 <referencegroup anchor="BCP.127" target="https://www.rfc-editor.org/info/bcp127">
-  <reference anchor="RFC.4787"/>
-  <reference anchor="RFC.6888"/>
-  <reference anchor="RFC.7857"/>
+  <reference anchor="RFC.4787" target="https://www.rfc-editor.org/info/rfc4787">
+    <front>
+      <title>Network Address Translation (NAT) Behavioral Requirements for Unicast UDP</title>
+      <author role="editor" fullname="F. Audet" initials="F." surname="Audet">
+        <organization/>
+      </author>
+      <author fullname="C. Jennings" initials="C." surname="Jennings">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2007" month="January"/>
+      <workgroup>behave</workgroup>
+      <abstract>
+        <t>This document defines basic terminology for describing different types of Network Address Translation (NAT) behavior when handling Unicast UDP and also defines a set of requirements that would allow many applications, such as multimedia communications or online gaming, to work consistently. Developing NATs that meet this set of requirements will greatly increase the likelihood that these applications will function properly. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC4787"/>
+    <seriesInfo name="BCP" value="127"/>
+    <seriesInfo name="RFC" value="4787"/>
+    <seriesInfo name="IETF"/>
+  </reference>
+  <reference anchor="RFC.6888" target="https://www.rfc-editor.org/info/rfc6888">
+    <front>
+      <title>Common Requirements for Carrier-Grade NATs (CGNs)</title>
+      <author role="editor" fullname="S. Perreault" initials="S." surname="Perreault">
+        <organization/>
+      </author>
+      <author fullname="I. Yamagata" initials="I." surname="Yamagata">
+        <organization/>
+      </author>
+      <author fullname="S. Miyakawa" initials="S." surname="Miyakawa">
+        <organization/>
+      </author>
+      <author fullname="A. Nakagawa" initials="A." surname="Nakagawa">
+        <organization/>
+      </author>
+      <author fullname="H. Ashida" initials="H." surname="Ashida">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2013" month="April"/>
+      <workgroup>behave</workgroup>
+      <abstract>
+        <t>This document defines common requirements for Carrier-Grade NATs (CGNs). It updates RFC 4787.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC6888"/>
+    <seriesInfo name="BCP" value="127"/>
+    <seriesInfo name="RFC" value="6888"/>
+    <seriesInfo name="IETF"/>
+  </reference>
+  <reference anchor="RFC.7857" target="https://www.rfc-editor.org/info/rfc7857">
+    <front>
+      <title>Updates to Network Address Translation (NAT) Behavioral Requirements</title>
+      <author fullname="R. Penno" initials="R." surname="Penno">
+        <organization/>
+      </author>
+      <author fullname="S. Perreault" initials="S." surname="Perreault">
+        <organization/>
+      </author>
+      <author role="editor" fullname="M. Boucadair" initials="M." surname="Boucadair">
+        <organization/>
+      </author>
+      <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+        <organization/>
+      </author>
+      <author fullname="K. Naito" initials="K." surname="Naito">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2016" month="April"/>
+      <workgroup>tsvwg</workgroup>
+      <abstract>
+        <t>This document clarifies and updates several requirements of RFCs 4787, 5382, and 5508 based on operational and development experience. The focus of this document is Network Address Translation from IPv4 to IPv4 (NAT44).</t>
+        <t>This document updates RFCs 4787, 5382, and 5508.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC7857"/>
+    <seriesInfo name="BCP" value="127"/>
+    <seriesInfo name="RFC" value="7857"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

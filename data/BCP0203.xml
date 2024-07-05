@@ -1,3 +1,21 @@
 <referencegroup anchor="BCP.203" target="https://www.rfc-editor.org/info/bcp203">
-  <reference anchor="RFC.7803"/>
+  <reference anchor="RFC.7803" target="https://www.rfc-editor.org/info/rfc7803">
+    <front>
+      <title>Changing the Registration Policy for the NETCONF Capability URNs Registry</title>
+      <author fullname="B. Leiba" initials="B." surname="Leiba">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2016" month="February"/>
+      <abstract>
+        <t>The registration policy for the "Network Configuration Protocol (NETCONF) Capability URNs" registry, set up by RFC 6241, has turned out to be unnecessarily strict. This document changes that registration policy to "IETF Review", allowing registrations from certain well-reviewed Experimental RFCs, in addition to Standards Track RFCs.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC7803"/>
+    <seriesInfo name="BCP" value="203"/>
+    <seriesInfo name="RFC" value="7803"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

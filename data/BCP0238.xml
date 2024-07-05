@@ -1,3 +1,34 @@
 <referencegroup anchor="BCP.238" target="https://www.rfc-editor.org/info/bcp238">
-  <reference anchor="RFC.9455"/>
+  <reference anchor="RFC.9455" target="https://www.rfc-editor.org/info/rfc9455">
+    <front>
+      <title>Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP Prefixes</title>
+      <author fullname="Z. Yan" initials="Z." surname="Yan">
+        <organization/>
+      </author>
+      <author fullname="R. Bush" initials="R." surname="Bush">
+        <organization/>
+      </author>
+      <author fullname="G. Geng" initials="G." surname="Geng">
+        <organization/>
+      </author>
+      <author fullname="T. de Kock" initials="T." surname="de Kock">
+        <organization/>
+      </author>
+      <author fullname="J. Yao" initials="J." surname="Yao">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2023" month="August"/>
+      <workgroup>sidrops</workgroup>
+      <abstract>
+        <t>When using the Resource Public Key Infrastructure (RPKI), address space holders need to issue Route Origin Authorization (ROA) object(s) to authorize one or more Autonomous Systems (ASes) to originate BGP routes to IP address prefix(es). This memo discusses operational problems that may arise from ROAs containing multiple IP prefixes and recommends that each ROA contain a single IP prefix.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9455"/>
+    <seriesInfo name="BCP" value="238"/>
+    <seriesInfo name="RFC" value="9455"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

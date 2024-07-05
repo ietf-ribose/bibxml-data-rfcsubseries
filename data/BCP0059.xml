@@ -1,3 +1,18 @@
 <referencegroup anchor="BCP.59" target="https://www.rfc-editor.org/info/bcp59">
-  <reference anchor="RFC.3349"/>
+  <reference anchor="RFC.3349" target="https://www.rfc-editor.org/info/rfc3349">
+    <front>
+      <title>A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force</title>
+      <author fullname="M. Rose" initials="M." surname="Rose">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2002" month="July"/>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC3349"/>
+    <seriesInfo name="BCP" value="59"/>
+    <seriesInfo name="RFC" value="3349"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

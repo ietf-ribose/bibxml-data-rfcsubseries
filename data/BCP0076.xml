@@ -1,3 +1,34 @@
 <referencegroup anchor="BCP.76" target="https://www.rfc-editor.org/info/bcp76">
-  <reference anchor="RFC.3666"/>
+  <reference anchor="RFC.3666" target="https://www.rfc-editor.org/info/rfc3666">
+    <front>
+      <title>Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows</title>
+      <author fullname="A. Johnston" initials="A." surname="Johnston">
+        <organization/>
+      </author>
+      <author fullname="S. Donovan" initials="S." surname="Donovan">
+        <organization/>
+      </author>
+      <author fullname="R. Sparks" initials="R." surname="Sparks">
+        <organization/>
+      </author>
+      <author fullname="C. Cunningham" initials="C." surname="Cunningham">
+        <organization/>
+      </author>
+      <author fullname="K. Summers" initials="K." surname="Summers">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2003" month="December"/>
+      <workgroup>sipping</workgroup>
+      <abstract>
+        <t>This document contains best current practice examples of Session Initiation Protocol (SIP) call flows showing interworking with the Public Switched Telephone Network (PSTN). Elements in these call flows include SIP User Agents, SIP Proxy Servers, and PSTN Gateways. Scenarios include SIP to PSTN, PSTN to SIP, and PSTN to PSTN via SIP. PSTN telephony protocols are illustrated using ISDN (Integrated Services Digital Network), ISUP (ISDN User Part), and FGB (Feature Group B) circuit associated signaling. PSTN calls are illustrated using global telephone numbers from the PSTN and private extensions served on by a PBX (Private Branch Exchange). Call flow diagrams and message details are shown.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC3666"/>
+    <seriesInfo name="BCP" value="76"/>
+    <seriesInfo name="RFC" value="3666"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

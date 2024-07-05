@@ -1,3 +1,24 @@
 <referencegroup anchor="BCP.77" target="https://www.rfc-editor.org/info/bcp77">
-  <reference anchor="RFC.3677"/>
+  <reference anchor="RFC.3677" target="https://www.rfc-editor.org/info/rfc3677">
+    <front>
+      <title>IETF ISOC Board of Trustee Appointment Procedures</title>
+      <author role="editor" fullname="L. Daigle" initials="L." surname="Daigle">
+        <organization/>
+      </author>
+      <author>
+        <organization abbrev="IAB">Internet Architecture Board</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2003" month="December"/>
+      <abstract>
+        <t>This memo outlines the process by which the IETF makes a selection of an Internet Society (ISOC) Board of Trustees appointment.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC3677"/>
+    <seriesInfo name="BCP" value="77"/>
+    <seriesInfo name="RFC" value="3677"/>
+    <seriesInfo name="IAB"/>
+  </reference>
 </referencegroup>

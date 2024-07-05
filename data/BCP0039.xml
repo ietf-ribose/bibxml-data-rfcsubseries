@@ -1,4 +1,43 @@
 <referencegroup anchor="BCP.39" target="https://www.rfc-editor.org/info/bcp39">
-  <reference anchor="RFC.2850"/>
-  <reference anchor="RFC.9283"/>
+  <reference anchor="RFC.2850" target="https://www.rfc-editor.org/info/rfc2850">
+    <front>
+      <title>Charter of the Internet Architecture Board (IAB)</title>
+      <author>
+        <organization abbrev="IAB">Internet Architecture Board</organization>
+      </author>
+      <author role="editor" fullname="B. Carpenter" initials="B." surname="Carpenter">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2000" month="May"/>
+      <abstract>
+        <t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board. It replaces RFC 1601. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC2850"/>
+    <seriesInfo name="BCP" value="39"/>
+    <seriesInfo name="RFC" value="2850"/>
+    <seriesInfo name="IAB"/>
+  </reference>
+  <reference anchor="RFC.9283" target="https://www.rfc-editor.org/info/rfc9283">
+    <front>
+      <title>IAB Charter Update for RFC Editor Model</title>
+      <author role="editor" fullname="B. Carpenter" initials="B." surname="Carpenter">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2022" month="June"/>
+      <abstract>
+        <t>This document updates the IAB Charter (RFC 2850) to be consistent with version 3 of the RFC Editor Model (RFC 9280).</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9283"/>
+    <seriesInfo name="BCP" value="39"/>
+    <seriesInfo name="RFC" value="9283"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

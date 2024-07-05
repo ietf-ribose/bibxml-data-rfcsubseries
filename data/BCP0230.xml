@@ -1,3 +1,38 @@
 <referencegroup anchor="BCP.230" target="https://www.rfc-editor.org/info/bcp230">
-  <reference anchor="RFC.8900"/>
+  <reference anchor="RFC.8900" target="https://www.rfc-editor.org/info/rfc8900">
+    <front>
+      <title>IP Fragmentation Considered Fragile</title>
+      <author fullname="R. Bonica" initials="R." surname="Bonica">
+        <organization/>
+      </author>
+      <author fullname="F. Baker" initials="F." surname="Baker">
+        <organization/>
+      </author>
+      <author fullname="G. Huston" initials="G." surname="Huston">
+        <organization/>
+      </author>
+      <author fullname="R. Hinden" initials="R." surname="Hinden">
+        <organization/>
+      </author>
+      <author fullname="O. Troan" initials="O." surname="Troan">
+        <organization/>
+      </author>
+      <author fullname="F. Gont" initials="F." surname="Gont">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2020" month="September"/>
+      <workgroup>intarea</workgroup>
+      <abstract>
+        <t>This document describes IP fragmentation and explains how it introduces fragility to Internet communication.</t>
+        <t>This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC8900"/>
+    <seriesInfo name="BCP" value="230"/>
+    <seriesInfo name="RFC" value="8900"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

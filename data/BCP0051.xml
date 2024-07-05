@@ -1,3 +1,28 @@
 <referencegroup anchor="BCP.51" target="https://www.rfc-editor.org/info/bcp51">
-  <reference anchor="RFC.5771"/>
+  <reference anchor="RFC.5771" target="https://www.rfc-editor.org/info/rfc5771">
+    <front>
+      <title>IANA Guidelines for IPv4 Multicast Address Assignments</title>
+      <author fullname="M. Cotton" initials="M." surname="Cotton">
+        <organization/>
+      </author>
+      <author fullname="L. Vegoda" initials="L." surname="Vegoda">
+        <organization/>
+      </author>
+      <author fullname="D. Meyer" initials="D." surname="Meyer">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2010" month="March"/>
+      <workgroup>mboned</workgroup>
+      <abstract>
+        <t>This document provides guidance for the Internet Assigned Numbers Authority (IANA) in assigning IPv4 multicast addresses. It obsoletes RFC 3171 and RFC 3138 and updates RFC 2780. This memo documents an Internet Best Current Practice.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC5771"/>
+    <seriesInfo name="BCP" value="51"/>
+    <seriesInfo name="RFC" value="5771"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

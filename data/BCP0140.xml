@@ -1,3 +1,25 @@
 <referencegroup anchor="BCP.140" target="https://www.rfc-editor.org/info/bcp140">
-  <reference anchor="RFC.5358"/>
+  <reference anchor="RFC.5358" target="https://www.rfc-editor.org/info/rfc5358">
+    <front>
+      <title>Preventing Use of Recursive Nameservers in Reflector Attacks</title>
+      <author fullname="J. Damas" initials="J." surname="Damas">
+        <organization/>
+      </author>
+      <author fullname="F. Neves" initials="F." surname="Neves">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2008" month="October"/>
+      <workgroup>dnsop</workgroup>
+      <abstract>
+        <t>This document describes ways to prevent the use of default configured recursive nameservers as reflectors in Denial of Service (DoS) attacks. It provides recommended configuration as measures to mitigate the attack. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC5358"/>
+    <seriesInfo name="BCP" value="140"/>
+    <seriesInfo name="RFC" value="5358"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

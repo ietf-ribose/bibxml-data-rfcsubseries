@@ -1,3 +1,34 @@
 <referencegroup anchor="BCP.187" target="https://www.rfc-editor.org/info/bcp187">
-  <reference anchor="RFC.7227"/>
+  <reference anchor="RFC.7227" target="https://www.rfc-editor.org/info/rfc7227">
+    <front>
+      <title>Guidelines for Creating New DHCPv6 Options</title>
+      <author fullname="D. Hankins" initials="D." surname="Hankins">
+        <organization/>
+      </author>
+      <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+        <organization/>
+      </author>
+      <author fullname="M. Siodelski" initials="M." surname="Siodelski">
+        <organization/>
+      </author>
+      <author fullname="S. Jiang" initials="S." surname="Jiang">
+        <organization/>
+      </author>
+      <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2014" month="May"/>
+      <workgroup>dhc</workgroup>
+      <abstract>
+        <t>This document provides guidance to prospective DHCPv6 option developers to help them create option formats that are easily adoptable by existing DHCPv6 software. It also provides guidelines for expert reviewers to evaluate new registrations. This document updates RFC 3315.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC7227"/>
+    <seriesInfo name="BCP" value="187"/>
+    <seriesInfo name="RFC" value="7227"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

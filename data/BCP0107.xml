@@ -1,3 +1,24 @@
 <referencegroup anchor="BCP.107" target="https://www.rfc-editor.org/info/bcp107">
-  <reference anchor="RFC.4107"/>
+  <reference anchor="RFC.4107" target="https://www.rfc-editor.org/info/rfc4107">
+    <front>
+      <title>Guidelines for Cryptographic Key Management</title>
+      <author fullname="S. Bellovin" initials="S." surname="Bellovin">
+        <organization/>
+      </author>
+      <author fullname="R. Housley" initials="R." surname="Housley">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2005" month="June"/>
+      <abstract>
+        <t>The question often arises of whether a given security system requires some form of automated key management, or whether manual keying is sufficient. This memo provides guidelines for making such decisions. When symmetric cryptographic mechanisms are used in a protocol, the presumption is that automated key management is generally but not always needed. If manual keying is proposed, the burden of proving that automated key management is not required falls to the proposer. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC4107"/>
+    <seriesInfo name="BCP" value="107"/>
+    <seriesInfo name="RFC" value="4107"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

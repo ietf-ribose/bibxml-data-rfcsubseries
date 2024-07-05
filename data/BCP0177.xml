@@ -1,3 +1,31 @@
 <referencegroup anchor="BCP.177" target="https://www.rfc-editor.org/info/bcp177">
-  <reference anchor="RFC.6540"/>
+  <reference anchor="RFC.6540" target="https://www.rfc-editor.org/info/rfc6540">
+    <front>
+      <title>IPv6 Support Required for All IP-Capable Nodes</title>
+      <author fullname="W. George" initials="W." surname="George">
+        <organization/>
+      </author>
+      <author fullname="C. Donley" initials="C." surname="Donley">
+        <organization/>
+      </author>
+      <author fullname="C. Liljenstolpe" initials="C." surname="Liljenstolpe">
+        <organization/>
+      </author>
+      <author fullname="L. Howard" initials="L." surname="Howard">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2012" month="April"/>
+      <workgroup>intarea</workgroup>
+      <abstract>
+        <t>Given the global lack of available IPv4 space, and limitations in IPv4 extension and transition technologies, this document advises that IPv6 support is no longer considered optional. It also cautions that there are places in existing IETF documents where the term "IP" is used in a way that could be misunderstood by implementers as the term "IP" becomes a generic that can mean IPv4 + IPv6, IPv6-only, or IPv4-only, depending on context and application. This memo documents an Internet Best Current Practice.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC6540"/>
+    <seriesInfo name="BCP" value="177"/>
+    <seriesInfo name="RFC" value="6540"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>

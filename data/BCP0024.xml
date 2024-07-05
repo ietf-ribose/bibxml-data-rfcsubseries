@@ -1,3 +1,22 @@
 <referencegroup anchor="BCP.24" target="https://www.rfc-editor.org/info/bcp24">
-  <reference anchor="RFC.2379"/>
+  <reference anchor="RFC.2379" target="https://www.rfc-editor.org/info/rfc2379">
+    <front>
+      <title>RSVP over ATM Implementation Guidelines</title>
+      <author fullname="L. Berger" initials="L." surname="Berger">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="1998" month="August"/>
+      <workgroup>issll</workgroup>
+      <abstract>
+        <t>This memo presents specific implementation guidelines for running RSVP over ATM switched virtual circuits (SVCs). This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC2379"/>
+    <seriesInfo name="BCP" value="24"/>
+    <seriesInfo name="RFC" value="2379"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>
