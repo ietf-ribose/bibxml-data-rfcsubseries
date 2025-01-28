@@ -59,4 +59,26 @@
     <seriesInfo name="RFC" value="9137"/>
     <seriesInfo name="IETF"/>
   </reference>
+  <reference anchor="RFC.9712" target="https://www.rfc-editor.org/info/rfc9712">
+    <front>
+      <title>IETF Meeting Venue Requirements Review</title>
+      <author fullname="J. Daley" initials="J." surname="Daley">
+        <organization/>
+      </author>
+      <author fullname="S. Turner" initials="S." surname="Turner">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2025" month="January"/>
+      <abstract>
+        <t>Following a review of the IETF meeting venue requirements, this document updates RFC 8718 ("IETF Plenary Meeting Venue Selection Process"), clarifies how the IETF Administration Support Activity (IASA) should interpret some elements of RFC 8718, and specifies a replacement exploratory meeting process, thereby updating RFC 8719 ("High-Level Guidance for the Meeting Policy of the IETF").</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9712"/>
+    <seriesInfo name="BCP" value="226"/>
+    <seriesInfo name="RFC" value="9712"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>
