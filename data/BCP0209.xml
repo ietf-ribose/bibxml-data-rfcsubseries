@@ -1,5 +1,5 @@
 <referencegroup anchor="BCP.209" target="https://www.rfc-editor.org/info/bcp209">
-  <reference anchor="RFC.8109" target="https://www.rfc-editor.org/info/rfc8109">
+  <reference anchor="RFC.9609" target="https://www.rfc-editor.org/info/rfc9609">
     <front>
       <title>Initializing a DNS Resolver with Priming Queries</title>
       <author fullname="P. Koch" initials="P." surname="Koch">
@@ -14,15 +14,16 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date year="2017" month="March"/>
+      <date year="2025" month="February"/>
       <workgroup>dnsop</workgroup>
       <abstract>
-        <t>This document describes the queries that a DNS resolver should emit to initialize its cache. The result is that the resolver gets both a current NS Resource Record Set (RRset) for the root zone and the necessary address information for reaching the root servers.</t>
+        <t>This document describes the queries that a DNS resolver should emit to initialize its cache. The result is that the resolver gets both a current NS resource record set (RRset) for the root zone and the necessary address information for reaching the root servers.</t>
+        <t>This document obsoletes RFC 8109.</t>
       </abstract>
     </front>
-    <seriesInfo name="DOI" value="10.17487/RFC8109"/>
+    <seriesInfo name="DOI" value="10.17487/RFC9609"/>
     <seriesInfo name="BCP" value="209"/>
-    <seriesInfo name="RFC" value="8109"/>
+    <seriesInfo name="RFC" value="9609"/>
     <seriesInfo name="IETF"/>
   </reference>
 </referencegroup>
