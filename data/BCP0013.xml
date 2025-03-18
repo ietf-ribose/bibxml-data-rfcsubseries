@@ -47,4 +47,24 @@
     <seriesInfo name="RFC" value="6838"/>
     <seriesInfo name="IETF"/>
   </reference>
+  <reference anchor="RFC.9694" target="https://www.rfc-editor.org/info/rfc9694">
+    <front>
+      <title>Guidelines for the Definition of New Top-Level Media Types</title>
+      <author fullname="M.J. Dürst" initials="M.J." surname="Dürst">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2025" month="March"/>
+      <workgroup>mediaman</workgroup>
+      <abstract>
+        <t>This document defines best practices for defining new top-level media types. It also introduces a registry for top-level media types, and contains a short history of top-level media types. It updates RFC 6838.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9694"/>
+    <seriesInfo name="BCP" value="13"/>
+    <seriesInfo name="RFC" value="9694"/>
+    <seriesInfo name="IETF"/>
+  </reference>
 </referencegroup>
