@@ -1,22 +1,23 @@
 <referencegroup anchor="BCP.57" target="https://www.rfc-editor.org/info/bcp57">
-  <reference anchor="RFC.3228" target="https://www.rfc-editor.org/info/rfc3228">
+  <reference anchor="RFC.9778" target="https://www.rfc-editor.org/info/rfc9778">
     <front>
-      <title>IANA Considerations for IPv4 Internet Group Management Protocol (IGMP)</title>
-      <author fullname="B. Fenner" initials="B." surname="Fenner">
+      <title>IANA Considerations for Internet Group Management Protocols</title>
+      <author role="editor" fullname="B. Haberman" initials="B." surname="Haberman">
         <organization/>
       </author>
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date year="2002" month="February"/>
-      <workgroup>magma</workgroup>
+      <date year="2025" month="March"/>
+      <workgroup>pim</workgroup>
       <abstract>
-        <t>This memo requests that the IANA create a registry for fields in the IGMP (Internet Group Management Protocol) protocol header, and provides guidance for the IANA to use in assigning parameters for those fields. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+        <t>This document specifies revised IANA considerations for the Internet Group Management Protocol (IGMP) and the Multicast Listener Discovery (MLD) protocol. This document specifies the guidance provided to IANA to manage values associated with various fields within the protocol headers of the group management protocols.</t>
+        <t>This document obsoletes RFC 3228 and unifies guidelines for IPv4 and IPv6 group management protocols.</t>
       </abstract>
     </front>
-    <seriesInfo name="DOI" value="10.17487/RFC3228"/>
+    <seriesInfo name="DOI" value="10.17487/RFC9778"/>
     <seriesInfo name="BCP" value="57"/>
-    <seriesInfo name="RFC" value="3228"/>
+    <seriesInfo name="RFC" value="9778"/>
     <seriesInfo name="IETF"/>
   </reference>
 </referencegroup>
