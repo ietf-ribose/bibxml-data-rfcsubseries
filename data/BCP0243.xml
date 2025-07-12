@@ -1,0 +1,22 @@
+<referencegroup anchor="BCP.243" target="https://www.rfc-editor.org/info/bcp243">
+  <reference anchor="RFC.9813" target="https://www.rfc-editor.org/info/rfc9813">
+    <front>
+      <title>Operational Considerations for Using TLS Pre-Shared Keys (TLS-PSKs) with RADIUS</title>
+      <author fullname="A. DeKok" initials="A." surname="DeKok">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2025" month="July"/>
+      <workgroup>radext</workgroup>
+      <abstract>
+        <t>This document provides implementation and operational considerations for using TLS Pre-Shared Keys (TLS-PSKs) with RADIUS/TLS (RFC 6614) and RADIUS/DTLS (RFC 7360). The purpose of the document is to help smooth the operational transition from the use of RADIUS/UDP to RADIUS/TLS.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9813"/>
+    <seriesInfo name="BCP" value="243"/>
+    <seriesInfo name="RFC" value="9813"/>
+    <seriesInfo name="IETF"/>
+  </reference>
+</referencegroup>
