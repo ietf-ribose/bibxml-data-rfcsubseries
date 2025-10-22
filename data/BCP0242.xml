@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP.242" target="https://www.rfc-editor.org/info/bcp242">
+  <reference anchor="RFC.9812" target="https://www.rfc-editor.org/info/rfc9812">
+    <front>
+      <title>Clarification of IPv6 Address Allocation Policy</title>
+      <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+        <organization/>
+      </author>
+      <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+        <organization/>
+      </author>
+      <author fullname="D. Farmer" initials="D." surname="Farmer">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2025" month="October"/>
+      <workgroup>6man</workgroup>
+      <abstract>
+        <t>This document specifies the approval process for changes to the "IPv6
+Address Space" registry. It also updates RFC 7249.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9812"/>
+    <seriesInfo name="BCP" value="242"/>
+    <seriesInfo name="RFC" value="9812"/>
+    <seriesInfo name="IETF"/>
+  </reference>
+</referencegroup>
