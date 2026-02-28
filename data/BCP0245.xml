@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP.245" target="https://www.rfc-editor.org/info/bcp245">
+  <reference anchor="RFC.9945" target="https://www.rfc-editor.org/info/rfc9945">
+    <front>
+      <title>IETF Community Moderation</title>
+      <author role="editor" fullname="L. Eggert" initials="L." surname="Eggert">
+        <organization/>
+      </author>
+      <author role="editor" fullname="E. Lear" initials="E." surname="Lear">
+        <organization/>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date year="2026" month="February"/>
+      <workgroup>modpod</workgroup>
+      <abstract>
+        <t>The IETF community will treat people with kindness and grace, but not endless patience.</t>
+        <t>This memo obsoletes RFCs 3683 and 3934, and it updates RFCs 2418 and 9245 by establishing a policy for the moderation of disruptive participation across the IETF's various public contribution channels and discussion fora. It establishes guardrails for moderation and a moderator team. That team will develop a set of moderation procedures and facilitate their consistent implementation with chairs and administrators.</t>
+      </abstract>
+    </front>
+    <seriesInfo name="DOI" value="10.17487/RFC9945"/>
+    <seriesInfo name="BCP" value="245"/>
+    <seriesInfo name="RFC" value="9945"/>
+    <seriesInfo name="IETF"/>
+  </reference>
+</referencegroup>
