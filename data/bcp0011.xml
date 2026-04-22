@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP11" target="https://www.rfc-editor.org/info/bcp11">
+  <reference anchor="RFC9281" target="https://www.rfc-editor.org/info/rfc9281">
+    <front>
+      <title>Entities Involved in the IETF Standards Process</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9281"/>
+      <seriesInfo name="BCP" value="11"/>
+      <seriesInfo name="RFC" value="9281"/>
+      <seriesInfo name="IETF"/>
+      <author initials="R." surname="Salz" fullname="R. Salz"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="2022"></date>
+      <keyword>IESG</keyword>
+      <keyword>RFC Editor</keyword>
+      <keyword>IRTF</keyword>
+      <keyword>IETF LLC</keyword>
+      <keyword>ISOC</keyword>
+      <keyword>registries</keyword>
+      <keyword>IANA</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the individuals and organizations involved in the IETF standards process, as described in BCP 9. It includes brief descriptions of the entities involved and the role they play in the standards process.&lt;/p&gt;&lt;p&gt;The IETF and its structure have undergone many changes since RFC 2028 was published in 1996. This document reflects the changed organizational structure of the IETF and obsoletes RFC 2028.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

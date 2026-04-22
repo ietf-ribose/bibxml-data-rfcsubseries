@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP215" target="https://www.rfc-editor.org/info/bcp215">
+  <reference anchor="RFC8340" target="https://www.rfc-editor.org/info/rfc8340">
+    <front>
+      <title>YANG Tree Diagrams</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8340"/>
+      <seriesInfo name="BCP" value="215"/>
+      <seriesInfo name="RFC" value="8340"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Bjorklund" fullname="M. Bjorklund"/>
+      <author initials="L." surname="Berger" fullname="L. Berger" role="editor"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2018"></date>
+      <workgroup>Network Modeling</workgroup>
+      <abstract>
+        <t>&lt;p&gt;This document captures the current syntax used in YANG module tree diagrams.  The purpose of this document is to provide a single location for this definition.  This syntax may be updated from time to time based on the evolution of the YANG language.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

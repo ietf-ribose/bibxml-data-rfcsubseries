@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP161" target="https://www.rfc-editor.org/info/bcp161">
+  <reference anchor="RFC6291" target="https://www.rfc-editor.org/info/rfc6291">
+    <front>
+      <title>Guidelines for the Use of the "OAM" Acronym in the IETF</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6291"/>
+      <seriesInfo name="BCP" value="161"/>
+      <seriesInfo name="RFC" value="6291"/>
+      <seriesInfo name="IETF"/>
+      <author initials="L." surname="Andersson" fullname="L. Andersson"/>
+      <author initials="H." surname="van Helvoort" fullname="H. van Helvoort"/>
+      <author initials="R." surname="Bonica" fullname="R. Bonica"/>
+      <author initials="D." surname="Romascanu" fullname="D. Romascanu"/>
+      <author initials="S." surname="Mansfield" fullname="S. Mansfield"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="2011"></date>
+      <workgroup>Operations and Management Area Working Group</workgroup>
+      <abstract>
+        <t>&lt;p&gt;At first glance, the acronym "OAM" seems to be well-known and well-understood. Looking at the acronym a bit more closely reveals a set of recurring problems that are revisited time and again.&lt;/p&gt;&lt;p&gt;This document provides a definition of the acronym "OAM" (Operations, Administration, and Maintenance) for use in all future IETF documents that refer to OAM. There are other definitions and acronyms that will be discussed while exploring the definition of the constituent parts of the "OAM" term. This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

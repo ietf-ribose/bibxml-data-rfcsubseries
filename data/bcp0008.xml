@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP8" target="https://www.rfc-editor.org/info/bcp8">
+  <reference anchor="RFC2014" target="https://www.rfc-editor.org/info/rfc2014">
+    <front>
+      <title>IRTF Research Group Guidelines and Procedures</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2014"/>
+      <seriesInfo name="BCP" value="8"/>
+      <seriesInfo name="RFC" value="2014"/>
+      <seriesInfo name="Legacy"/>
+      <author initials="A." surname="Weinrib" fullname="A. Weinrib"/>
+      <author initials="J." surname="Postel" fullname="J. Postel"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="October" year="1996"></date>
+      <keyword>Internet</keyword>
+      <keyword>Research</keyword>
+      <keyword>Task</keyword>
+      <keyword>Force</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the guidelines and procedures for formation and operation of IRTF Research Groups.  It describes the relationship between IRTF participants, Research Groups, the Internet Research Steering Group (IRSG) and the Internet Architecture Board (IAB).  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

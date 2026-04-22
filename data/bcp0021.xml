@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP21" target="https://www.rfc-editor.org/info/bcp21">
+  <reference anchor="RFC2350" target="https://www.rfc-editor.org/info/rfc2350">
+    <front>
+      <title>Expectations for Computer Security Incident Response</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2350"/>
+      <seriesInfo name="BCP" value="21"/>
+      <seriesInfo name="RFC" value="2350"/>
+      <seriesInfo name="IETF"/>
+      <author initials="N." surname="Brownlee" fullname="N. Brownlee"/>
+      <author initials="E." surname="Guttman" fullname="E. Guttman"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="1998"></date>
+      <workgroup>G &amp; R for Security Incident Processing</workgroup>
+      <keyword>CSIRT</keyword>
+      <keyword>guidelines</keyword>
+      <keyword>user</keyword>
+    </front>
+  </reference>
+</referencegroup>

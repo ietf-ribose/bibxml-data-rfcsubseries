@@ -1,0 +1,37 @@
+<referencegroup anchor="BCP141" target="https://www.rfc-editor.org/info/bcp141">
+  <reference anchor="RFC9542" target="https://www.rfc-editor.org/info/rfc9542">
+    <front>
+      <title>IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9542"/>
+      <seriesInfo name="BCP" value="141"/>
+      <seriesInfo name="RFC" value="9542"/>
+      <seriesInfo name="IETF"/>
+      <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+      <author initials="J." surname="Abley" fullname="J. Abley"/>
+      <author initials="Y." surname="Li" fullname="Y. Li"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="April" year="2024"></date>
+      <workgroup>Internet Area Working Group</workgroup>
+      <keyword>Ethernet</keyword>
+      <keyword>EtherType</keyword>
+      <keyword>802</keyword>
+      <keyword>OUI</keyword>
+      <keyword>EUI</keyword>
+      <keyword>LSAP</keyword>
+      <keyword>AFN</keyword>
+      <keyword>CBOR</keyword>
+      <keyword>LLC</keyword>
+      <keyword>SLAP</keyword>
+      <keyword>SNAP</keyword>
+      <keyword>CID</keyword>
+      <abstract>
+        <t>&lt;p&gt;Some IETF protocols make use of Ethernet frame formats and IEEE 802 parameters.  This document discusses several aspects of such parameters and their use in IETF protocols, specifies IANA considerations for assignment of points under the IANA Organizationally Unique Identifier (OUI), and provides some values for use in documentation.  This document obsoletes RFC 7042.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

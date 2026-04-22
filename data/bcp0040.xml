@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP40" target="https://www.rfc-editor.org/info/bcp40">
+  <reference anchor="RFC7720" target="https://www.rfc-editor.org/info/rfc7720">
+    <front>
+      <title>DNS Root Name Service Protocol and Deployment Requirements</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7720"/>
+      <seriesInfo name="BCP" value="40"/>
+      <seriesInfo name="RFC" value="7720"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Blanchet" fullname="M. Blanchet"/>
+      <author surname="L-J. Liman" fullname="L-J. Liman"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="December" year="2015"></date>
+      <workgroup>IESG</workgroup>
+      <abstract>
+        <t>&lt;p&gt;The DNS root name service is a critical part of the Internet architecture.  The protocol and deployment requirements for the DNS root name service are defined in this document.  Operational requirements are out of scope.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

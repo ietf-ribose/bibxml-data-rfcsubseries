@@ -1,0 +1,30 @@
+<referencegroup anchor="BCP147" target="https://www.rfc-editor.org/info/bcp147">
+  <reference anchor="RFC5407" target="https://www.rfc-editor.org/info/rfc5407">
+    <front>
+      <title>Example Call Flows of Race Conditions in the Session Initiation Protocol (SIP)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5407"/>
+      <seriesInfo name="BCP" value="147"/>
+      <seriesInfo name="RFC" value="5407"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Hasebe" fullname="M. Hasebe"/>
+      <author initials="J." surname="Koshiko" fullname="J. Koshiko"/>
+      <author initials="Y." surname="Suzuki" fullname="Y. Suzuki"/>
+      <author initials="T." surname="Yoshikawa" fullname="T. Yoshikawa"/>
+      <author initials="P." surname="Kyzivat" fullname="P. Kyzivat"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="December" year="2008"></date>
+      <workgroup>Session Initiation Proposal Investigation</workgroup>
+      <keyword>sip user agents</keyword>
+      <keyword>sip ua</keyword>
+      <keyword>sip proxy servers</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document gives example call flows of race conditions in the Session Initiation Protocol (SIP).  Race conditions are inherently confusing and difficult to thwart; this document shows the best practices to handle them.  The elements in these call flows include SIP User Agents and SIP Proxy Servers.  Call flow diagrams and message details are given.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

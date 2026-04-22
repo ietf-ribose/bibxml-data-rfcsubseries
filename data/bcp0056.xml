@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP56" target="https://www.rfc-editor.org/info/bcp56">
+  <reference anchor="RFC9205" target="https://www.rfc-editor.org/info/rfc9205">
+    <front>
+      <title>Building Protocols with HTTP</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9205"/>
+      <seriesInfo name="BCP" value="56"/>
+      <seriesInfo name="RFC" value="9205"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Nottingham" fullname="M. Nottingham"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="2022"></date>
+      <workgroup>HTTP</workgroup>
+      <keyword>HTTP API</keyword>
+      <abstract>
+        <t>&lt;p&gt;Applications often use HTTP as a substrate to create HTTP-based APIs. This document specifies best practices for writing specifications that use HTTP to define new application protocols. It is written primarily to guide IETF efforts to define application protocols using HTTP for deployment on the Internet but might be applicable in other situations.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 3205.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

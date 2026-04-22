@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP180" target="https://www.rfc-editor.org/info/bcp180">
+  <reference anchor="RFC6853" target="https://www.rfc-editor.org/info/rfc6853">
+    <front>
+      <title>DHCPv6 Redundancy Deployment Considerations</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6853"/>
+      <seriesInfo name="BCP" value="180"/>
+      <seriesInfo name="RFC" value="6853"/>
+      <seriesInfo name="IETF"/>
+      <author initials="J." surname="Brzozowski" fullname="J. Brzozowski"/>
+      <author initials="J." surname="Tremblay" fullname="J. Tremblay"/>
+      <author initials="J." surname="Chen" fullname="J. Chen"/>
+      <author initials="T." surname="Mrugalski" fullname="T. Mrugalski"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2013"></date>
+      <workgroup>Dynamic Host Configuration</workgroup>
+      <keyword>DHCPv6</keyword>
+      <keyword>Redundancy</keyword>
+      <keyword>Deployment Considerations</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document provides information for those wishing to use DHCPv6 to support their deployment of IPv6.  In particular, it discusses the provision of semi-redundant DHCPv6 services.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,31 @@
+<referencegroup anchor="BCP48" target="https://www.rfc-editor.org/info/bcp48">
+  <reference anchor="RFC3150" target="https://www.rfc-editor.org/info/rfc3150">
+    <front>
+      <title>End-to-end Performance Implications of Slow Links</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3150"/>
+      <seriesInfo name="BCP" value="48"/>
+      <seriesInfo name="RFC" value="3150"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Dawkins" fullname="S. Dawkins"/>
+      <author initials="G." surname="Montenegro" fullname="G. Montenegro"/>
+      <author initials="M." surname="Kojo" fullname="M. Kojo"/>
+      <author initials="V." surname="Magret" fullname="V. Magret"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2001"></date>
+      <workgroup>Performance Implications of Link Characteristics</workgroup>
+      <keyword>PILC</keyword>
+      <keyword>data</keyword>
+      <keyword>applications</keyword>
+      <keyword>header</keyword>
+      <keyword>compression</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document makes performance-related recommendations for users of network paths that traverse "very low bit-rate" links.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

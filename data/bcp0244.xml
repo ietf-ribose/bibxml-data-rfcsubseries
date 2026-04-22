@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP244" target="https://www.rfc-editor.org/info/bcp244">
+  <reference anchor="RFC9874" target="https://www.rfc-editor.org/info/rfc9874">
+    <front>
+      <title>Best Practices for Deletion of Domain and Host Objects in the Extensible Provisioning Protocol (EPP)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9874"/>
+      <seriesInfo name="BCP" value="244"/>
+      <seriesInfo name="RFC" value="9874"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Hollenbeck" fullname="S. Hollenbeck"/>
+      <author initials="W." surname="Carroll" fullname="W. Carroll"/>
+      <author initials="G." surname="Akiwate" fullname="G. Akiwate"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="September" year="2025"></date>
+      <workgroup>Registration Protocols Extensions</workgroup>
+      <keyword>EPP</keyword>
+      <abstract>
+        <t>&lt;p&gt;The Extensible Provisioning Protocol (EPP) includes commands for clients to delete domain and host objects, both of which are used to publish information in the Domain Name System (DNS).  EPP also includes guidance for deletions that is intended to avoid DNS resolution disruptions and maintain data consistency.  However, operational relationships between objects can make that guidance difficult to implement.  Some EPP clients have developed operational practices to delete those objects that have unintended impacts on DNS resolution and security.  This document describes best current practices and proposes new potential practices to delete domain and host objects that reduce the risk of DNS resolution failure and maintain client-server data consistency.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

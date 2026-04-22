@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP139" target="https://www.rfc-editor.org/info/bcp139">
+  <reference anchor="RFC5249" target="https://www.rfc-editor.org/info/rfc5249">
+    <front>
+      <title>Templates for Internet-Drafts Containing MIB Modules</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5249"/>
+      <seriesInfo name="BCP" value="139"/>
+      <seriesInfo name="RFC" value="5249"/>
+      <seriesInfo name="IETF"/>
+      <author initials="D." surname="Harrington" fullname="D. Harrington" role="editor"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2008"></date>
+      <keyword>network management</keyword>
+      <keyword>management information base</keyword>
+      <keyword>mib</keyword>
+      <keyword>smiv2</keyword>
+      <keyword>template</keyword>
+      <abstract>
+        <t>&lt;p&gt;This memo references three annotated templates for IETF documents that contain the definition of MIB modules.  It is intended to reduce the work of the editors of such documents, making these documents more uniform and easier to read and review, thus furthering the quality of such documents and expediting their publication.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

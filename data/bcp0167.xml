@@ -1,0 +1,33 @@
+<referencegroup anchor="BCP167" target="https://www.rfc-editor.org/info/bcp167">
+  <reference anchor="RFC6377" target="https://www.rfc-editor.org/info/rfc6377">
+    <front>
+      <title>DomainKeys Identified Mail (DKIM) and Mailing Lists</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6377"/>
+      <seriesInfo name="BCP" value="167"/>
+      <seriesInfo name="RFC" value="6377"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Kucherawy" fullname="M. Kucherawy"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="September" year="2011"></date>
+      <workgroup>Domain Keys Identified Mail</workgroup>
+      <keyword>email</keyword>
+      <keyword>architecture</keyword>
+      <keyword>verification</keyword>
+      <keyword>anti-abuse</keyword>
+      <keyword>identity</keyword>
+      <keyword>integrity</keyword>
+      <keyword>responsible</keyword>
+      <keyword>author</keyword>
+      <keyword>sender</keyword>
+      <keyword>originator</keyword>
+      <abstract>
+        <t>&lt;p&gt;DomainKeys Identified Mail (DKIM) allows an ADministrative Management Domain (ADMD) to assume some responsibility for a message.  Based on deployment experience with DKIM, this document provides guidance for the use of DKIM with scenarios that include Mailing List Managers (MLMs).  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

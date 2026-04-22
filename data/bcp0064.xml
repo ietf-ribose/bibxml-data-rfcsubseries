@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP64" target="https://www.rfc-editor.org/info/bcp64">
+  <reference anchor="RFC4520" target="https://www.rfc-editor.org/info/rfc4520">
+    <front>
+      <title>Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC4520"/>
+      <seriesInfo name="BCP" value="64"/>
+      <seriesInfo name="RFC" value="4520"/>
+      <seriesInfo name="IETF"/>
+      <author initials="K." surname="Zeilenga" fullname="K. Zeilenga"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="2006"></date>
+      <workgroup>LDAP (v3) Revision</workgroup>
+      <abstract>
+        <t>&lt;p&gt;This document provides procedures for registering extensible elements of the Lightweight Directory Access Protocol (LDAP).  The document also provides guidelines to the Internet Assigned Numbers Authority (IANA) describing conditions under which new values can be assigned.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

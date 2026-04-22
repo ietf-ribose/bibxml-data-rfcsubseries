@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP62" target="https://www.rfc-editor.org/info/bcp62">
+  <reference anchor="RFC3366" target="https://www.rfc-editor.org/info/rfc3366">
+    <front>
+      <title>Advice to link designers on link Automatic Repeat reQuest (ARQ)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3366"/>
+      <seriesInfo name="BCP" value="62"/>
+      <seriesInfo name="RFC" value="3366"/>
+      <seriesInfo name="IETF"/>
+      <author initials="G." surname="Fairhurst" fullname="G. Fairhurst"/>
+      <author initials="L." surname="Wood" fullname="L. Wood"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2002"></date>
+      <workgroup>Performance Implications of Link Characteristics</workgroup>
+      <keyword>tcp/ip</keyword>
+      <keyword>subnetworks</keyword>
+    </front>
+  </reference>
+</referencegroup>

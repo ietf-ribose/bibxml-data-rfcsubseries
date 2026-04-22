@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP191" target="https://www.rfc-editor.org/info/bcp191">
+  <reference anchor="RFC7319" target="https://www.rfc-editor.org/info/rfc7319">
+    <front>
+      <title>IANA Considerations for Connectivity Fault Management (CFM) Code Points</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7319"/>
+      <seriesInfo name="BCP" value="191"/>
+      <seriesInfo name="RFC" value="7319"/>
+      <seriesInfo name="IETF"/>
+      <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2014"></date>
+      <keyword>CFM</keyword>
+      <keyword>OAM</keyword>
+      <keyword>Connectivity</keyword>
+      <keyword>Continuity</keyword>
+      <keyword>Fault</keyword>
+      <keyword>IANA</keyword>
+      <keyword>TRILL</keyword>
+      <abstract>
+        <t>&lt;p&gt;IEEE 802.1 has specified Connectivity Fault Management (CFM) Operations, Administration, and Maintenance (OAM) facilities.  CFM messages are structured with an OpCode field and have provision for the inclusion of TLV-structured information.  IEEE 802.1 has allocated blocks of CFM OpCodes and TLV Types to the IETF.  This document specifies the IANA considerations for the assignment of values from these blocks.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

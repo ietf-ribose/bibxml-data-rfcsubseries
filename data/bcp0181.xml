@@ -1,0 +1,32 @@
+<referencegroup anchor="BCP181" target="https://www.rfc-editor.org/info/bcp181">
+  <reference anchor="RFC6881" target="https://www.rfc-editor.org/info/rfc6881">
+    <front>
+      <title>Best Current Practice for Communications Services in Support of Emergency Calling</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6881"/>
+      <seriesInfo name="BCP" value="181"/>
+      <seriesInfo name="RFC" value="6881"/>
+      <seriesInfo name="IETF"/>
+      <author initials="B." surname="Rosen" fullname="B. Rosen"/>
+      <author initials="J." surname="Polk" fullname="J. Polk"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2013"></date>
+      <workgroup>Emergency Context Resolution with Internet Technologies</workgroup>
+      <keyword>SIP</keyword>
+      <keyword>emergency</keyword>
+      <keyword>emergency calls</keyword>
+      <keyword>emergency call</keyword>
+      <keyword>emergency calling</keyword>
+      <keyword>9-1-1</keyword>
+      <keyword>1-1-2</keyword>
+      <keyword>ecrit</keyword>
+      <abstract>
+        <t>&lt;p&gt;The IETF and other standards organizations have efforts targeted at standardizing various aspects of placing emergency calls on IP networks.  This memo describes best current practice on how devices, networks, and services using IETF protocols should use such standards to make emergency calls.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

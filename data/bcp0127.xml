@@ -1,0 +1,91 @@
+<referencegroup anchor="BCP127" target="https://www.rfc-editor.org/info/bcp127">
+  <reference anchor="RFC4787" target="https://www.rfc-editor.org/info/rfc4787">
+    <front>
+      <title>Network Address Translation (NAT) Behavioral Requirements for Unicast UDP</title>
+      <seriesInfo name="DOI" value="10.17487/RFC4787"/>
+      <seriesInfo name="BCP" value="127"/>
+      <seriesInfo name="RFC" value="4787"/>
+      <seriesInfo name="IETF"/>
+      <author initials="F." surname="Audet" fullname="F. Audet" role="editor"/>
+      <author initials="C." surname="Jennings" fullname="C. Jennings"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="January" year="2007"></date>
+      <workgroup>Behavior Engineering for Hindrance Avoidance</workgroup>
+      <keyword>nat</keyword>
+      <keyword>sip</keyword>
+      <keyword>udp</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document defines basic terminology for describing different types of Network Address Translation (NAT) behavior when handling Unicast UDP and also defines a set of requirements that would allow many applications, such as multimedia communications or online gaming, to work consistently.  Developing NATs that meet this set of requirements will greatly increase the likelihood that these applications will function properly.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC6888" target="https://www.rfc-editor.org/info/rfc6888">
+    <front>
+      <title>Common Requirements for Carrier-Grade NATs (CGNs)</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6888"/>
+      <seriesInfo name="BCP" value="127"/>
+      <seriesInfo name="RFC" value="6888"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Perreault" fullname="S. Perreault" role="editor"/>
+      <author initials="I." surname="Yamagata" fullname="I. Yamagata"/>
+      <author initials="S." surname="Miyakawa" fullname="S. Miyakawa"/>
+      <author initials="A." surname="Nakagawa" fullname="A. Nakagawa"/>
+      <author initials="H." surname="Ashida" fullname="H. Ashida"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="April" year="2013"></date>
+      <workgroup>Behavior Engineering for Hindrance Avoidance</workgroup>
+      <keyword>CGN</keyword>
+      <keyword>NAT</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document defines common requirements for Carrier-Grade NATs (CGNs).  It updates RFC 4787.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC7857" target="https://www.rfc-editor.org/info/rfc7857">
+    <front>
+      <title>Updates to Network Address Translation (NAT) Behavioral Requirements</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7857"/>
+      <seriesInfo name="BCP" value="127"/>
+      <seriesInfo name="RFC" value="7857"/>
+      <seriesInfo name="IETF"/>
+      <author initials="R." surname="Penno" fullname="R. Penno"/>
+      <author initials="S." surname="Perreault" fullname="S. Perreault"/>
+      <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+      <author initials="S." surname="Sivakumar" fullname="S. Sivakumar"/>
+      <author initials="K." surname="Naito" fullname="K. Naito"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="April" year="2016"></date>
+      <workgroup>Transport and Services Working Group</workgroup>
+      <keyword>address sharing</keyword>
+      <keyword>IPv4 service continuity</keyword>
+      <keyword>Carrier Grade NAT</keyword>
+      <keyword>CGN</keyword>
+      <keyword>LSN</keyword>
+      <keyword>NAT traversal</keyword>
+      <keyword>RFC4787</keyword>
+      <keyword>RFC5382</keyword>
+      <keyword>RFC5508</keyword>
+      <keyword>DS-Lite</keyword>
+      <keyword>NAT64</keyword>
+      <keyword>Address depletion</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document clarifies and updates several requirements of RFCs 4787, 5382, and 5508 based on operational and development experience. The focus of this document is Network Address Translation from IPv4 to IPv4 (NAT44).&lt;/p&gt;&lt;p&gt;This document updates RFCs 4787, 5382, and 5508.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

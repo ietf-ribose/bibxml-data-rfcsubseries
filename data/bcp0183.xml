@@ -1,0 +1,25 @@
+<referencegroup anchor="BCP183" target="https://www.rfc-editor.org/info/bcp183">
+  <reference anchor="RFC6963" target="https://www.rfc-editor.org/info/rfc6963">
+    <front>
+      <title>A Uniform Resource Name (URN) Namespace for Examples</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6963"/>
+      <seriesInfo name="BCP" value="183"/>
+      <seriesInfo name="RFC" value="6963"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Saint-Andre" fullname="P. Saint-Andre"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="May" year="2013"></date>
+      <keyword>URN</keyword>
+      <keyword>examples</keyword>
+      <keyword>documentation</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document defines a Uniform Resource Name (URN) namespace identifier enabling the generation of URNs that are appropriate for use in documentation and in URN-related testing and experimentation.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

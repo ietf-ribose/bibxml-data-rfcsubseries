@@ -1,0 +1,31 @@
+<referencegroup anchor="BCP176" target="https://www.rfc-editor.org/info/bcp176">
+  <reference anchor="RFC6576" target="https://www.rfc-editor.org/info/rfc6576">
+    <front>
+      <title>IP Performance Metrics (IPPM) Standard Advancement Testing</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6576"/>
+      <seriesInfo name="BCP" value="176"/>
+      <seriesInfo name="RFC" value="6576"/>
+      <seriesInfo name="IETF"/>
+      <author initials="R." surname="Geib" fullname="R. Geib" role="editor"/>
+      <author initials="A." surname="Morton" fullname="A. Morton"/>
+      <author initials="R." surname="Fardid" fullname="R. Fardid"/>
+      <author initials="A." surname="Steinmitz" fullname="A. Steinmitz"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2012"></date>
+      <workgroup>IP Performance Measurement</workgroup>
+      <keyword>inter-operability</keyword>
+      <keyword>equivalence</keyword>
+      <keyword>measurement</keyword>
+      <keyword>compliance</keyword>
+      <keyword>metric</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document specifies tests to determine if multiple independent instantiations of a performance-metric RFC have implemented the specifications in the same way.  This is the performance-metric equivalent of interoperability, required to advance RFCs along the Standards Track.  Results from different implementations of metric RFCs will be collected under the same underlying network conditions and compared using statistical methods.  The goal is an evaluation of the metric RFC itself to determine whether its definitions are clear and unambiguous to implementors and therefore a candidate for advancement on the IETF Standards Track.  This document is an Internet Best Current Practice.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

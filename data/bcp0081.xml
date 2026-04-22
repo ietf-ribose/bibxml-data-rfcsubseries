@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP81" target="https://www.rfc-editor.org/info/bcp81">
+  <reference anchor="RFC3688" target="https://www.rfc-editor.org/info/rfc3688">
+    <front>
+      <title>The IETF XML Registry</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3688"/>
+      <seriesInfo name="BCP" value="81"/>
+      <seriesInfo name="RFC" value="3688"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Mealling" fullname="M. Mealling"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="January" year="2004"></date>
+      <keyword>XML</keyword>
+      <keyword>extensible markup language</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes an IANA maintained registry for IETF standards which use Extensible Markup Language (XML) related items such as Namespaces, Document Type Declarations (DTDs), Schemas, and Resource Description Framework (RDF) Schemas.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

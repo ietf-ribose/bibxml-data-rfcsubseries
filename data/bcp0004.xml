@@ -1,0 +1,30 @@
+<referencegroup anchor="BCP4" target="https://www.rfc-editor.org/info/bcp4">
+  <reference anchor="RFC1917" target="https://www.rfc-editor.org/info/rfc1917">
+    <front>
+      <title>An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA</title>
+      <seriesInfo name="DOI" value="10.17487/RFC1917"/>
+      <seriesInfo name="BCP" value="4"/>
+      <seriesInfo name="RFC" value="1917"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Nesser II" fullname="P. Nesser II"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="1996"></date>
+      <workgroup>CIDR Deployment</workgroup>
+      <keyword>address</keyword>
+      <keyword>space</keyword>
+      <keyword>Internet</keyword>
+      <keyword>Assigned</keyword>
+      <keyword>Numbers</keyword>
+      <keyword>Authority</keyword>
+      <keyword>IANA</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document is an appeal to the Internet community to return unused address space, i.e.  any block of consecutive IP prefixes, to the Internet Assigned Numbers Authority (IANA) or any of the delegated registries, for reapportionment.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP71" target="https://www.rfc-editor.org/info/bcp71">
+  <reference anchor="RFC3481" target="https://www.rfc-editor.org/info/rfc3481">
+    <front>
+      <title>TCP over Second (2.5G) and Third (3G) Generation Wireless Networks</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3481"/>
+      <seriesInfo name="BCP" value="71"/>
+      <seriesInfo name="RFC" value="3481"/>
+      <seriesInfo name="IETF"/>
+      <author initials="H." surname="Inamura" fullname="H. Inamura" role="editor"/>
+      <author initials="G." surname="Montenegro" fullname="G. Montenegro" role="editor"/>
+      <author initials="R." surname="Ludwig" fullname="R. Ludwig"/>
+      <author initials="A." surname="Gurtov" fullname="A. Gurtov"/>
+      <author initials="F." surname="Khafizov" fullname="F. Khafizov"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2003"></date>
+      <workgroup>Performance Implications of Link Characteristics</workgroup>
+      <keyword>paths</keyword>
+      <keyword>algorithm stacks</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes a profile for optimizing TCP to adapt so that it handles paths including second (2.5G) and third (3G) generation wireless networks.  It describes the relevant characteristics of 2.5G and 3G networks, and specific features of example deployments of such networks.  It then recommends TCP algorithm choices for nodes known to be starting or ending on such paths, and it also discusses open issues.  The configuration options recommended in this document are commonly found in modern TCP stacks, and are widely available standards-track mechanisms that the community considers safe for use on the general Internet.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

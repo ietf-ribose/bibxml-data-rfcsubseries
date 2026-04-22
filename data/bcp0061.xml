@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP61" target="https://www.rfc-editor.org/info/bcp61">
+  <reference anchor="RFC3365" target="https://www.rfc-editor.org/info/rfc3365">
+    <front>
+      <title>Strong Security Requirements for Internet Engineering Task Force Standard Protocols</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3365"/>
+      <seriesInfo name="BCP" value="61"/>
+      <seriesInfo name="RFC" value="3365"/>
+      <seriesInfo name="Legacy"/>
+      <author initials="J." surname="Schiller" fullname="J. Schiller"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2002"></date>
+      <keyword>ietf</keyword>
+    </front>
+  </reference>
+</referencegroup>

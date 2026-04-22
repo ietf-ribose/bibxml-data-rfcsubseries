@@ -1,0 +1,61 @@
+<referencegroup anchor="BCP134" target="https://www.rfc-editor.org/info/bcp134">
+  <reference anchor="RFC5068" target="https://www.rfc-editor.org/info/rfc5068">
+    <front>
+      <title>Email Submission Operations: Access and Accountability Requirements</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5068"/>
+      <seriesInfo name="BCP" value="134"/>
+      <seriesInfo name="RFC" value="5068"/>
+      <seriesInfo name="IETF"/>
+      <author initials="C." surname="Hutzler" fullname="C. Hutzler"/>
+      <author initials="D." surname="Crocker" fullname="D. Crocker"/>
+      <author initials="P." surname="Resnick" fullname="P. Resnick"/>
+      <author initials="E." surname="Allman" fullname="E. Allman"/>
+      <author initials="T." surname="Finch" fullname="T. Finch"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="November" year="2007"></date>
+      <keyword>spam</keyword>
+      <keyword>email abuse</keyword>
+      <keyword>phishing</keyword>
+      <keyword>email</keyword>
+      <keyword>e-mail</keyword>
+      <keyword>service</keyword>
+      <keyword>mime</keyword>
+      <keyword>rfc2822</keyword>
+      <keyword>rfc 2822</keyword>
+      <keyword>rfc822</keyword>
+      <keyword>rfc 822</keyword>
+      <keyword>rfc2821</keyword>
+      <keyword>rfc 2821</keyword>
+      <keyword>rfc821</keyword>
+      <keyword>rfc 821</keyword>
+      <keyword>architecture</keyword>
+      <keyword>mta</keyword>
+      <keyword>mua</keyword>
+      <keyword>msa</keyword>
+      <keyword>mda</keyword>
+      <keyword>user</keyword>
+      <keyword>delivery</keyword>
+      <keyword>relay</keyword>
+      <keyword>header</keyword>
+      <keyword>gateway agent</keyword>
+      <keyword>sieve</keyword>
+      <keyword>dsn</keyword>
+      <keyword>mdn</keyword>
+      <keyword>tussle</keyword>
+      <keyword>mhs</keyword>
+      <keyword>mail handling service</keyword>
+      <keyword>message transfer agent</keyword>
+      <keyword>message user agent</keyword>
+      <keyword>mail submission agent</keyword>
+      <keyword>mail delivery agent</keyword>
+      <abstract>
+        <t>&lt;p&gt;Email has become a popular distribution service for a variety of socially unacceptable, mass-effect purposes. The most obvious ones include spam and worms. This note recommends conventions for the operation of email submission and transport services between independent operators, such as enterprises and Internet Service Providers. Its goal is to improve lines of accountability for controlling abusive uses of the Internet mail service. To this end, this document offers recommendations for constructive operational policies between independent operators of email submission and transmission services.&lt;/p&gt;&lt;p&gt;Email authentication technologies are aimed at providing assurances and traceability between internetworked networks. In many email services, the weakest link in the chain of assurances is initial submission of a message. This document offers recommendations for constructive operational policies for this first step of email sending, the submission (or posting) of email into the transmission network. Relaying and delivery entail policies that occur subsequent to submission and are outside the scope of this document. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

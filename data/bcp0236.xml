@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP236" target="https://www.rfc-editor.org/info/bcp236">
+  <reference anchor="RFC9276" target="https://www.rfc-editor.org/info/rfc9276">
+    <front>
+      <title>Guidance for NSEC3 Parameter Settings</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9276"/>
+      <seriesInfo name="BCP" value="236"/>
+      <seriesInfo name="RFC" value="9276"/>
+      <seriesInfo name="IETF"/>
+      <author initials="W." surname="Hardaker" fullname="W. Hardaker"/>
+      <author initials="V." surname="Dukhovni" fullname="V. Dukhovni"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2022"></date>
+      <workgroup>Domain Name System Operations</workgroup>
+      <keyword>DNSSEC</keyword>
+      <keyword>DNS</keyword>
+      <keyword>NSEC3</keyword>
+      <keyword>NSEC</keyword>
+      <keyword>Denial of Existence</keyword>
+      <abstract>
+        <t>&lt;p&gt;NSEC3 is a DNSSEC mechanism providing proof of nonexistence by asserting that there are no names that exist between two domain names within a zone.  Unlike its counterpart NSEC, NSEC3 avoids directly disclosing the bounding domain name pairs.  This document provides guidance on setting NSEC3 parameters based on recent operational deployment experience.  This document updates RFC 5155 with guidance about selecting NSEC3 iteration and salt parameters.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,32 @@
+<referencegroup anchor="BCP239" target="https://www.rfc-editor.org/info/bcp239">
+  <reference anchor="RFC9501" target="https://www.rfc-editor.org/info/rfc9501">
+    <front>
+      <title>Open Participation Principle regarding Remote Registration Fee</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9501"/>
+      <seriesInfo name="BCP" value="239"/>
+      <seriesInfo name="RFC" value="9501"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Kühlewind" fullname="M. Kühlewind"/>
+      <author initials="J." surname="Reed" fullname="J. Reed"/>
+      <author initials="R." surname="Salz" fullname="R. Salz"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="December" year="2023"></date>
+      <workgroup>Stay Home Meet Occasionally Online</workgroup>
+      <keyword>no-cost</keyword>
+      <keyword>meetings</keyword>
+      <keyword>remote participation fee</keyword>
+      <keyword>remote</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document outlines a principle for open participation that
+extends the open process principle defined in RFC 3935 by stating
+that there must be a free option for online participation to IETF
+meetings and, if possible, related IETF-hosted events.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

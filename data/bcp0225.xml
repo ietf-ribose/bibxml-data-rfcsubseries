@@ -1,0 +1,37 @@
+<referencegroup anchor="BCP225" target="https://www.rfc-editor.org/info/bcp225">
+  <reference anchor="RFC8725" target="https://www.rfc-editor.org/info/rfc8725">
+    <front>
+      <title>JSON Web Token Best Current Practices</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8725"/>
+      <seriesInfo name="BCP" value="225"/>
+      <seriesInfo name="RFC" value="8725"/>
+      <seriesInfo name="IETF"/>
+      <author initials="Y." surname="Sheffer" fullname="Y. Sheffer"/>
+      <author initials="D." surname="Hardt" fullname="D. Hardt"/>
+      <author initials="M." surname="Jones" fullname="M. Jones"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2020"></date>
+      <workgroup>Web Authorization Protocol</workgroup>
+      <keyword>JSON Web Token</keyword>
+      <keyword>JWT</keyword>
+      <keyword>JSON Object Signing and Encryption</keyword>
+      <keyword>JOSE</keyword>
+      <keyword>JSON Web Signature</keyword>
+      <keyword>JWS</keyword>
+      <keyword>JSON Web Encryption</keyword>
+      <keyword>JWE</keyword>
+      <keyword>attacks</keyword>
+      <keyword>Claims</keyword>
+      <keyword>Security</keyword>
+      <keyword>Cryptography</keyword>
+      <abstract>
+        <t>&lt;p&gt;JSON Web Tokens, also known as JWTs, are URL-safe JSON-based security tokens that contain a set of claims that can be signed and/or encrypted.  JWTs are being widely used and deployed as a simple security token format in numerous protocols and applications, both in the area of digital identity and in other application areas.  This Best Current Practices document updates RFC 7519 to provide actionable guidance leading to secure implementation and deployment of JWTs.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

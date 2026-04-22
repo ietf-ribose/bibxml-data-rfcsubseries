@@ -1,0 +1,31 @@
+<referencegroup anchor="BCP50" target="https://www.rfc-editor.org/info/bcp50">
+  <reference anchor="RFC3155" target="https://www.rfc-editor.org/info/rfc3155">
+    <front>
+      <title>End-to-end Performance Implications of Links with Errors</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3155"/>
+      <seriesInfo name="BCP" value="50"/>
+      <seriesInfo name="RFC" value="3155"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Dawkins" fullname="S. Dawkins"/>
+      <author initials="G." surname="Montenegro" fullname="G. Montenegro"/>
+      <author initials="M." surname="Kojo" fullname="M. Kojo"/>
+      <author initials="V." surname="Magret" fullname="V. Magret"/>
+      <author initials="N." surname="Vaidya" fullname="N. Vaidya"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2001"></date>
+      <workgroup>Performance Implications of Link Characteristics</workgroup>
+      <keyword>TCP</keyword>
+      <keyword>transmission</keyword>
+      <keyword>control</keyword>
+      <keyword>protocol</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document discusses the specific TCP mechanisms that are problematic in environments with high uncorrected error rates, and discusses what can be done to mitigate the problems without introducing intermediate devices into the connection.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

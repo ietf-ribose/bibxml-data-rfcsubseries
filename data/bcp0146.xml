@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP146" target="https://www.rfc-editor.org/info/bcp146">
+  <reference anchor="RFC5406" target="https://www.rfc-editor.org/info/rfc5406">
+    <front>
+      <title>Guidelines for Specifying the Use of IPsec Version 2</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5406"/>
+      <seriesInfo name="BCP" value="146"/>
+      <seriesInfo name="RFC" value="5406"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Bellovin" fullname="S. Bellovin"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2009"></date>
+      <keyword>internet security</keyword>
+      <keyword>security considerations</keyword>
+      <abstract>
+        <t>&lt;p&gt;The Security Considerations sections of many Internet Drafts say, in effect, "just use IPsec".  While this is sometimes correct, more often it will leave users without real, interoperable security mechanisms.  This memo offers some guidance on when IPsec Version 2 should and should not be specified.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

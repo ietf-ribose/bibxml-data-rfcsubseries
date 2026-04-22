@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP18" target="https://www.rfc-editor.org/info/bcp18">
+  <reference anchor="RFC2277" target="https://www.rfc-editor.org/info/rfc2277">
+    <front>
+      <title>IETF Policy on Character Sets and Languages</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2277"/>
+      <seriesInfo name="BCP" value="18"/>
+      <seriesInfo name="RFC" value="2277"/>
+      <seriesInfo name="Legacy"/>
+      <author initials="H." surname="Alvestrand" fullname="H. Alvestrand"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="January" year="1998"></date>
+      <keyword>charset</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document is the current policies being applied by the Internet Engineering Steering Group (IESG) towards the standardization efforts in the Internet Engineering Task Force (IETF) in order to help Internet protocols fulfill these requirements.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

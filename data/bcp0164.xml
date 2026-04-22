@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP164" target="https://www.rfc-editor.org/info/bcp164">
+  <reference anchor="RFC6328" target="https://www.rfc-editor.org/info/rfc6328">
+    <front>
+      <title>IANA Considerations for Network Layer Protocol Identifiers</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6328"/>
+      <seriesInfo name="BCP" value="164"/>
+      <seriesInfo name="RFC" value="6328"/>
+      <seriesInfo name="IETF"/>
+      <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2011"></date>
+      <keyword>NLPID</keyword>
+      <abstract>
+        <t>&lt;p&gt;Some protocols being developed or extended by the IETF make use of the ISO/IEC (International Organization for Standardization / International Electrotechnical Commission) Network Layer Protocol Identifier (NLPID).  This document provides NLPID IANA considerations.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

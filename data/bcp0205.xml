@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP205" target="https://www.rfc-editor.org/info/bcp205">
+  <reference anchor="RFC7942" target="https://www.rfc-editor.org/info/rfc7942">
+    <front>
+      <title>Improving Awareness of Running Code: The Implementation Status Section</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7942"/>
+      <seriesInfo name="BCP" value="205"/>
+      <seriesInfo name="RFC" value="7942"/>
+      <seriesInfo name="IETF"/>
+      <author initials="Y." surname="Sheffer" fullname="Y. Sheffer"/>
+      <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2016"></date>
+      <abstract>
+        <t>&lt;p&gt;This document describes a simple process that allows authors of Internet-Drafts to record the status of known implementations by including an Implementation Status section. This will allow reviewers and working groups to assign due consideration to documents that have the benefit of running code, which may serve as evidence of valuable experimentation and feedback that have made the implemented protocols more mature.&lt;/p&gt;&lt;p&gt;This process is not mandatory. Authors of Internet-Drafts are encouraged to consider using the process for their documents, and working groups are invited to think about applying the process to all of their protocol specifications. This document obsoletes RFC 6982, advancing it to a Best Current Practice.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

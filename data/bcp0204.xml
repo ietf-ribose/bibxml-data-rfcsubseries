@@ -1,0 +1,37 @@
+<referencegroup anchor="BCP204" target="https://www.rfc-editor.org/info/bcp204">
+  <reference anchor="RFC7934" target="https://www.rfc-editor.org/info/rfc7934">
+    <front>
+      <title>Host Address Availability Recommendations</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7934"/>
+      <seriesInfo name="BCP" value="204"/>
+      <seriesInfo name="RFC" value="7934"/>
+      <seriesInfo name="IETF"/>
+      <author initials="L." surname="Colitti" fullname="L. Colitti"/>
+      <author initials="V." surname="Cerf" fullname="V. Cerf"/>
+      <author initials="S." surname="Cheshire" fullname="S. Cheshire"/>
+      <author initials="D." surname="Schinazi" fullname="D. Schinazi"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2016"></date>
+      <workgroup>IPv6 Operations</workgroup>
+      <keyword>IPv6</keyword>
+      <keyword>IPv4</keyword>
+      <keyword>SLAAC</keyword>
+      <keyword>DHCPv6</keyword>
+      <keyword>Prefix Delegation</keyword>
+      <keyword>NAT</keyword>
+      <keyword>NAT64</keyword>
+      <keyword>464XLAT</keyword>
+      <keyword>/64</keyword>
+      <keyword>Address Assignment</keyword>
+      <keyword>Addressing</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

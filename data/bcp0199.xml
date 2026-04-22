@@ -1,0 +1,25 @@
+<referencegroup anchor="BCP199" target="https://www.rfc-editor.org/info/bcp199">
+  <reference anchor="RFC7610" target="https://www.rfc-editor.org/info/rfc7610">
+    <front>
+      <title>DHCPv6-Shield: Protecting against Rogue DHCPv6 Servers</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7610"/>
+      <seriesInfo name="BCP" value="199"/>
+      <seriesInfo name="RFC" value="7610"/>
+      <seriesInfo name="IETF"/>
+      <author initials="F." surname="Gont" fullname="F. Gont"/>
+      <author initials="W." surname="Liu" fullname="W. Liu"/>
+      <author initials="G." surname="Van de Velde" fullname="G. Van de Velde"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2015"></date>
+      <workgroup>Operational Security Capabilities for IP Network Infrastructure</workgroup>
+      <abstract>
+        <t>&lt;p&gt;This document specifies a mechanism for protecting hosts connected to a switched network against rogue DHCPv6 servers.  It is based on DHCPv6 packet filtering at the layer 2 device at which the packets are received.  A similar mechanism has been widely deployed in IPv4 networks ('DHCP snooping'); hence, it is desirable that similar functionality be provided for IPv6 networks.  This document specifies a Best Current Practice for the implementation of DHCPv6-Shield.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

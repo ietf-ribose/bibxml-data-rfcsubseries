@@ -1,0 +1,22 @@
+<referencegroup anchor="BCP54" target="https://www.rfc-editor.org/info/bcp54">
+  <reference anchor="RFC7154" target="https://www.rfc-editor.org/info/rfc7154">
+    <front>
+      <title>IETF Guidelines for Conduct</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7154"/>
+      <seriesInfo name="BCP" value="54"/>
+      <seriesInfo name="RFC" value="7154"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Moonesamy" fullname="S. Moonesamy" role="editor"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2014"></date>
+      <abstract>
+        <t>&lt;p&gt;This document provides a set of guidelines for personal interaction in the Internet Engineering Task Force. The guidelines recognize the diversity of IETF participants, emphasize the value of mutual respect, and stress the broad applicability of our work.&lt;/p&gt;&lt;p&gt;This document is an updated version of the guidelines for conduct originally published in RFC 3184.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

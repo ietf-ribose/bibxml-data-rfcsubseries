@@ -1,0 +1,31 @@
+<referencegroup anchor="BCP241" target="https://www.rfc-editor.org/info/bcp241">
+  <reference anchor="RFC9726" target="https://www.rfc-editor.org/info/rfc9726">
+    <front>
+      <title>Operational Considerations for Use of DNS in Internet of Things (IoT) Devices</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9726"/>
+      <seriesInfo name="BCP" value="241"/>
+      <seriesInfo name="RFC" value="9726"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Richardson" fullname="M. Richardson"/>
+      <author initials="W." surname="Pan" fullname="W. Pan"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2025"></date>
+      <workgroup>Operations and Management Area Working Group</workgroup>
+      <keyword>DNS</keyword>
+      <keyword>MUD</keyword>
+      <keyword>round-robin</keyword>
+      <keyword>tailored response</keyword>
+      <keyword>DNSSEC</keyword>
+      <keyword>IoT security</keyword>
+      <keyword>Device Identity</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document details considerations about how Internet of Things (IoT) devices use IP addresses and DNS names. These concerns become acute as network operators begin deploying Manufacturer Usage Descriptions (MUD), as specified in RFC 8520, to control device access.&lt;/p&gt;&lt;p&gt;Also, this document makes recommendations on when and how to use DNS names in MUD files.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

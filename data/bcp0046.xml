@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP46" target="https://www.rfc-editor.org/info/bcp46">
+  <reference anchor="RFC3013" target="https://www.rfc-editor.org/info/rfc3013">
+    <front>
+      <title>Recommended Internet Service Provider Security Services and Procedures</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3013"/>
+      <seriesInfo name="BCP" value="46"/>
+      <seriesInfo name="RFC" value="3013"/>
+      <seriesInfo name="IETF"/>
+      <author initials="T." surname="Killalea" fullname="T. Killalea"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="November" year="2000"></date>
+      <workgroup>G &amp; R for Security Incident Processing</workgroup>
+      <keyword>ISPs</keyword>
+      <abstract>
+        <t>&lt;p&gt;The purpose of this document is to express what the engineering community as represented by the IETF expects of Internet Service Providers (ISPs) with respect to security.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

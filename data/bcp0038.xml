@@ -1,0 +1,29 @@
+<referencegroup anchor="BCP38" target="https://www.rfc-editor.org/info/bcp38">
+  <reference anchor="RFC2827" target="https://www.rfc-editor.org/info/rfc2827">
+    <front>
+      <title>Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2827"/>
+      <seriesInfo name="BCP" value="38"/>
+      <seriesInfo name="RFC" value="2827"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Ferguson" fullname="P. Ferguson"/>
+      <author initials="D." surname="Senie" fullname="D. Senie"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="May" year="2000"></date>
+      <keyword>ISP</keyword>
+      <keyword>Internet Service Provider</keyword>
+      <keyword>IP</keyword>
+      <keyword>Internet Protocol</keyword>
+      <keyword>DOS </keyword>
+      <keyword>Denial of Service</keyword>
+      <abstract>
+        <t>&lt;p&gt;This paper discusses a simple, effective, and straightforward method for using ingress traffic filtering to prohibit DoS (Denial of Service) attacks which use forged IP addresses to be propagated from 'behind' an Internet Service Provider's (ISP) aggregation point.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

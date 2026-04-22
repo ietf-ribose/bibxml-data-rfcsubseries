@@ -1,0 +1,24 @@
+<referencegroup anchor="BCP202" target="https://www.rfc-editor.org/info/bcp202">
+  <reference anchor="RFC7772" target="https://www.rfc-editor.org/info/rfc7772">
+    <front>
+      <title>Reducing Energy Consumption of Router Advertisements</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7772"/>
+      <seriesInfo name="BCP" value="202"/>
+      <seriesInfo name="RFC" value="7772"/>
+      <seriesInfo name="IETF"/>
+      <author initials="A." surname="Yourtchenko" fullname="A. Yourtchenko"/>
+      <author initials="L." surname="Colitti" fullname="L. Colitti"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2016"></date>
+      <workgroup>IPv6 Operations</workgroup>
+      <abstract>
+        <t>&lt;p&gt;Frequent Router Advertisement messages can severely impact host power consumption.  This document recommends operational practices to avoid such impact.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

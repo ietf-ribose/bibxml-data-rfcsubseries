@@ -1,0 +1,45 @@
+<referencegroup anchor="BCP14" target="https://www.rfc-editor.org/info/bcp14">
+  <reference anchor="RFC2119" target="https://www.rfc-editor.org/info/rfc2119">
+    <front>
+      <title>Key words for use in RFCs to Indicate Requirement Levels</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2119"/>
+      <seriesInfo name="BCP" value="14"/>
+      <seriesInfo name="RFC" value="2119"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Bradner" fullname="S. Bradner"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="1997"></date>
+      <keyword>Standards</keyword>
+      <keyword>Track</keyword>
+      <keyword>Documents</keyword>
+      <abstract>
+        <t>&lt;p&gt;In many standards track documents several words are used to signify the requirements in the specification.  These words are often capitalized.  This document defines these words as they should be interpreted in IETF documents.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC8174" target="https://www.rfc-editor.org/info/rfc8174">
+    <front>
+      <title>Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8174"/>
+      <seriesInfo name="BCP" value="14"/>
+      <seriesInfo name="RFC" value="8174"/>
+      <seriesInfo name="IETF"/>
+      <author initials="B." surname="Leiba" fullname="B. Leiba"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="May" year="2017"></date>
+      <abstract>
+        <t>&lt;p&gt;RFC 2119 specifies common key words that may be used in protocol specifications.  This document aims to reduce the ambiguity by clarifying that only UPPERCASE usage of the key words have the defined special meanings.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

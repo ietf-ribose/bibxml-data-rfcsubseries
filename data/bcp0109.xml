@@ -1,0 +1,25 @@
+<referencegroup anchor="BCP109" target="https://www.rfc-editor.org/info/bcp109">
+  <reference anchor="RFC4159" target="https://www.rfc-editor.org/info/rfc4159">
+    <front>
+      <title>Deprecation of "ip6.int"</title>
+      <seriesInfo name="DOI" value="10.17487/RFC4159"/>
+      <seriesInfo name="BCP" value="109"/>
+      <seriesInfo name="RFC" value="4159"/>
+      <seriesInfo name="IETF"/>
+      <author initials="G." surname="Huston" fullname="G. Huston"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2005"></date>
+      <keyword>ipv6</keyword>
+      <keyword>dns</keyword>
+      <keyword>domain name system</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document advises of the deprecation of the use of "ip6.int" for Standards Conformant IPv6 implementations.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

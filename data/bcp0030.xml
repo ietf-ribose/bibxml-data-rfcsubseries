@@ -1,0 +1,28 @@
+<referencegroup anchor="BCP30" target="https://www.rfc-editor.org/info/bcp30">
+  <reference anchor="RFC2505" target="https://www.rfc-editor.org/info/rfc2505">
+    <front>
+      <title>Anti-Spam Recommendations for SMTP MTAs</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2505"/>
+      <seriesInfo name="BCP" value="30"/>
+      <seriesInfo name="RFC" value="2505"/>
+      <seriesInfo name="Legacy"/>
+      <author initials="G." surname="Lindberg" fullname="G. Lindberg"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="1999"></date>
+      <keyword>simple</keyword>
+      <keyword>mail</keyword>
+      <keyword>transfer</keyword>
+      <keyword>protocol</keyword>
+      <keyword>agents</keyword>
+      <keyword>sendmail</keyword>
+      <abstract>
+        <t>&lt;p&gt;This memo gives a number of implementation recommendations for SMTP, MTAs (Mail Transfer Agents, e.g.  sendmail,) to make them more capable of reducing the impact of spam.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,30 @@
+<referencegroup anchor="BCP20" target="https://www.rfc-editor.org/info/bcp20">
+  <reference anchor="RFC2317" target="https://www.rfc-editor.org/info/rfc2317">
+    <front>
+      <title>Classless IN-ADDR.ARPA delegation</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2317"/>
+      <seriesInfo name="BCP" value="20"/>
+      <seriesInfo name="RFC" value="2317"/>
+      <seriesInfo name="IETF"/>
+      <author initials="H." surname="Eidnes" fullname="H. Eidnes"/>
+      <author initials="G." surname="de Groot" fullname="G. de Groot"/>
+      <author initials="P." surname="Vixie" fullname="P. Vixie"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="1998"></date>
+      <workgroup>DNS IXFR, Notification, and Dynamic Update</workgroup>
+      <keyword>routing</keyword>
+      <keyword>mapping</keyword>
+      <keyword>addresses</keyword>
+      <keyword>zone</keyword>
+      <keyword>files</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes a way to do IN-ADDR.ARPA delegation on non-octet boundaries for address spaces covering fewer than 256 addresses.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

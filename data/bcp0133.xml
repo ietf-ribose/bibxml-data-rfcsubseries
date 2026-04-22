@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP133" target="https://www.rfc-editor.org/info/bcp133">
+  <reference anchor="RFC9743" target="https://www.rfc-editor.org/info/rfc9743">
+    <front>
+      <title>Specifying New Congestion Control Algorithms</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9743"/>
+      <seriesInfo name="BCP" value="133"/>
+      <seriesInfo name="RFC" value="9743"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Duke" fullname="M. Duke" role="editor"/>
+      <author initials="G." surname="Fairhurst" fullname="G. Fairhurst" role="editor"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2025"></date>
+      <workgroup>Congestion Control Working Group</workgroup>
+      <keyword>Transport</keyword>
+      <keyword>CC</keyword>
+      <abstract>
+        <t>&lt;p&gt;RFC 5033 discusses the principles and guidelines for standardizing new congestion control algorithms.  This document obsoletes RFC 5033 to reflect changes in the congestion control landscape by providing a framework for the development and assessment of congestion control mechanisms, promoting stability across diverse network paths.  This document seeks to ensure that proposed congestion control algorithms operate efficiently and without harm when used in the global Internet.  It emphasizes the need for comprehensive testing and validation to prevent adverse interactions with existing flows.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP103" target="https://www.rfc-editor.org/info/bcp103">
+  <reference anchor="RFC4053" target="https://www.rfc-editor.org/info/rfc4053">
+    <front>
+      <title>Procedures for Handling Liaison Statements to and from the IETF</title>
+      <seriesInfo name="DOI" value="10.17487/RFC4053"/>
+      <seriesInfo name="BCP" value="103"/>
+      <seriesInfo name="RFC" value="4053"/>
+      <seriesInfo name="IAB"/>
+      <author initials="S." surname="Trowbridge" fullname="S. Trowbridge"/>
+      <author initials="S." surname="Bradner" fullname="S. Bradner"/>
+      <author initials="F." surname="Baker" fullname="F. Baker"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="April" year="2005"></date>
+      <keyword>sdo</keyword>
+      <keyword>standards development organization</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the procedure for proper handling of incoming liaison statements from other standards development organizations (SDOs), consortia, and industry fora, and for generating liaison statements to be transmitted from IETF to other SDOs, consortia and industry fora. This procedure allows IETF to effectively collaborate with other organizations in the international standards community.&lt;/p&gt;&lt;p&gt;The IETF expects that liaison statements might come from a variety of organizations, and it may choose to respond to many of those. The IETF is only obligated to respond if there is an agreed liaison relationship, however. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP159" target="https://www.rfc-editor.org/info/bcp159">
+  <reference anchor="RFC6191" target="https://www.rfc-editor.org/info/rfc6191">
+    <front>
+      <title>Reducing the TIME-WAIT State Using TCP Timestamps</title>
+      <seriesInfo name="DOI" value="10.17487/RFC6191"/>
+      <seriesInfo name="BCP" value="159"/>
+      <seriesInfo name="RFC" value="6191"/>
+      <seriesInfo name="IETF"/>
+      <author initials="F." surname="Gont" fullname="F. Gont"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="April" year="2011"></date>
+      <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+      <abstract>
+        <t>&lt;p&gt;This document describes an algorithm for processing incoming SYN segments that allows higher connection-establishment rates between any two TCP endpoints when a TCP Timestamps option is present in the incoming SYN segment.  This document only modifies processing of SYN segments received for connections in the TIME-WAIT state; processing in all other states is unchanged.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

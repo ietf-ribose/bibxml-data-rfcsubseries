@@ -1,0 +1,78 @@
+<referencegroup anchor="BCP25" target="https://www.rfc-editor.org/info/bcp25">
+  <reference anchor="RFC2418" target="https://www.rfc-editor.org/info/rfc2418">
+    <front>
+      <title>IETF Working Group Guidelines and Procedures</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2418"/>
+      <seriesInfo name="BCP" value="25"/>
+      <seriesInfo name="RFC" value="2418"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Bradner" fullname="S. Bradner"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="September" year="1998"></date>
+      <workgroup>Process for Organization of Internet Standards ONgoing</workgroup>
+      <keyword>BCP</keyword>
+      <keyword>WG</keyword>
+      <keyword>escape</keyword>
+      <keyword>clause</keyword>
+      <keyword>procedures</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the guidelines and procedures for formation and operation of IETF working groups.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC7776" target="https://www.rfc-editor.org/info/rfc7776">
+    <front>
+      <title>IETF Anti-Harassment Procedures</title>
+      <seriesInfo name="DOI" value="10.17487/RFC7776"/>
+      <seriesInfo name="BCP" value="25"/>
+      <seriesInfo name="RFC" value="7776"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Resnick" fullname="P. Resnick"/>
+      <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2016"></date>
+      <keyword>Ombudsman</keyword>
+      <keyword>Ombudsperson</keyword>
+      <keyword>Ombudsteam</keyword>
+      <abstract>
+        <t>&lt;p&gt;IETF Participants must not engage in harassment while at IETF meetings, virtual meetings, or social events or while participating in mailing lists. This document lays out procedures for managing and enforcing this policy.&lt;/p&gt;&lt;p&gt;This document updates RFC 2418 by defining new working group guidelines and procedures. This document updates RFC 7437 by allowing the Ombudsteam to form a recall petition without further signatories.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC8716" target="https://www.rfc-editor.org/info/rfc8716">
+    <front>
+      <title>Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC</title>
+      <seriesInfo name="DOI" value="10.17487/RFC8716"/>
+      <seriesInfo name="BCP" value="25"/>
+      <seriesInfo name="RFC" value="8716"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Resnick" fullname="P. Resnick"/>
+      <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2020"></date>
+      <workgroup>IETF Administrative Support Activity 2</workgroup>
+      <keyword>Harassment</keyword>
+      <keyword>Ombudsteam</keyword>
+      <keyword>IAOC</keyword>
+      <keyword>IETF Administration LLC</keyword>
+      <abstract>
+        <t>&lt;p&gt;The IETF Anti-Harassment Procedures are described in RFC 7776.&lt;/p&gt;&lt;p&gt;The IETF Administrative Oversight Committee (IAOC) has been replaced by the IETF Administration LLC, and the IETF Administrative Director has been replaced by the IETF LLC Executive Director. This document updates RFC 7776 to amend these terms.&lt;/p&gt;&lt;p&gt;RFC 7776 contained updates to RFC 7437. RFC 8713 has incorporated those updates, so this document also updates RFC 7776 to remove those updates.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

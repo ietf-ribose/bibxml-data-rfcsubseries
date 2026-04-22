@@ -1,0 +1,30 @@
+<referencegroup anchor="BCP75" target="https://www.rfc-editor.org/info/bcp75">
+  <reference anchor="RFC3665" target="https://www.rfc-editor.org/info/rfc3665">
+    <front>
+      <title>Session Initiation Protocol (SIP) Basic Call Flow Examples</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3665"/>
+      <seriesInfo name="BCP" value="75"/>
+      <seriesInfo name="RFC" value="3665"/>
+      <seriesInfo name="IETF"/>
+      <author initials="A." surname="Johnston" fullname="A. Johnston"/>
+      <author initials="S." surname="Donovan" fullname="S. Donovan"/>
+      <author initials="R." surname="Sparks" fullname="R. Sparks"/>
+      <author initials="C." surname="Cunningham" fullname="C. Cunningham"/>
+      <author initials="K." surname="Summers" fullname="K. Summers"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="December" year="2003"></date>
+      <workgroup>Session Initiation Proposal Investigation</workgroup>
+      <keyword>user agent</keyword>
+      <keyword>client proxy</keyword>
+      <keyword>redirect</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document gives examples of Session Initiation Protocol (SIP) call flows.  Elements in these call flows include SIP User Agents and Clients, SIP Proxy and Redirect Servers.  Scenarios include SIP Registration and SIP session establishment.  Call flow diagrams and message details are shown.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

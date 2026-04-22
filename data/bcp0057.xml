@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP57" target="https://www.rfc-editor.org/info/bcp57">
+  <reference anchor="RFC9778" target="https://www.rfc-editor.org/info/rfc9778">
+    <front>
+      <title>IANA Considerations for Internet Group Management Protocols</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9778"/>
+      <seriesInfo name="BCP" value="57"/>
+      <seriesInfo name="RFC" value="9778"/>
+      <seriesInfo name="IETF"/>
+      <author initials="B." surname="Haberman" fullname="B. Haberman" role="editor"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2025"></date>
+      <workgroup>Protocols for IP Multicast</workgroup>
+      <abstract>
+        <t>&lt;p&gt;This document specifies revised IANA considerations for the Internet Group Management Protocol (IGMP) and the Multicast Listener Discovery (MLD) protocol. This document specifies the guidance provided to IANA to manage values associated with various fields within the protocol headers of the group management protocols.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 3228 and unifies guidelines for IPv4 and IPv6 group management protocols.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

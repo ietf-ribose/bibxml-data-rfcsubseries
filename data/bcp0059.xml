@@ -1,0 +1,20 @@
+<referencegroup anchor="BCP59" target="https://www.rfc-editor.org/info/bcp59">
+  <reference anchor="RFC3349" target="https://www.rfc-editor.org/info/rfc3349">
+    <front>
+      <title>A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3349"/>
+      <seriesInfo name="BCP" value="59"/>
+      <seriesInfo name="RFC" value="3349"/>
+      <seriesInfo name="IETF"/>
+      <author initials="M." surname="Rose" fullname="M. Rose"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2002"></date>
+      <keyword>beep</keyword>
+    </front>
+  </reference>
+</referencegroup>

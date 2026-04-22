@@ -1,0 +1,52 @@
+<referencegroup anchor="BCP72" target="https://www.rfc-editor.org/info/bcp72">
+  <reference anchor="RFC3552" target="https://www.rfc-editor.org/info/rfc3552">
+    <front>
+      <title>Guidelines for Writing RFC Text on Security Considerations</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3552"/>
+      <seriesInfo name="BCP" value="72"/>
+      <seriesInfo name="RFC" value="3552"/>
+      <seriesInfo name="IAB"/>
+      <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+      <author initials="B." surname="Korver" fullname="B. Korver"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2003"></date>
+      <keyword>RFC</keyword>
+      <keyword>Request for Comment </keyword>
+      <keyword>Security Considerations</keyword>
+      <abstract>
+        <t>&lt;p&gt;All RFCs are required to have a Security Considerations section.  Historically, such sections have been relatively weak.  This document provides guidelines to RFC authors on how to write a good Security Considerations section.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+  <reference anchor="RFC9416" target="https://www.rfc-editor.org/info/rfc9416">
+    <front>
+      <title>Security Considerations for Transient Numeric Identifiers Employed in Network Protocols</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9416"/>
+      <seriesInfo name="BCP" value="72"/>
+      <seriesInfo name="RFC" value="9416"/>
+      <seriesInfo name="IETF"/>
+      <author initials="F." surname="Gont" fullname="F. Gont"/>
+      <author initials="I." surname="Arce" fullname="I. Arce"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2023"></date>
+      <keyword>security</keyword>
+      <keyword>vulnerability</keyword>
+      <keyword>algorithm</keyword>
+      <keyword>attack</keyword>
+      <keyword>fingerprinting</keyword>
+      <abstract>
+        <t>&lt;p&gt;Poor selection of transient numerical identifiers in protocols such as the TCP/IP suite has historically led to a number of attacks on implementations, ranging from Denial of Service (DoS) or data injection to information leakages that can be exploited by pervasive monitoring.  Due diligence in the specification of transient numeric identifiers is required even when cryptographic techniques are employed, since these techniques might not mitigate all the associated issues.  This document formally updates RFC 3552, incorporating requirements for transient numeric identifiers, to prevent flaws in future protocols and implementations.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

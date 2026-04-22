@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP151" target="https://www.rfc-editor.org/info/bcp151">
+  <reference anchor="RFC5615" target="https://www.rfc-editor.org/info/rfc5615">
+    <front>
+      <title>H.248/MEGACO Registration Procedures</title>
+      <seriesInfo name="DOI" value="10.17487/RFC5615"/>
+      <seriesInfo name="BCP" value="151"/>
+      <seriesInfo name="RFC" value="5615"/>
+      <seriesInfo name="IETF"/>
+      <author initials="C." surname="Groves" fullname="C. Groves"/>
+      <author initials="Y." surname="Lin" fullname="Y. Lin"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2009"></date>
+      <keyword>Package</keyword>
+      <keyword>Error Code</keyword>
+      <keyword>ServiceChange Reason</keyword>
+      <keyword>Profile</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document updates the H.248/MEGACO IANA Package registration procedures in order to better describe the Package registration process and to provide a more formal review and feedback process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

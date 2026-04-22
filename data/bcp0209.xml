@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP209" target="https://www.rfc-editor.org/info/bcp209">
+  <reference anchor="RFC9609" target="https://www.rfc-editor.org/info/rfc9609">
+    <front>
+      <title>Initializing a DNS Resolver with Priming Queries</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9609"/>
+      <seriesInfo name="BCP" value="209"/>
+      <seriesInfo name="RFC" value="9609"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Koch" fullname="P. Koch"/>
+      <author initials="M." surname="Larson" fullname="M. Larson"/>
+      <author initials="P." surname="Hoffman" fullname="P. Hoffman"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="February" year="2025"></date>
+      <workgroup>Domain Name System Operations</workgroup>
+      <keyword>DNS caching</keyword>
+      <keyword>root zone</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the queries that a DNS resolver should emit to initialize its cache. The result is that the resolver gets both a current NS resource record set (RRset) for the root zone and the necessary address information for reaching the root servers.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 8109.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

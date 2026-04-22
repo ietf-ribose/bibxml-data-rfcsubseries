@@ -1,0 +1,28 @@
+<referencegroup anchor="BCP15" target="https://www.rfc-editor.org/info/bcp15">
+  <reference anchor="RFC2148" target="https://www.rfc-editor.org/info/rfc2148">
+    <front>
+      <title>Deployment of the Internet White Pages Service</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2148"/>
+      <seriesInfo name="BCP" value="15"/>
+      <seriesInfo name="RFC" value="2148"/>
+      <seriesInfo name="IETF"/>
+      <author initials="H." surname="Alvestrand" fullname="H. Alvestrand"/>
+      <author initials="P." surname="Jurg" fullname="P. Jurg"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="September" year="1997"></date>
+      <workgroup>Integrated Directory Services</workgroup>
+      <keyword>X. 500</keyword>
+      <keyword>data structure</keyword>
+      <keyword>naming scheme</keyword>
+      <keyword>IWPS</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the way in which the Internet White Pages Service is best exploited using today's experience, today's protocols, today's products and today's procedures.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

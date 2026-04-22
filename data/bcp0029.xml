@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP29" target="https://www.rfc-editor.org/info/bcp29">
+  <reference anchor="RFC2489" target="https://www.rfc-editor.org/info/rfc2489">
+    <front>
+      <title>Procedure for Defining New DHCP Options</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2489"/>
+      <seriesInfo name="BCP" value="29"/>
+      <seriesInfo name="RFC" value="2489"/>
+      <seriesInfo name="IETF"/>
+      <author initials="R." surname="Droms" fullname="R. Droms"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="January" year="1999"></date>
+      <workgroup>Dynamic Host Configuration</workgroup>
+      <keyword>mutipurpose</keyword>
+      <keyword>internet</keyword>
+      <keyword>mail</keyword>
+      <keyword>extensions</keyword>
+      <abstract>
+        <t>&lt;p&gt;This document describes the procedure for defining new DHCP options.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

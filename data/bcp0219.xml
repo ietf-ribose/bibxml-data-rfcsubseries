@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP219" target="https://www.rfc-editor.org/info/bcp219">
+  <reference anchor="RFC9499" target="https://www.rfc-editor.org/info/rfc9499">
+    <front>
+      <title>DNS Terminology</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9499"/>
+      <seriesInfo name="BCP" value="219"/>
+      <seriesInfo name="RFC" value="9499"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Hoffman" fullname="P. Hoffman"/>
+      <author initials="K." surname="Fujiwara" fullname="K. Fujiwara"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="March" year="2024"></date>
+      <workgroup>Domain Name System Operations</workgroup>
+      <keyword>vocabulary</keyword>
+      <keyword>domain name system</keyword>
+      <abstract>
+        <t>&lt;p&gt;The Domain Name System (DNS) is defined in literally dozens of different RFCs. The terminology used by implementers and developers of DNS protocols, and by operators of DNS systems, has changed in the decades since the DNS was first defined. This document gives current definitions for many of the terms used in the DNS in a single document.&lt;/p&gt;&lt;p&gt;This document updates RFC 2308 by clarifying the definitions of "forwarder" and "QNAME". It obsoletes RFC 8499 by adding multiple terms and clarifications. Comprehensive lists of changed and new definitions can be found in Appendices A and B.&lt;/p&gt;</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>
