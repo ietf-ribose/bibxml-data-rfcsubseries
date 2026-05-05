@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="October" year="2002"></date>
+      <date month="October" year="2002"/>
       <workgroup>Uniform Resource Names</workgroup>
       <keyword>uniform resource identifiers</keyword>
       <abstract>
@@ -35,7 +35,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="December" year="2020"></date>
+      <date month="December" year="2020"/>
       <abstract>
         <t>&lt;p&gt;This document updates RFC 3405 by removing references to the IETF tree from the procedures for requesting that a URI scheme be inserted into the URI.ARPA zone.&lt;/p&gt;</t>
       </abstract>

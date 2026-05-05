@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2020"></date>
+      <date month="April" year="2020"/>
       <workgroup>CURves, Deprecating and a Little more Encryption</workgroup>
       <abstract>
         <t>&lt;p&gt;This document deprecates RC4 in Secure Shell (SSH).  Therefore, this document formally moves RFC 4345 to Historic status.&lt;/p&gt;</t>

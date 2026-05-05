@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2011"></date>
+      <date month="July" year="2011"/>
       <keyword>NLPID</keyword>
       <abstract>
         <t>&lt;p&gt;Some protocols being developed or extended by the IETF make use of the ISO/IEC (International Organization for Standardization / International Electrotechnical Commission) Network Layer Protocol Identifier (NLPID).  This document provides NLPID IANA considerations.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>

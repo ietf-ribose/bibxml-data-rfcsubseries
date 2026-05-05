@@ -17,7 +17,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="August" year="2011"></date>
+      <date month="August" year="2011"/>
       <workgroup>Transport and Services Working Group</workgroup>
       <keyword>IANA</keyword>
       <keyword>transport</keyword>
@@ -45,7 +45,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="August" year="2015"></date>
+      <date month="August" year="2015"/>
       <workgroup>Transport and Services Working Group</workgroup>
       <keyword>tcp</keyword>
       <keyword>udp</keyword>

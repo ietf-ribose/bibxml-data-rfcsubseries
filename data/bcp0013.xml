@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="December" year="2005"></date>
+      <date month="December" year="2005"/>
       <keyword>media</keyword>
       <keyword>types</keyword>
       <keyword>external</keyword>
@@ -42,7 +42,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="January" year="2013"></date>
+      <date month="January" year="2013"/>
       <workgroup>ART Area General Applications Working Group</workgroup>
       <abstract>
         <t>&lt;p&gt;This document defines procedures for the specification and registration of media types for use in HTTP, MIME, and other Internet protocols.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
@@ -56,14 +56,14 @@
       <seriesInfo name="BCP" value="13"/>
       <seriesInfo name="RFC" value="9694"/>
       <seriesInfo name="IETF"/>
-      <author initials="M.J." surname="Dürst" fullname="M.J. Dürst"/>
+      <author initials="M.J." surname="D&#xFC;rst" fullname="M.J. D&#xFC;rst"/>
       <author>
         <organization>RFC Publisher</organization>
       </author>
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2025"></date>
+      <date month="March" year="2025"/>
       <workgroup>Media Type Maintenance</workgroup>
       <keyword>Media Type</keyword>
       <keyword>Top-Level</keyword>

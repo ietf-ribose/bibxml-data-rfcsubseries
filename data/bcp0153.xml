@@ -17,7 +17,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2012"></date>
+      <date month="April" year="2012"/>
       <keyword>shared block</keyword>
       <keyword>CGN</keyword>
       <keyword>NAT</keyword>
@@ -49,7 +49,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2013"></date>
+      <date month="April" year="2013"/>
       <keyword>Internet Protocol</keyword>
       <keyword>space assignments</keyword>
       <abstract>
@@ -74,7 +74,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="June" year="2017"></date>
+      <date month="June" year="2017"/>
       <abstract>
         <t>&lt;p&gt;This memo updates the IANA IPv4 and IPv6 Special-Purpose Address Registries to address issues raised by the definition of a "global" prefix. It also corrects several errors in registry entries to ensure the integrity of the IANA Special-Purpose Address Registries.&lt;/p&gt;&lt;p&gt;This memo updates RFC 6890.&lt;/p&gt;</t>
       </abstract>

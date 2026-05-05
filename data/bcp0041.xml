@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="September" year="2000"></date>
+      <date month="September" year="2000"/>
       <workgroup>Endpoint Congestion Management</workgroup>
       <keyword>end-to-end</keyword>
       <abstract>
@@ -36,7 +36,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2014"></date>
+      <date month="February" year="2014"/>
       <workgroup>Transport and Services Working Group</workgroup>
       <keyword>active queue management</keyword>
       <keyword>aqm</keyword>

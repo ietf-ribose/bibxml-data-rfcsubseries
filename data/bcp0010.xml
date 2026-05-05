@@ -15,7 +15,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2020"></date>
+      <date month="February" year="2020"/>
       <workgroup>IETF Administrative Support Activity 2</workgroup>
       <keyword>IASA</keyword>
       <keyword>IASA 2.0</keyword>
@@ -39,7 +39,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2023"></date>
+      <date month="April" year="2023"/>
       <workgroup>NomCom Eligibility Update</workgroup>
       <keyword>NomCom</keyword>
       <abstract>

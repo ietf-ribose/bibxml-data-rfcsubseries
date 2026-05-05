@@ -15,7 +15,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2020"></date>
+      <date month="February" year="2020"/>
       <workgroup>Web Authorization Protocol</workgroup>
       <keyword>JSON Web Token</keyword>
       <keyword>JWT</keyword>

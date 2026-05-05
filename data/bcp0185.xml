@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="January" year="2014"></date>
+      <date month="January" year="2014"/>
       <workgroup>Secure Inter-Domain Routing</workgroup>
       <abstract>
         <t>&lt;p&gt;Deployment of BGP origin validation that is based on the Resource Public Key Infrastructure (RPKI) has many operational considerations.  This document attempts to collect and present those that are most critical.  It is expected to evolve as RPKI-based origin validation continues to be deployed and the dynamics are better understood.&lt;/p&gt;</t>
@@ -38,7 +38,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="October" year="2022"></date>
+      <date month="October" year="2022"/>
       <workgroup>SIDR Operations</workgroup>
       <keyword>Secure Internet routing</keyword>
       <keyword>Resource public key infrastructure</keyword>

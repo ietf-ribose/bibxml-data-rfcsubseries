@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2000"></date>
+      <date month="March" year="2000"/>
       <keyword>internet</keyword>
       <keyword>assigned</keyword>
       <keyword>numbers</keyword>
@@ -40,7 +40,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2008"></date>
+      <date month="February" year="2008"/>
       <keyword>ipv4 header</keyword>
       <keyword>next header field</keyword>
       <keyword>internet</keyword>

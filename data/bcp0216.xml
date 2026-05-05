@@ -15,7 +15,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2026"></date>
+      <date month="March" year="2026"/>
       <workgroup>Network Modeling</workgroup>
       <keyword>NETCONF</keyword>
       <keyword>RESTCONF</keyword>

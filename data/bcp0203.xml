@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2016"></date>
+      <date month="February" year="2016"/>
       <abstract>
         <t>&lt;p&gt;The registration policy for the "Network Configuration Protocol (NETCONF) Capability URNs" registry, set up by RFC 6241, has turned out to be unnecessarily strict.  This document changes that registration policy to "IETF Review", allowing registrations from certain well-reviewed Experimental RFCs, in addition to Standards Track RFCs.&lt;/p&gt;</t>
       </abstract>

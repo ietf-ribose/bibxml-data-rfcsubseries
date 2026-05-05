@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2003"></date>
+      <date month="July" year="2003"/>
       <keyword>RFC</keyword>
       <keyword>Request for Comment </keyword>
       <keyword>Security Considerations</keyword>
@@ -38,7 +38,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2023"></date>
+      <date month="July" year="2023"/>
       <keyword>security</keyword>
       <keyword>vulnerability</keyword>
       <keyword>algorithm</keyword>

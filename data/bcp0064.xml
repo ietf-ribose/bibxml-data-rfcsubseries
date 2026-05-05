@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="June" year="2006"></date>
+      <date month="June" year="2006"/>
       <workgroup>LDAP (v3) Revision</workgroup>
       <abstract>
         <t>&lt;p&gt;This document provides procedures for registering extensible elements of the Lightweight Directory Access Protocol (LDAP).  The document also provides guidelines to the Internet Assigned Numbers Authority (IANA) describing conditions under which new values can be assigned.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>

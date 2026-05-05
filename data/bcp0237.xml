@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2023"></date>
+      <date month="February" year="2023"/>
       <workgroup>Domain Name System Operations</workgroup>
       <keyword>DNSSEC</keyword>
       <keyword>DNS Security Extensions</keyword>

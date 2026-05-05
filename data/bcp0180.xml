@@ -16,7 +16,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2013"></date>
+      <date month="February" year="2013"/>
       <workgroup>Dynamic Host Configuration</workgroup>
       <keyword>DHCPv6</keyword>
       <keyword>Redundancy</keyword>

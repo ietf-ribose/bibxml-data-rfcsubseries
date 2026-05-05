@@ -16,7 +16,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="May" year="2000"></date>
+      <date month="May" year="2000"/>
       <keyword>ISOC</keyword>
       <keyword>Internet Society</keyword>
       <keyword>IETF</keyword>
@@ -40,7 +40,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="June" year="2022"></date>
+      <date month="June" year="2022"/>
       <abstract>
         <t>&lt;p&gt;This document updates the IAB Charter (RFC 2850) to be consistent with version 3 of the RFC Editor Model (RFC 9280).&lt;/p&gt;</t>
       </abstract>

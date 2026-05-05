@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="September" year="1998"></date>
+      <date month="September" year="1998"/>
       <workgroup>Process for Organization of Internet Standards ONgoing</workgroup>
       <keyword>BCP</keyword>
       <keyword>WG</keyword>
@@ -40,7 +40,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2016"></date>
+      <date month="March" year="2016"/>
       <keyword>Ombudsman</keyword>
       <keyword>Ombudsperson</keyword>
       <keyword>Ombudsteam</keyword>
@@ -64,7 +64,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2020"></date>
+      <date month="February" year="2020"/>
       <workgroup>IETF Administrative Support Activity 2</workgroup>
       <keyword>Harassment</keyword>
       <keyword>Ombudsteam</keyword>

@@ -15,7 +15,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="August" year="2006"></date>
+      <date month="August" year="2006"/>
       <workgroup>MBONE Deployment</workgroup>
       <keyword>pim-sm</keyword>
       <keyword>protocol independent multicast sparse mode</keyword>

@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="October" year="1996"></date>
+      <date month="October" year="1996"/>
       <workgroup>Poised 95</workgroup>
       <keyword>Protocols</keyword>
       <keyword>copyrights</keyword>
@@ -39,7 +39,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="September" year="2009"></date>
+      <date month="September" year="2009"/>
       <keyword>rfc2026</keyword>
       <keyword>2026</keyword>
       <keyword>guidance</keyword>
@@ -69,7 +69,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="October" year="2011"></date>
+      <date month="October" year="2011"/>
       <abstract>
         <t>&lt;p&gt;This document updates the Internet Engineering Task Force (IETF) Standards Process defined in RFC 2026.  Primarily, it reduces the Standards Process from three Standards Track maturity levels to two.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
       </abstract>
@@ -89,7 +89,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="December" year="2013"></date>
+      <date month="December" year="2013"/>
       <abstract>
         <t>&lt;p&gt;This document updates RFC 2026 to no longer use STD 1 as a summary of "Internet Official Protocol Standards".  It obsoletes RFC 5000 and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.&lt;/p&gt;</t>
       </abstract>
@@ -111,7 +111,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="January" year="2014"></date>
+      <date month="January" year="2014"/>
       <keyword>Guidance</keyword>
       <keyword>Standards</keyword>
       <keyword>Standards Process</keyword>
@@ -136,7 +136,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2015"></date>
+      <date month="March" year="2015"/>
       <abstract>
         <t>&lt;p&gt;This document removes a limit on the number of Area Directors who manage an Area in the definition of "IETF Area".  This document updates RFC 2026 (BCP 9) and RFC 2418 (BCP 25).&lt;/p&gt;</t>
       </abstract>
@@ -157,7 +157,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="June" year="2020"></date>
+      <date month="June" year="2020"/>
       <keyword>process</keyword>
       <keyword>publication</keyword>
       <abstract>
@@ -179,7 +179,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="June" year="2022"></date>
+      <date month="June" year="2022"/>
       <keyword>Protocols</keyword>
       <keyword>copyrights</keyword>
       <keyword>intellectual</keyword>

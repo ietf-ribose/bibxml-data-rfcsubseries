@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="September" year="2006"></date>
+      <date month="September" year="2006"/>
       <workgroup>Language Tag Registry Update</workgroup>
       <keyword>Lang-Tag</keyword>
       <abstract>
@@ -37,7 +37,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="September" year="2009"></date>
+      <date month="September" year="2009"/>
       <workgroup>Language Tag Registry Update</workgroup>
       <keyword>language tags</keyword>
       <keyword>private interchange</keyword>

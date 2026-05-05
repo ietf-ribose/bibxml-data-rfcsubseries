@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="December" year="2011"></date>
+      <date month="December" year="2011"/>
       <workgroup>Inter-Domain Routing</workgroup>
       <keyword>BGPv4</keyword>
       <keyword>Operator</keyword>

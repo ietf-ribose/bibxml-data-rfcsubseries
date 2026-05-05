@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2004"></date>
+      <date month="March" year="2004"/>
       <keyword>ISP</keyword>
       <keyword>Internet Service Provider</keyword>
       <keyword>Internet Protocol</keyword>
@@ -41,7 +41,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2020"></date>
+      <date month="February" year="2020"/>
       <workgroup>Operational Security Capabilities for IP Network Infrastructure</workgroup>
       <keyword>BGP</keyword>
       <keyword>source address spoofing</keyword>

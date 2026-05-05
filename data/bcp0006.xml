@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="1996"></date>
+      <date month="March" year="1996"/>
       <workgroup>Inter-Domain Routing</workgroup>
       <keyword>routing</keyword>
       <keyword>policy</keyword>
@@ -47,7 +47,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2013"></date>
+      <date month="July" year="2013"/>
       <workgroup>Inter-Domain Routing</workgroup>
       <keyword>asn</keyword>
       <abstract>
@@ -70,7 +70,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2014"></date>
+      <date month="July" year="2014"/>
       <workgroup>Inter-Domain Routing</workgroup>
       <keyword>asn</keyword>
       <keyword>last asns</keyword>

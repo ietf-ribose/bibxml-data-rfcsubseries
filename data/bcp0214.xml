@@ -16,7 +16,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2018"></date>
+      <date month="March" year="2018"/>
       <workgroup>Global Routing Operations</workgroup>
       <keyword>BGP</keyword>
       <keyword>culling</keyword>

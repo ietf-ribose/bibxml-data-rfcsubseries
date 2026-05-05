@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="March" year="2010"></date>
+      <date month="March" year="2010"/>
       <workgroup>Geographic Location/Privacy</workgroup>
       <abstract>
         <t>&lt;p&gt;This document provides a guideline for creating civic address considerations documents for individual countries, as required by RFC 4776.  Furthermore, this document also creates an IANA Registry referring to such address considerations documents and registers such address considerations for Austria.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>

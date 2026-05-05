@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="May" year="2014"></date>
+      <date month="May" year="2014"/>
       <keyword>pervasive monitoring</keyword>
       <abstract>
         <t>&lt;p&gt;Pervasive monitoring is a technical attack that should be mitigated in the design of IETF protocols, where possible.&lt;/p&gt;</t>

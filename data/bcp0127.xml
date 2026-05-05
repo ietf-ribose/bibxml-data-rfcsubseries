@@ -14,7 +14,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="January" year="2007"></date>
+      <date month="January" year="2007"/>
       <workgroup>Behavior Engineering for Hindrance Avoidance</workgroup>
       <keyword>nat</keyword>
       <keyword>sip</keyword>
@@ -42,7 +42,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2013"></date>
+      <date month="April" year="2013"/>
       <workgroup>Behavior Engineering for Hindrance Avoidance</workgroup>
       <keyword>CGN</keyword>
       <keyword>NAT</keyword>
@@ -69,7 +69,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2016"></date>
+      <date month="April" year="2016"/>
       <workgroup>Transport and Services Working Group</workgroup>
       <keyword>address sharing</keyword>
       <keyword>IPv4 service continuity</keyword>

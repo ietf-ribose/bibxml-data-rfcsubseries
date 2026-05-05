@@ -7,7 +7,7 @@
       <seriesInfo name="RFC" value="9096"/>
       <seriesInfo name="IETF"/>
       <author initials="F." surname="Gont" fullname="F. Gont"/>
-      <author initials="J." surname="Žorž" fullname="J. Žorž"/>
+      <author initials="J." surname="&#x17D;or&#x17E;" fullname="J. &#x17D;or&#x17E;"/>
       <author initials="R." surname="Patterson" fullname="R. Patterson"/>
       <author initials="B." surname="Volz" fullname="B. Volz"/>
       <author>
@@ -16,7 +16,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="August" year="2021"></date>
+      <date month="August" year="2021"/>
       <workgroup>IPv6 Operations</workgroup>
       <keyword>IPv6</keyword>
       <keyword>problem</keyword>

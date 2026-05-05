@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="November" year="2020"></date>
+      <date month="November" year="2020"/>
       <workgroup>TCP Maintenance and Minor Extensions</workgroup>
       <keyword>retransmission timeout</keyword>
       <keyword> packet loss</keyword>

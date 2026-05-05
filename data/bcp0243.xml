@@ -13,7 +13,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2025"></date>
+      <date month="July" year="2025"/>
       <workgroup>RADIUS EXTensions</workgroup>
       <abstract>
         <t>&lt;p&gt;This document provides implementation and operational considerations for using TLS Pre-Shared Keys (TLS-PSKs) with RADIUS/TLS (RFC 6614) and RADIUS/DTLS (RFC 7360).  The purpose of the document is to help smooth the operational transition from the use of RADIUS/UDP to RADIUS/TLS.&lt;/p&gt;</t>

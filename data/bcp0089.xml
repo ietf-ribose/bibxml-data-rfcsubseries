@@ -21,7 +21,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="July" year="2004"></date>
+      <date month="July" year="2004"/>
       <workgroup>Performance Implications of Link Characteristics</workgroup>
       <keyword>digital communication equipment</keyword>
       <keyword>link-layer protocols</keyword>
@@ -46,7 +46,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="August" year="2024"></date>
+      <date month="August" year="2024"/>
       <workgroup>Transport and Services Working Group</workgroup>
       <keyword>Congestion Control and Management</keyword>
       <keyword>Congestion Notification</keyword>

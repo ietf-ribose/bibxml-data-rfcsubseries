@@ -16,7 +16,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="February" year="2012"></date>
+      <date month="February" year="2012"/>
       <workgroup>Secure Inter-Domain Routing</workgroup>
       <keyword>Certification Practice Statement</keyword>
       <keyword>CPS</keyword>
@@ -41,7 +41,7 @@
       <author>
         <organization>RFC Series</organization>
       </author>
-      <date month="April" year="2015"></date>
+      <date month="April" year="2015"/>
       <workgroup>Secure Inter-Domain Routing</workgroup>
       <abstract>
         <t>&lt;p&gt;This document contains a template to be used for creating a Certification Practice Statement (CPS) for an organization that is part of the Resource Public Key Infrastructure (RPKI), e.g., a resource allocation registry or an ISP.&lt;/p&gt;</t>
