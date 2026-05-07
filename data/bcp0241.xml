@@ -24,7 +24,8 @@
       <keyword>IoT security</keyword>
       <keyword>Device Identity</keyword>
       <abstract>
-        <t>&lt;p&gt;This document details considerations about how Internet of Things (IoT) devices use IP addresses and DNS names. These concerns become acute as network operators begin deploying Manufacturer Usage Descriptions (MUD), as specified in RFC 8520, to control device access.&lt;/p&gt;&lt;p&gt;Also, this document makes recommendations on when and how to use DNS names in MUD files.&lt;/p&gt;</t>
+        <t>This document details considerations about how Internet of Things (IoT) devices use IP addresses and DNS names. These concerns become acute as network operators begin deploying Manufacturer Usage Descriptions (MUD), as specified in RFC 8520, to control device access.</t>
+        <t>Also, this document makes recommendations on when and how to use DNS names in MUD files.</t>
       </abstract>
     </front>
   </reference>

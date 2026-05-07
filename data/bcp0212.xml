@@ -17,7 +17,7 @@
       <date month="October" year="2017"/>
       <workgroup>Web Authorization Protocol</workgroup>
       <abstract>
-        <t>&lt;p&gt;OAuth 2.0 authorization requests from native apps should only be made through external user-agents, primarily the user's browser.  This specification details the security and usability reasons why this is the case and how native apps and authorization servers can implement this best practice.&lt;/p&gt;</t>
+        <t>OAuth 2.0 authorization requests from native apps should only be made through external user-agents, primarily the user's browser.  This specification details the security and usability reasons why this is the case and how native apps and authorization servers can implement this best practice.</t>
       </abstract>
     </front>
   </reference>

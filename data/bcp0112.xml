@@ -19,7 +19,7 @@
       <keyword>lsa</keyword>
       <keyword>link state advertisement</keyword>
       <abstract>
-        <t>&lt;p&gt;This document recommends methods that are intended to improve the scalability and stability of large networks using Open Shortest Path First (OSPF) Version 2 protocol.  The methods include processing OSPF Hellos and Link State Advertisement (LSA) Acknowledgments at a higher priority compared to other OSPF packets, and other congestion avoidance procedures.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This document recommends methods that are intended to improve the scalability and stability of large networks using Open Shortest Path First (OSPF) Version 2 protocol.  The methods include processing OSPF Hellos and Link State Advertisement (LSA) Acknowledgments at a higher priority compared to other OSPF packets, and other congestion avoidance procedures.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

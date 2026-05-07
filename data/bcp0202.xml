@@ -17,7 +17,7 @@
       <date month="February" year="2016"/>
       <workgroup>IPv6 Operations</workgroup>
       <abstract>
-        <t>&lt;p&gt;Frequent Router Advertisement messages can severely impact host power consumption.  This document recommends operational practices to avoid such impact.&lt;/p&gt;</t>
+        <t>Frequent Router Advertisement messages can severely impact host power consumption.  This document recommends operational practices to avoid such impact.</t>
       </abstract>
     </front>
   </reference>

@@ -19,7 +19,7 @@
       <keyword>RCODE</keyword>
       <keyword>AFSDB</keyword>
       <abstract>
-        <t>&lt;p&gt;This document specifies Internet Assigned Numbers Authority (IANA) parameter assignment considerations for the allocation of Domain Name System (DNS) resource record types, CLASSes, operation codes, error codes, DNS protocol message header bits, and AFSDB resource record subtypes.  It obsoletes RFC 6195 and updates RFCs 1183, 2845, 2930, and 3597.&lt;/p&gt;</t>
+        <t>This document specifies Internet Assigned Numbers Authority (IANA) parameter assignment considerations for the allocation of Domain Name System (DNS) resource record types, CLASSes, operation codes, error codes, DNS protocol message header bits, and AFSDB resource record subtypes.  It obsoletes RFC 6195 and updates RFCs 1183, 2845, 2930, and 3597.</t>
       </abstract>
     </front>
   </reference>

@@ -23,7 +23,7 @@
       <keyword>Uniform Resource Identifier</keyword>
       <keyword>URI registration</keyword>
       <abstract>
-        <t>&lt;p&gt;This document updates the guidelines and recommendations, as well as the IANA registration processes, for the definition of Uniform Resource Identifier (URI) schemes.  It obsoletes RFC 4395.&lt;/p&gt;</t>
+        <t>This document updates the guidelines and recommendations, as well as the IANA registration processes, for the definition of Uniform Resource Identifier (URI) schemes.  It obsoletes RFC 4395.</t>
       </abstract>
     </front>
   </reference>

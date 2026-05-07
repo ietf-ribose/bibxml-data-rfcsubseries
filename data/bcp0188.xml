@@ -17,7 +17,7 @@
       <date month="May" year="2014"/>
       <keyword>pervasive monitoring</keyword>
       <abstract>
-        <t>&lt;p&gt;Pervasive monitoring is a technical attack that should be mitigated in the design of IETF protocols, where possible.&lt;/p&gt;</t>
+        <t>Pervasive monitoring is a technical attack that should be mitigated in the design of IETF protocols, where possible.</t>
       </abstract>
     </front>
   </reference>

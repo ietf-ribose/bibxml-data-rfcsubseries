@@ -26,7 +26,7 @@
       <keyword>task</keyword>
       <keyword>force</keyword>
       <abstract>
-        <t>&lt;p&gt;This document specifies the process which the IESG will use to determine if a MIB specification document meets these requirements.  It also discusses the rationale for this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This document specifies the process which the IESG will use to determine if a MIB specification document meets these requirements.  It also discusses the rationale for this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

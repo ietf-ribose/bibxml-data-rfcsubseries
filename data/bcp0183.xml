@@ -18,7 +18,7 @@
       <keyword>examples</keyword>
       <keyword>documentation</keyword>
       <abstract>
-        <t>&lt;p&gt;This document defines a Uniform Resource Name (URN) namespace identifier enabling the generation of URNs that are appropriate for use in documentation and in URN-related testing and experimentation.&lt;/p&gt;</t>
+        <t>This document defines a Uniform Resource Name (URN) namespace identifier enabling the generation of URNs that are appropriate for use in documentation and in URN-related testing and experimentation.</t>
       </abstract>
     </front>
   </reference>

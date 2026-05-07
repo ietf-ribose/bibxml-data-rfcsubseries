@@ -18,7 +18,7 @@
       <keyword>SIP</keyword>
       <keyword>Session Initiation Protocol</keyword>
       <abstract>
-        <t>&lt;p&gt;This document creates an Internet Assigned Number Authority (IANA) registry for the Session Initiation Protocol (SIP) header field parameters and parameter values.  It also lists the already existing parameters and parameter values to be used as the initial entries for this registry.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This document creates an Internet Assigned Number Authority (IANA) registry for the Session Initiation Protocol (SIP) header field parameters and parameter values.  It also lists the already existing parameters and parameter values to be used as the initial entries for this registry.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

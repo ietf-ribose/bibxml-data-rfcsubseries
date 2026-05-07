@@ -21,7 +21,7 @@
       <keyword>agents</keyword>
       <keyword>sendmail</keyword>
       <abstract>
-        <t>&lt;p&gt;This memo gives a number of implementation recommendations for SMTP, MTAs (Mail Transfer Agents, e.g.  sendmail,) to make them more capable of reducing the impact of spam.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This memo gives a number of implementation recommendations for SMTP, MTAs (Mail Transfer Agents, e.g.  sendmail,) to make them more capable of reducing the impact of spam.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

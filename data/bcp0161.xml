@@ -20,7 +20,8 @@
       <date month="June" year="2011"/>
       <workgroup>Operations and Management Area Working Group</workgroup>
       <abstract>
-        <t>&lt;p&gt;At first glance, the acronym "OAM" seems to be well-known and well-understood. Looking at the acronym a bit more closely reveals a set of recurring problems that are revisited time and again.&lt;/p&gt;&lt;p&gt;This document provides a definition of the acronym "OAM" (Operations, Administration, and Maintenance) for use in all future IETF documents that refer to OAM. There are other definitions and acronyms that will be discussed while exploring the definition of the constituent parts of the "OAM" term. This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+        <t>At first glance, the acronym "OAM" seems to be well-known and well-understood. Looking at the acronym a bit more closely reveals a set of recurring problems that are revisited time and again.</t>
+        <t>This document provides a definition of the acronym "OAM" (Operations, Administration, and Maintenance) for use in all future IETF documents that refer to OAM. There are other definitions and acronyms that will be discussed while exploring the definition of the constituent parts of the "OAM" term. This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
   </reference>

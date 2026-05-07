@@ -24,7 +24,7 @@
       <keyword>protocol</keyword>
       <keyword>parameters</keyword>
       <abstract>
-        <t>&lt;p&gt;This document provides guidance for the Internet Assigned Numbers Authority (IANA) in assigning IPv4 multicast addresses.  It obsoletes RFC 3171 and RFC 3138 and updates RFC 2780.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+        <t>This document provides guidance for the Internet Assigned Numbers Authority (IANA) in assigning IPv4 multicast addresses.  It obsoletes RFC 3171 and RFC 3138 and updates RFC 2780.  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
   </reference>

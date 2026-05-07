@@ -18,7 +18,7 @@
       <date month="July" year="2018"/>
       <workgroup>Interactive Connectivity Establishment</workgroup>
       <abstract>
-        <t>&lt;p&gt;This document provides guidelines on how to make Interactive Connectivity Establishment (ICE) conclude faster in multihomed and IPv4/IPv6 dual-stack scenarios where broken paths exist.  The provided guidelines are backward compatible with the original ICE specification (see RFC 5245).&lt;/p&gt;</t>
+        <t>This document provides guidelines on how to make Interactive Connectivity Establishment (ICE) conclude faster in multihomed and IPv4/IPv6 dual-stack scenarios where broken paths exist.  The provided guidelines are backward compatible with the original ICE specification (see RFC 5245).</t>
       </abstract>
     </front>
   </reference>

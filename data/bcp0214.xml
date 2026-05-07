@@ -23,7 +23,7 @@
       <keyword>EBGP</keyword>
       <keyword>sessions</keyword>
       <abstract>
-        <t>&lt;p&gt;This document outlines an approach to mitigate the negative impact on networks resulting from maintenance activities.  It includes guidance for both IP networks and Internet Exchange Points (IXPs).  The approach is to ensure BGP-4 sessions that will be affected by maintenance are forcefully torn down before the actual maintenance activities commence.&lt;/p&gt;</t>
+        <t>This document outlines an approach to mitigate the negative impact on networks resulting from maintenance activities.  It includes guidance for both IP networks and Internet Exchange Points (IXPs).  The approach is to ensure BGP-4 sessions that will be affected by maintenance are forcefully torn down before the actual maintenance activities commence.</t>
       </abstract>
     </front>
   </reference>

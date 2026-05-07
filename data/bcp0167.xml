@@ -26,7 +26,7 @@
       <keyword>sender</keyword>
       <keyword>originator</keyword>
       <abstract>
-        <t>&lt;p&gt;DomainKeys Identified Mail (DKIM) allows an ADministrative Management Domain (ADMD) to assume some responsibility for a message.  Based on deployment experience with DKIM, this document provides guidance for the use of DKIM with scenarios that include Mailing List Managers (MLMs).  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+        <t>DomainKeys Identified Mail (DKIM) allows an ADministrative Management Domain (ADMD) to assume some responsibility for a message.  Based on deployment experience with DKIM, this document provides guidance for the use of DKIM with scenarios that include Mailing List Managers (MLMs).  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
   </reference>

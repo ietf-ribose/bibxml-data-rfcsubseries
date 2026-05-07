@@ -32,7 +32,7 @@
       <keyword>IRR</keyword>
       <keyword>MITM</keyword>
       <abstract>
-        <t>&lt;p&gt;This document makes recommendations regarding the use of unique origin autonomous system numbers (ASNs) per node for globally anycasted critical infrastructure services in order to provide routing system discriminators for a given anycasted prefix.  Network management and monitoring techniques, or other operational mechanisms, may employ this new discriminator in whatever manner best accommodates their operating environment.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+        <t>This document makes recommendations regarding the use of unique origin autonomous system numbers (ASNs) per node for globally anycasted critical infrastructure services in order to provide routing system discriminators for a given anycasted prefix.  Network management and monitoring techniques, or other operational mechanisms, may employ this new discriminator in whatever manner best accommodates their operating environment.  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
   </reference>

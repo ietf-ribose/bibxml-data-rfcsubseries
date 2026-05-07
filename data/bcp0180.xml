@@ -22,7 +22,7 @@
       <keyword>Redundancy</keyword>
       <keyword>Deployment Considerations</keyword>
       <abstract>
-        <t>&lt;p&gt;This document provides information for those wishing to use DHCPv6 to support their deployment of IPv6.  In particular, it discusses the provision of semi-redundant DHCPv6 services.&lt;/p&gt;</t>
+        <t>This document provides information for those wishing to use DHCPv6 to support their deployment of IPv6.  In particular, it discusses the provision of semi-redundant DHCPv6 services.</t>
       </abstract>
     </front>
   </reference>

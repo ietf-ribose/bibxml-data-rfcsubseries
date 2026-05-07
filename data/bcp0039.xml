@@ -22,7 +22,7 @@
       <keyword>IETF</keyword>
       <keyword>IRTF</keyword>
       <abstract>
-        <t>&lt;p&gt;This memo documents the composition, selection, roles, and organization of the Internet Architecture Board.  It replaces RFC 1601.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board.  It replaces RFC 1601.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>
@@ -42,7 +42,7 @@
       </author>
       <date month="June" year="2022"/>
       <abstract>
-        <t>&lt;p&gt;This document updates the IAB Charter (RFC 2850) to be consistent with version 3 of the RFC Editor Model (RFC 9280).&lt;/p&gt;</t>
+        <t>This document updates the IAB Charter (RFC 2850) to be consistent with version 3 of the RFC Editor Model (RFC 9280).</t>
       </abstract>
     </front>
   </reference>

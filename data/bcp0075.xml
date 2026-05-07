@@ -23,7 +23,7 @@
       <keyword>client proxy</keyword>
       <keyword>redirect</keyword>
       <abstract>
-        <t>&lt;p&gt;This document gives examples of Session Initiation Protocol (SIP) call flows.  Elements in these call flows include SIP User Agents and Clients, SIP Proxy and Redirect Servers.  Scenarios include SIP Registration and SIP session establishment.  Call flow diagrams and message details are shown.&lt;/p&gt;</t>
+        <t>This document gives examples of Session Initiation Protocol (SIP) call flows.  Elements in these call flows include SIP User Agents and Clients, SIP Proxy and Redirect Servers.  Scenarios include SIP Registration and SIP session establishment.  Call flow diagrams and message details are shown.</t>
       </abstract>
     </front>
   </reference>

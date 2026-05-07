@@ -18,7 +18,7 @@
       <keyword>policy</keyword>
       <keyword>protocol</keyword>
       <abstract>
-        <t>&lt;p&gt;This memo describes the process for early allocation of code points by IANA from registries for which "Specification Required", "RFC Required", "IETF Review", or "Standards Action" policies apply.  This process can be used to alleviate the problem where code point allocation is needed to facilitate desired or required implementation and deployment experience prior to publication of an RFC, which would normally trigger code point allocation.  The procedures in this document are intended to apply only to IETF Stream documents.&lt;/p&gt;</t>
+        <t>This memo describes the process for early allocation of code points by IANA from registries for which "Specification Required", "RFC Required", "IETF Review", or "Standards Action" policies apply.  This process can be used to alleviate the problem where code point allocation is needed to facilitate desired or required implementation and deployment experience prior to publication of an RFC, which would normally trigger code point allocation.  The procedures in this document are intended to apply only to IETF Stream documents.</t>
       </abstract>
     </front>
   </reference>

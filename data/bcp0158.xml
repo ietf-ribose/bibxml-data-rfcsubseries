@@ -17,7 +17,7 @@
       <date month="March" year="2011"/>
       <workgroup>RADIUS EXTensions</workgroup>
       <abstract>
-        <t>&lt;p&gt;This document provides guidelines for the design of attributes used by the Remote Authentication Dial In User Service (RADIUS) protocol.  It is expected that these guidelines will prove useful to authors and reviewers of future RADIUS attribute specifications, within the IETF as well as other Standards Development Organizations (SDOs).  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+        <t>This document provides guidelines for the design of attributes used by the Remote Authentication Dial In User Service (RADIUS) protocol.  It is expected that these guidelines will prove useful to authors and reviewers of future RADIUS attribute specifications, within the IETF as well as other Standards Development Organizations (SDOs).  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
   </reference>

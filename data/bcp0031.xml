@@ -23,7 +23,7 @@
       <keyword>negotiation</keyword>
       <keyword>mechanism</keyword>
       <abstract>
-        <t>&lt;p&gt;This document defines a registration procedure which uses the Internet Assigned Numbers Authority (IANA) as a central registry for the media feature vocabulary.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This document defines a registration procedure which uses the Internet Assigned Numbers Authority (IANA) as a central registry for the media feature vocabulary.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

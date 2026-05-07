@@ -24,7 +24,7 @@
       <keyword>video</keyword>
       <keyword>codecs</keyword>
       <abstract>
-        <t>&lt;p&gt;This document provides general guidelines aimed at assisting the authors of RTP Payload Format specifications in deciding on good formats.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This document provides general guidelines aimed at assisting the authors of RTP Payload Format specifications in deciding on good formats.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

@@ -22,7 +22,7 @@
       <keyword>Authorization</keyword>
       <keyword>Accounting</keyword>
       <abstract>
-        <t>&lt;p&gt;The Diameter base protocol provides facilities for protocol extensibility enabling the definition of new Diameter applications or modification of existing applications.  This document is a companion document to the Diameter base protocol that further explains and clarifies the rules to extend Diameter.  Furthermore, this document provides guidelines to Diameter application designers reusing/ defining Diameter applications or creating generic Diameter extensions.&lt;/p&gt;</t>
+        <t>The Diameter base protocol provides facilities for protocol extensibility enabling the definition of new Diameter applications or modification of existing applications.  This document is a companion document to the Diameter base protocol that further explains and clarifies the rules to extend Diameter.  Furthermore, this document provides guidelines to Diameter application designers reusing/ defining Diameter applications or creating generic Diameter extensions.</t>
       </abstract>
     </front>
   </reference>

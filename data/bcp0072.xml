@@ -19,7 +19,7 @@
       <keyword>Request for Comment </keyword>
       <keyword>Security Considerations</keyword>
       <abstract>
-        <t>&lt;p&gt;All RFCs are required to have a Security Considerations section.  Historically, such sections have been relatively weak.  This document provides guidelines to RFC authors on how to write a good Security Considerations section.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>All RFCs are required to have a Security Considerations section.  Historically, such sections have been relatively weak.  This document provides guidelines to RFC authors on how to write a good Security Considerations section.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>
@@ -45,7 +45,7 @@
       <keyword>attack</keyword>
       <keyword>fingerprinting</keyword>
       <abstract>
-        <t>&lt;p&gt;Poor selection of transient numerical identifiers in protocols such as the TCP/IP suite has historically led to a number of attacks on implementations, ranging from Denial of Service (DoS) or data injection to information leakages that can be exploited by pervasive monitoring.  Due diligence in the specification of transient numeric identifiers is required even when cryptographic techniques are employed, since these techniques might not mitigate all the associated issues.  This document formally updates RFC 3552, incorporating requirements for transient numeric identifiers, to prevent flaws in future protocols and implementations.&lt;/p&gt;</t>
+        <t>Poor selection of transient numerical identifiers in protocols such as the TCP/IP suite has historically led to a number of attacks on implementations, ranging from Denial of Service (DoS) or data injection to information leakages that can be exploited by pervasive monitoring.  Due diligence in the specification of transient numeric identifiers is required even when cryptographic techniques are employed, since these techniques might not mitigate all the associated issues.  This document formally updates RFC 3552, incorporating requirements for transient numeric identifiers, to prevent flaws in future protocols and implementations.</t>
       </abstract>
     </front>
   </reference>

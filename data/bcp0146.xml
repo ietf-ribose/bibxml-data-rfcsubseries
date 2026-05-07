@@ -17,7 +17,7 @@
       <keyword>internet security</keyword>
       <keyword>security considerations</keyword>
       <abstract>
-        <t>&lt;p&gt;The Security Considerations sections of many Internet Drafts say, in effect, "just use IPsec".  While this is sometimes correct, more often it will leave users without real, interoperable security mechanisms.  This memo offers some guidance on when IPsec Version 2 should and should not be specified.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>The Security Considerations sections of many Internet Drafts say, in effect, "just use IPsec".  While this is sometimes correct, more often it will leave users without real, interoperable security mechanisms.  This memo offers some guidance on when IPsec Version 2 should and should not be specified.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>

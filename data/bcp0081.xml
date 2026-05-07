@@ -17,7 +17,7 @@
       <keyword>XML</keyword>
       <keyword>extensible markup language</keyword>
       <abstract>
-        <t>&lt;p&gt;This document describes an IANA maintained registry for IETF standards which use Extensible Markup Language (XML) related items such as Namespaces, Document Type Declarations (DTDs), Schemas, and Resource Description Framework (RDF) Schemas.&lt;/p&gt;</t>
+        <t>This document describes an IANA maintained registry for IETF standards which use Extensible Markup Language (XML) related items such as Namespaces, Document Type Declarations (DTDs), Schemas, and Resource Description Framework (RDF) Schemas.</t>
       </abstract>
     </front>
   </reference>

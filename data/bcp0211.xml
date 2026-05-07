@@ -20,7 +20,7 @@
       <keyword>Routing</keyword>
       <keyword>Security</keyword>
       <abstract>
-        <t>&lt;p&gt;Deployment of the BGPsec architecture and protocols has many operational considerations.  This document attempts to collect and present the most critical and universal.  Operational practices are expected to evolve as BGPsec is formalized and initially deployed.&lt;/p&gt;</t>
+        <t>Deployment of the BGPsec architecture and protocols has many operational considerations.  This document attempts to collect and present the most critical and universal.  Operational practices are expected to evolve as BGPsec is formalized and initially deployed.</t>
       </abstract>
     </front>
   </reference>

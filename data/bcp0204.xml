@@ -30,7 +30,7 @@
       <keyword>Address Assignment</keyword>
       <keyword>Addressing</keyword>
       <abstract>
-        <t>&lt;p&gt;This document recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so.&lt;/p&gt;</t>
+        <t>This document recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so.</t>
       </abstract>
     </front>
   </reference>

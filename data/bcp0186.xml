@@ -18,7 +18,7 @@
       <date month="February" year="2014"/>
       <workgroup>Operational Security Capabilities for IP Network Infrastructure</workgroup>
       <abstract>
-        <t>&lt;p&gt;This document provides advice on the filtering of IPv4 packets based on the IPv4 options they contain.  Additionally, it discusses the operational and interoperability implications of dropping packets based on the IP options they contain.&lt;/p&gt;</t>
+        <t>This document provides advice on the filtering of IPv4 packets based on the IPv4 options they contain.  Additionally, it discusses the operational and interoperability implications of dropping packets based on the IP options they contain.</t>
       </abstract>
     </front>
   </reference>

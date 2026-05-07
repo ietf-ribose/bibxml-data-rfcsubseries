@@ -29,7 +29,7 @@
       <keyword>BGP</keyword>
       <keyword>IDRP</keyword>
       <abstract>
-        <t>&lt;p&gt;This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>
@@ -51,7 +51,7 @@
       <workgroup>Inter-Domain Routing</workgroup>
       <keyword>asn</keyword>
       <abstract>
-        <t>&lt;p&gt;This document describes the reservation of Autonomous System Numbers (ASNs) that are for Private Use only, known as Private Use ASNs, and provides operational guidance on their use.  This document enlarges the total space available for Private Use ASNs by documenting the reservation of a second, larger range and updates RFC 1930 by replacing Section 10 of that document.&lt;/p&gt;</t>
+        <t>This document describes the reservation of Autonomous System Numbers (ASNs) that are for Private Use only, known as Private Use ASNs, and provides operational guidance on their use.  This document enlarges the total space available for Private Use ASNs by documenting the reservation of a second, larger range and updates RFC 1930 by replacing Section 10 of that document.</t>
       </abstract>
     </front>
   </reference>
@@ -75,7 +75,7 @@
       <keyword>asn</keyword>
       <keyword>last asns</keyword>
       <abstract>
-        <t>&lt;p&gt;This document reserves two Autonomous System Numbers (ASNs) at the end of the 16-bit and 32-bit ranges, described in this document as "Last ASNs", and provides guidance to implementers and operators on their use.  This document updates Section 10 of RFC 1930.&lt;/p&gt;</t>
+        <t>This document reserves two Autonomous System Numbers (ASNs) at the end of the 16-bit and 32-bit ranges, described in this document as "Last ASNs", and provides guidance to implementers and operators on their use.  This document updates Section 10 of RFC 1930.</t>
       </abstract>
     </front>
   </reference>

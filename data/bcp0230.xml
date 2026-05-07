@@ -23,7 +23,8 @@
       <keyword>IPv6</keyword>
       <keyword>Fragmentation</keyword>
       <abstract>
-        <t>&lt;p&gt;This document describes IP fragmentation and explains how it introduces fragility to Internet communication.&lt;/p&gt;&lt;p&gt;This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators.&lt;/p&gt;</t>
+        <t>This document describes IP fragmentation and explains how it introduces fragility to Internet communication.</t>
+        <t>This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators.</t>
       </abstract>
     </front>
   </reference>

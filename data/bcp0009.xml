@@ -20,7 +20,7 @@
       <keyword>intellectual</keyword>
       <keyword>property</keyword>
       <abstract>
-        <t>&lt;p&gt;This memo documents the process used by the Internet community for the standardization of protocols and procedures.  It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>This memo documents the process used by the Internet community for the standardization of protocols and procedures.  It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>
@@ -49,7 +49,7 @@
       <keyword>advancement</keyword>
       <keyword>draft standard</keyword>
       <abstract>
-        <t>&lt;p&gt;Advancing a protocol to Draft Standard requires documentation of the interoperation and implementation of the protocol.  Historic reports have varied widely in form and level of content and there is little guidance available to new report preparers.  This document updates the existing processes and provides more detail on what is appropriate in an interoperability and implementation report.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+        <t>Advancing a protocol to Draft Standard requires documentation of the interoperation and implementation of the protocol.  Historic reports have varied widely in form and level of content and there is little guidance available to new report preparers.  This document updates the existing processes and provides more detail on what is appropriate in an interoperability and implementation report.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
       </abstract>
     </front>
   </reference>
@@ -71,7 +71,7 @@
       </author>
       <date month="October" year="2011"/>
       <abstract>
-        <t>&lt;p&gt;This document updates the Internet Engineering Task Force (IETF) Standards Process defined in RFC 2026.  Primarily, it reduces the Standards Process from three Standards Track maturity levels to two.  This memo documents an Internet Best Current Practice.&lt;/p&gt;</t>
+        <t>This document updates the Internet Engineering Task Force (IETF) Standards Process defined in RFC 2026.  Primarily, it reduces the Standards Process from three Standards Track maturity levels to two.  This memo documents an Internet Best Current Practice.</t>
       </abstract>
     </front>
   </reference>
@@ -91,7 +91,7 @@
       </author>
       <date month="December" year="2013"/>
       <abstract>
-        <t>&lt;p&gt;This document updates RFC 2026 to no longer use STD 1 as a summary of "Internet Official Protocol Standards".  It obsoletes RFC 5000 and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.&lt;/p&gt;</t>
+        <t>This document updates RFC 2026 to no longer use STD 1 as a summary of "Internet Official Protocol Standards".  It obsoletes RFC 5000 and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.</t>
       </abstract>
     </front>
   </reference>
@@ -118,7 +118,7 @@
       <keyword>Advancement</keyword>
       <keyword>Proposed Standard</keyword>
       <abstract>
-        <t>&lt;p&gt;RFC 2026 describes the review performed by the Internet Engineering Steering Group (IESG) on IETF Proposed Standard RFCs and characterizes the maturity level of those documents.  This document updates RFC 2026 by providing a current and more accurate characterization of Proposed Standards.&lt;/p&gt;</t>
+        <t>RFC 2026 describes the review performed by the Internet Engineering Steering Group (IESG) on IETF Proposed Standard RFCs and characterizes the maturity level of those documents.  This document updates RFC 2026 by providing a current and more accurate characterization of Proposed Standards.</t>
       </abstract>
     </front>
   </reference>
@@ -138,7 +138,7 @@
       </author>
       <date month="March" year="2015"/>
       <abstract>
-        <t>&lt;p&gt;This document removes a limit on the number of Area Directors who manage an Area in the definition of "IETF Area".  This document updates RFC 2026 (BCP 9) and RFC 2418 (BCP 25).&lt;/p&gt;</t>
+        <t>This document removes a limit on the number of Area Directors who manage an Area in the definition of "IETF Area".  This document updates RFC 2026 (BCP 9) and RFC 2418 (BCP 25).</t>
       </abstract>
     </front>
   </reference>
@@ -161,7 +161,7 @@
       <keyword>process</keyword>
       <keyword>publication</keyword>
       <abstract>
-        <t>&lt;p&gt;This document requires that the IETF never publish any IETF Stream RFCs without IETF rough consensus.  This updates RFC 2026.&lt;/p&gt;</t>
+        <t>This document requires that the IETF never publish any IETF Stream RFCs without IETF rough consensus.  This updates RFC 2026.</t>
       </abstract>
     </front>
   </reference>
@@ -185,7 +185,7 @@
       <keyword>intellectual</keyword>
       <keyword>property</keyword>
       <abstract>
-        <t>&lt;p&gt;In RFC 9280, responsibility for the RFC Series moved to the RFC Series Working Group and the RFC Series Approval Board.  It is no longer the responsibility of the RFC Editor, and the role of the IAB in the RFC Series is altered.  Accordingly, in Section 2.1 of RFC 2026, the sentence "RFC publication is the direct responsibility of the RFC Editor, under the general direction of the IAB" is deleted.&lt;/p&gt;</t>
+        <t>In RFC 9280, responsibility for the RFC Series moved to the RFC Series Working Group and the RFC Series Approval Board.  It is no longer the responsibility of the RFC Editor, and the role of the IAB in the RFC Series is altered.  Accordingly, in Section 2.1 of RFC 2026, the sentence "RFC publication is the direct responsibility of the RFC Editor, under the general direction of the IAB" is deleted.</t>
       </abstract>
     </front>
   </reference>
