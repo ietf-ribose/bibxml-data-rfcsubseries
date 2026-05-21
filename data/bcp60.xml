@@ -1,0 +1,33 @@
+<referencegroup anchor="BCP60" target="https://www.rfc-editor.org/info/bcp60">
+  <reference anchor="RFC3360" target="https://www.rfc-editor.org/info/rfc3360">
+    <front>
+      <title>Inappropriate TCP Resets Considered Harmful</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3360"/>
+      <seriesInfo name="BCP" value="60"/>
+      <seriesInfo name="RFC" value="3360"/>
+      <seriesInfo name="Legacy"/>
+      <author initials="S." surname="Floyd" fullname="S. Floyd"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2002"/>
+      <keyword>transmission control protocol</keyword>
+      <keyword>rst</keyword>
+      <keyword>bit</keyword>
+      <keyword>connection</keyword>
+      <abstract>
+        <t>This document is being written because there are a number of
+firewalls in the Internet that inappropriately reset a TCP connection
+upon receiving certain TCP SYN packets, in particular, packets with
+flags set in the Reserved field of the TCP header.  In this document
+we argue that this practice is not conformant with TCP standards, and
+is an inappropriate overloading of the semantics of the TCP reset.
+We also consider the longer-term consequences of this and similar
+actions as obstacles to the evolution of the Internet infrastructure.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

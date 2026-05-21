@@ -1,0 +1,33 @@
+<referencegroup anchor="BCP63" target="https://www.rfc-editor.org/info/bcp63">
+  <reference anchor="RFC3372" target="https://www.rfc-editor.org/info/rfc3372">
+    <front>
+      <title>Session Initiation Protocol for Telephones (SIP-T): Context and Architectures</title>
+      <seriesInfo name="DOI" value="10.17487/RFC3372"/>
+      <seriesInfo name="BCP" value="63"/>
+      <seriesInfo name="RFC" value="3372"/>
+      <seriesInfo name="IETF"/>
+      <author initials="A." surname="Vemuri" fullname="A. Vemuri"/>
+      <author initials="J." surname="Peterson" fullname="J. Peterson"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="September" year="2002"/>
+      <workgroup>Session Initiation Proposal Investigation</workgroup>
+      <keyword>pstn</keyword>
+      <keyword>public switch telephone network</keyword>
+      <abstract>
+        <t>The popularity of gateways that interwork between the PSTN (Public
+Switched Telephone Network) and SIP networks has motivated the
+publication of a set ofcommon practices that can assure consistent
+behavior across implementations.  This document taxonomizes the uses
+of PSTN-SIP gateways, provides uses  cases, and identifies mechanisms
+necessary for interworking.  The mechanisms detail how SIP provides
+for both 'encapsulation' (carriage of PSTN signaling across a SIP
+network) and 'translation' (protocol mapping).</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>

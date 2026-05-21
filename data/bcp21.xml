@@ -1,0 +1,39 @@
+<referencegroup anchor="BCP21" target="https://www.rfc-editor.org/info/bcp21">
+  <reference anchor="RFC2350" target="https://www.rfc-editor.org/info/rfc2350">
+    <front>
+      <title>Expectations for Computer Security Incident Response</title>
+      <seriesInfo name="DOI" value="10.17487/RFC2350"/>
+      <seriesInfo name="BCP" value="21"/>
+      <seriesInfo name="RFC" value="2350"/>
+      <seriesInfo name="IETF"/>
+      <author initials="N." surname="Brownlee" fullname="N. Brownlee"/>
+      <author initials="E." surname="Guttman" fullname="E. Guttman"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="1998"/>
+      <workgroup>G &amp; R for Security Incident Processing</workgroup>
+      <keyword>CSIRT</keyword>
+      <keyword>guidelines</keyword>
+      <keyword>user</keyword>
+      <abstract>
+        <t>The purpose of this document is to express the general Internet
+   community's expectations of Computer Security Incident Response
+   Teams (CSIRTs). It is not possible to define a set of requirements
+   that would be appropriate for all teams, but it is possible and
+   helpful to list and describe the general set of topics and issues
+   which are of concern and interest to constituent communities.
+
+   CSIRT constituents have a legitimate need and right to fully
+   understand the policies and procedures of 'their' Computer Security
+   Incident Response Team.  One way to support this understanding is to
+   supply detailed information which users may consider, in the form of
+   a formal template completed by the CSIRT.  An outline of such a
+   template and a filled in example are provided.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>
