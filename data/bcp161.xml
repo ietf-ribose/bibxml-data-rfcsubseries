@@ -25,4 +25,29 @@
       </abstract>
     </front>
   </reference>
+  <reference anchor="RFC10014" target="https://www.rfc-editor.org/info/rfc10014">
+    <front>
+      <title>Guidelines for Characterizing the Term "OAM"</title>
+      <seriesInfo name="DOI" value="10.17487/RFC10014"/>
+      <seriesInfo name="BCP" value="161"/>
+      <seriesInfo name="RFC" value="10014"/>
+      <seriesInfo name="IETF"/>
+      <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+      <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+      <author initials="T." surname="Mizrahi" fullname="T. Mizrahi"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="June" year="2026"/>
+      <workgroup>Operations and Management Area Working Group</workgroup>
+      <abstract>
+        <t>As the IETF continues to produce and standardize different Operations, Administration, and Maintenance (OAM) protocols and technologies, various qualifiers and modifiers are prepended to the OAM abbreviation. While, at first glance, the most used qualifiers appear to be well understood, the same qualifier may be interpreted differently in different contexts. A case in point is the qualifiers "in-band" and "out-of-band", which have their origins in the radio lexicon, and which have been extrapolated into other communication networks. This document recommends not to use these two terms when referring to OAM.</t>
+        <t>This document considers some common qualifiers and modifiers that are prepended, within the context of packet networks, to the OAM abbreviation and lays out guidelines for their use in IETF documents.</t>
+        <t>This document extends RFC 6291 by adding to the guidelines for the use of the term "OAM" with qualifiers. It does not modify any part of RFC 6291.</t>
+      </abstract>
+    </front>
+  </reference>
 </referencegroup>
