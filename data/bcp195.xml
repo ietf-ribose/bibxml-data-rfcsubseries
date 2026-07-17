@@ -51,4 +51,32 @@
       </abstract>
     </front>
   </reference>
+  <reference anchor="RFC9852" target="https://www.rfc-editor.org/info/rfc9852">
+    <front>
+      <title>New Protocols Using TLS Must Require TLS 1.3</title>
+      <seriesInfo name="DOI" value="10.17487/RFC9852"/>
+      <seriesInfo name="BCP" value="195"/>
+      <seriesInfo name="RFC" value="9852"/>
+      <seriesInfo name="IETF"/>
+      <author initials="R." surname="Salz" fullname="R. Salz"/>
+      <author initials="N." surname="Aviram" fullname="N. Aviram"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2026"/>
+      <workgroup>Using TLS in Applications</workgroup>
+      <keyword>TLS</keyword>
+      <keyword>TLS Transition</keyword>
+      <keyword>TLS Support</keyword>
+      <keyword>Interoperability</keyword>
+      <keyword>features</keyword>
+      <abstract>
+        <t>TLS 1.3 is widely used, has had comprehensive security proofs, and improves both security and privacy deficiencies in TLS 1.2. Therefore, new protocols that use TLS must require TLS 1.3. As DTLS 1.3 is not widely available or deployed, this prescription does not pertain to DTLS (in any DTLS version); it pertains to TLS only.</t>
+        <t>This document updates RFC 9325. It discusses post-quantum cryptography and the security and privacy improvements in TLS 1.3 as the rationale for the update.</t>
+      </abstract>
+    </front>
+  </reference>
 </referencegroup>
