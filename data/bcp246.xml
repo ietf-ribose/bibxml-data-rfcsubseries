@@ -1,0 +1,26 @@
+<referencegroup anchor="BCP246" target="https://www.rfc-editor.org/info/bcp246">
+  <reference anchor="RFC10026" target="https://www.rfc-editor.org/info/rfc10026">
+    <front>
+      <title>Operational Recommendations for DNSSEC Delegation Signer (DS) Automation</title>
+      <seriesInfo name="DOI" value="10.17487/RFC10026"/>
+      <seriesInfo name="BCP" value="246"/>
+      <seriesInfo name="RFC" value="10026"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Sheng" fullname="S. Sheng"/>
+      <author initials="P." surname="Thomassen" fullname="P. Thomassen"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="July" year="2026"/>
+      <workgroup>Domain Name System Operations</workgroup>
+      <keyword>DNS</keyword>
+      <keyword>DS</keyword>
+      <abstract>
+        <t>Enabling support for automatic acceptance of DNSSEC Delegation Signer (DS) parameters from the Child DNS operator (via RFCs 7344, 8078, and 9615) requires the Parental Agent, often a registry or registrar, to make a number of technical decisions around acceptance checks, error and success reporting, and multi-party issues such as concurrent updates. This document describes recommendations about how these points are best addressed in practice.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>
