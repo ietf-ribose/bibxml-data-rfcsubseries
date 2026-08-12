@@ -24,4 +24,29 @@
       </abstract>
     </front>
   </reference>
+  <reference anchor="RFC10001" target="https://www.rfc-editor.org/info/rfc10001">
+    <front>
+      <title>Operational Guidelines for DNS Transport in Mixed IPv4/IPv6 Environments</title>
+      <seriesInfo name="DOI" value="10.17487/RFC10001"/>
+      <seriesInfo name="BCP" value="91"/>
+      <seriesInfo name="RFC" value="10001"/>
+      <seriesInfo name="IETF"/>
+      <author surname="Momoka" fullname="Momoka"/>
+      <author initials="T." surname="Fiebig" fullname="T. Fiebig"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2026"/>
+      <workgroup>Domain Name System Operations</workgroup>
+      <keyword>DNS</keyword>
+      <keyword>IPv6</keyword>
+      <abstract>
+        <t>This document provides guidelines and documents best current practice for operating authoritative DNS servers, recursive resolvers, and stub resolvers in a mixed IPv4/IPv6 environment. This document recommends that both authoritative DNS servers and recursive resolvers support IPv4 and IPv6. It also provides guidance on how recursive DNS resolvers should select upstream DNS servers, including when IPv4-embedded IPv6 addresses are available.</t>
+        <t>This document obsoletes RFC 3901.</t>
+      </abstract>
+    </front>
+  </reference>
 </referencegroup>

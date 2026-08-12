@@ -1,0 +1,27 @@
+<referencegroup anchor="BCP247" target="https://www.rfc-editor.org/info/bcp247">
+  <reference anchor="RFC10027" target="https://www.rfc-editor.org/info/rfc10027">
+    <front>
+      <title>Best Current Practice for Security of Cross-Device Flows</title>
+      <seriesInfo name="DOI" value="10.17487/RFC10027"/>
+      <seriesInfo name="BCP" value="247"/>
+      <seriesInfo name="RFC" value="10027"/>
+      <seriesInfo name="IETF"/>
+      <author initials="P." surname="Kasselman" fullname="P. Kasselman"/>
+      <author initials="D." surname="Fett" fullname="D. Fett"/>
+      <author initials="F." surname="Skokan" fullname="F. Skokan"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2026"/>
+      <workgroup>Web Authorization Protocol</workgroup>
+      <keyword>security</keyword>
+      <keyword>oauth2</keyword>
+      <abstract>
+        <t>This document describes threats against cross-device flows along with practical mitigations, protocol selection guidance, and a summary of formal analysis results identified as relevant to the security of cross-device flows. It serves as a security guide to system designers, architects, product managers, security specialists, fraud analysts, and engineers implementing cross-device flows.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>
