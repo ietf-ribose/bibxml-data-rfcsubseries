@@ -21,4 +21,31 @@
       </abstract>
     </front>
   </reference>
+  <reference anchor="RFC10017" target="https://www.rfc-editor.org/info/rfc10017">
+    <front>
+      <title>OAuth 2.0 for Browser-Based Applications</title>
+      <seriesInfo name="DOI" value="10.17487/RFC10017"/>
+      <seriesInfo name="BCP" value="212"/>
+      <seriesInfo name="RFC" value="10017"/>
+      <seriesInfo name="IETF"/>
+      <author initials="A." surname="Parecki" fullname="A. Parecki"/>
+      <author initials="P." surname="De Ryck" fullname="P. De Ryck"/>
+      <author initials="D." surname="Waite" fullname="D. Waite"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="August" year="2026"/>
+      <workgroup>Web Authorization Protocol</workgroup>
+      <keyword>JavaScript</keyword>
+      <keyword>JS</keyword>
+      <keyword>Single-Page App</keyword>
+      <keyword>SPA</keyword>
+      <abstract>
+        <t>This specification details the threats, attack consequences, security considerations, and best practices that must be taken into account when developing browser-based applications that use OAuth 2.0.</t>
+      </abstract>
+    </front>
+  </reference>
 </referencegroup>
