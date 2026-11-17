@@ -1,0 +1,23 @@
+<referencegroup anchor="BCP248" target="https://www.rfc-editor.org/info/bcp248">
+  <reference anchor="RFC10091" target="https://www.rfc-editor.org/info/rfc10091">
+    <front>
+      <title>Extension Registry for the Extensible Provisioning Protocol</title>
+      <seriesInfo name="DOI" value="10.17487/RFC10091"/>
+      <seriesInfo name="BCP" value="248"/>
+      <seriesInfo name="RFC" value="10091"/>
+      <seriesInfo name="IETF"/>
+      <author initials="S." surname="Hollenbeck" fullname="S. Hollenbeck"/>
+      <author>
+        <organization>RFC Publisher</organization>
+      </author>
+      <author>
+        <organization>RFC Series</organization>
+      </author>
+      <date month="November" year="2026"/>
+      <workgroup>Registration Protocols Extensions</workgroup>
+      <abstract>
+        <t>The Extensible Provisioning Protocol (EPP) includes features to add functionality by extending the protocol. It does not, however, describe how those extensions are maintained. This document describes a procedure for the registration and management of extensions to EPP, and it specifies a format for an IANA registry to record those extensions. This document obsoletes RFC 7451.</t>
+      </abstract>
+    </front>
+  </reference>
+</referencegroup>
